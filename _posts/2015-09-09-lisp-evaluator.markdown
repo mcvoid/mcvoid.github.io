@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Let's build Lisp"
+title:  "Let's B uild Lisp, Part 1: The Lisp Evaluator"
 date:   2015-09-09 23:41:00
 ---
 So I made a [programming language](http://mcvoid.github.io/voidlisp). It wasn't
@@ -45,7 +45,8 @@ what the results should be rather than what instructions we should write.
 
 So the first thing we need the evaluator to do is to return a primitive value if
 it receives that value in. In this case, any data input to the evaluator is
-going to be called a form. A simple identity function solves this handily.
+going to be called a form. (That's just something I'm calling it, not a proper
+term.) A simple identity function solves this handily.
 
     function evaluate(form) {
       return form;
