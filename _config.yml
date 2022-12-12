@@ -1,8 +1,8 @@
 # Site settings
-title: Sean Wolcott's page
+title: ADHD Basic
 email: mcvoid@mcvoid.org
 description: >
-  Sean's projects and stuff.
+  Basic Rules Variant for Fifth Edition Fantasy Roleplaying
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mcvoid.github.io" # the base hostname & protocol for your site
 github_username:  mcvoid
