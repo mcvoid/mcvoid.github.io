@@ -76,9 +76,9 @@ the Game Master (GM) will prompt a player to make an abliity check vs a
 Difficulty Class (DC). The formula to determine success is as 
 follows:
 
-descriptive
-1d20 + *revelant ability bonus* >= *difficulty class*
-
+```
+1d20 + revelant ability bonus >= difficulty class
+```
 
 The GM determines which ablilty is relevant to the check.
 
@@ -90,10 +90,9 @@ checks done for activities in which a character is
 procifient have the character's proficiency bonus to the 
 roll result.
 
-descriptive
-1d20 + *revelant ability bonus* + *proficiency bonus* >= 
-*difficulty class*
-
+```
+1d20 + revelant ability bonus + proficiency bonus >= difficulty class
+```
 
 The GM determines whether a roll is with proficiency or 
 not.
@@ -169,6 +168,7 @@ An action is the main thing the character does over the course of the round. Con
 
 
 ##### Table 1: Actions
+
 | Action         | Effect                                              |
 |:---------------|:----------------------------------------------------|
 | Attack         | Make a single attack roll                           |
@@ -229,6 +229,7 @@ To affect an unwilling touch target with a spell (such as with inflict wounds) r
 Movement works like money. Each round every character has a budget of 30' of movement to spend. Actions like dash increase the budget. Normally 5' of movement moves your character 5' of distance. In some circumstances, the cost may be more.
 
 In rough terrain, the cost to move 5' of distance is 10' of movement. The following are possible examples of rough terrain, but the decision as to the cost of movement is determined by the GM.
+
 * Soft sand
 * Deep mud
 * Knee-high water
@@ -251,6 +252,7 @@ The following are examples of reactions. Every character has an opportunity atta
 
 
 ##### Table 3: Example Reactions
+
 | Reaction           | Trigger                        | Effect  |
 |:-------------------|:-------------------------------|:--------|
 | Opportunity Attack | Opponent within 5' moves away  | An extra attack can be made before they move |
@@ -273,6 +275,7 @@ Combat is complex, and any number of things can happen in the heat of battle tha
 
 
 ##### Table 4: Example Conditions 
+
 | Situation              | Effect        |
 |:-----------------------|:--------------|
 | Having the high ground | Advantage on attacks on opponents, disadvantage on opponents' attacks |
@@ -327,6 +330,7 @@ character can naturally do different tasks.
 
 
 ##### Table 5: Abilities
+
 | Abilty       | Used for                             |
 |:------------:|:-------------------------------------|
 | Strength     | Melee attacks, feats of might        |
@@ -342,6 +346,7 @@ Abilities determine bonuses to roll ability checks.
 
 
 ##### Table 6: Ability Bonuses
+
 | Score  | Bonus  |
 |:------:|:------:|
 | 3-6    | -2     |
@@ -359,6 +364,7 @@ prior training.
 
 
 ##### Table 7: Example Backgrounds
+
 | Background | +1 to    | Potential Skills               |
 |:----------:|:---------|:-----------------------------|
 | Noble      | Int, Cha | Diplomacy, deception         |
@@ -380,6 +386,7 @@ Classes determine the character archetype.
 
 
 ##### Table 8: Class List
+
 | Class      | Specialty                         |
 |:-----------|:----------------------------------|
 | Cleric     | Divine magic, turn undead         |
@@ -410,6 +417,7 @@ ready to go.
 
 
 ##### Table 9: Starting Numbers
+
 | Number            | Formula                                      |
 |:-----------------:|:---------------------------------------------|
 | Proficiency bonus | +2                                           |
@@ -642,6 +650,7 @@ A character's class is the archetype that they embody. In this game, classes exi
 
 
 ##### Table 11: Quick Summary of CLasses
+
 | Class   | Hit Die type | Weapons & Armor                                             | Saves    |
 |:-------:|:------------:|:------------------------------------------------------------|:---------|
 | Cleric  | d8           | Clubs, maces, and all armor and shields                     | Wis, Cha |
@@ -682,6 +691,7 @@ Below is a list of suggestions as starting points or even drop-in replacements f
 
 
 ##### Table 12: Class Equivalents
+
 | Archetype        | Class   |
 |:-----------------|:--------|
 | Arcane Trickster | Jack    |
@@ -714,6 +724,7 @@ The cleric is a holy servant, on a mission. Clerics cast divine magic, largely d
 
 
 ##### Table 13: Cleric Traits
+
 |                          |                                          |
 |:-------------------------|:-----------------------------------------|
 | Hit dice                 | 1d8                                      |
@@ -753,6 +764,7 @@ A cleric can cast a divine spell from a scroll without memorizing the spell or e
 Beginning at 4th level, a cleric can channel divine power into a single attack roll per turn, granting 1d8 additional damage on a hit. An extra 1d8 of damage is gained at 8th and 12th level.
 
 ##### Table 14: Cleric Abilities by Level and Spell Slots per Tier
+
 | **Level** | Hit Dice | Proficiency Bonus | 1st | 2nd | 3rd | 4th | 5th | 6th | Feature                  |
 |:----------|:---------|:------------------|:----|:----|:----|:----|:----|:----|:-------------------------|
 | 1         | 1d8      | +2                | -   | -   | -   | -   | -   | -   | Turn Undead DC 10 + Cha  |
@@ -783,6 +795,7 @@ the front lines in ways clerics cannot.
 
 
 ##### Table 15: Dwarf Traits
+
 |                          |                                                                  |
 |:-------------------------|:-----------------------------------------------------------------|
 | Hit dice                 | 1d8                                                              |
@@ -862,6 +875,7 @@ The elves have developed their own elegant style of combat, dancing gracefully a
 
 
 ##### Table 17: Elf Traits
+
 |                            |                                          |
 |:---------------------------|:-----------------------------------------|
 | Hit dice                   | 1d6                                      |
@@ -902,6 +916,7 @@ Upon reaching 5th level, an elf can gain a warrior's combat maneuver from Table 
 #### Trait: Weapon Mastery
 
 Upon reaching 6th and 10th level, an elf may select one of the following categories of weapon: Swords, spears, clubs, staves, daggers, or bows. Attacks with that weapon do an extra die of damage. For each additional mastery gained, you may select to either gain mastery in a new category of weapon, or to stack the effect on an already mastered category for yet another die of damage.
+
 ##### Table 18: Elf Abilities by Level and Spell Slots per Tier
 
 | **Level** | Hit Dice | Proficiency Bonus | 1st | 2nd | 3rd | 4th | Feature                        |
@@ -933,6 +948,7 @@ Jacks are, as their name suggest, jacks of all trades. They are competent fighte
 
 
 ##### Table 19: Jack Traits
+
 |                          |                                                  |
 |:-------------------------|:-------------------------------------------------|
 | Hit dice                 | 1d6                                              |
@@ -981,7 +997,9 @@ At 6th level a jack gains proficiency in deciphering languages.
 
 #### Trait: Aid
 At 3rd level, a jack grant advantage to an ally within 30' once per day as a reaction. They can grant aid an additional time per day at 7th level, and again at 11th level.
+
 ##### Table 20: Jack Abilities by Level and Spell Slots by Tier
+
 | **Level** | Hit Dice | Proficiency Bonus | 1st | 2nd | 3rd | 4th | Feature               |
 |:----------|:---------|:------------------|:----|:----|:----|:----|:----------------------|
 | 1         | 1d6      | +2                | -   | -   | -   | -   | Jack Skills, Lucky    | 
@@ -1009,6 +1027,7 @@ Whether learned through dedicated study, or granted by a supernatural entity, or
 
 
 ##### Table 21: Mage Traits
+
 |                          |                                       |
 |:-------------------------|:--------------------------------------|
 | Hit dice                 | 1d4                                   |
@@ -1042,6 +1061,7 @@ A mage can cast an arcane spell from a scroll without memorizing the spell or ex
 
 
 ##### Table 22: Mage Abilities by Level and Spell Slots by Tier
+
 | **Level** | Hit Dice | Proficiency Bonus | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | Feature |
 |:----------|:---------|:------------------|:----|:----|:----|:----|:----|:----|:----|:--------|
 | 1         | 1d4      | +2                | 1   | -   | -   | -   | -   | -   | -   | Spellbook, Ritual Casting, Scroll Use |
@@ -1075,6 +1095,7 @@ can fill the role of the thief.
 
 
 ##### Table 23: Thief Traits
+
 |                          |                                     |
 |:-------------------------|:------------------------------------|
 | Hit dice                 | 1d6                                 |
@@ -1111,7 +1132,9 @@ At 6th level a thief gains proficiency in deciphering languages and may gain ski
 
 #### Trait: Scroll Use
 At 8th Level a Thief can attempt to cast scrolls of spells as an action. To do so requires a Charisma check DC 10 + tier of the spell. At 10th level they are proficient in scroll use and so may apply their proficiency bonus to the check.
+
 ##### Table 24: Thief Abilities by Level
+
 | **Level** | Hit Dice | Proficiency Bonus | Feature                    |
 |:----------|:---------|:------------------|:---------------------------|
 |1          | 1d6      | +2                | Backstab 2d6, Thief Skills | 
@@ -1142,6 +1165,7 @@ tournament fighters.
 
 
 ##### Table 25: Warrior Traits
+
 |                          |                                           |
 |:-------------------------|:------------------------------------------|
 | Hit dice                 | 1d10                                      |
@@ -1172,6 +1196,7 @@ For every four levels gained, you may select one of the following categories of 
 
 
 ##### Table 26: Combat Maneuvers
+
 | Maneuver           | Description |
 |:-------------------|:------------|
 | Charge             | Once per Attack action, if you used your full movement to approach an enemy, your next attack roll has advantage. |
@@ -1181,7 +1206,9 @@ For every four levels gained, you may select one of the following categories of 
 | Parry              | You may forgo one attack roll on your turn to automatically cause the next enemy attack roll targeting you to miss. The effect lasts until the start of your next turn. If you have extra attacks, you may forgo additional attack rolls to cause more enemy attack rolls to miss.  |
 | Disarm              | Once per attack action, you may elect for your next attack roll against a weapon-weilding opponent to have disadvantage, and  on a successful hit, the opponent takes no damage from the attack, but instead drops their weapon.  
 | Two weapon fighting | Once per attack action, if holding a light weapon in your off-hand, you may make an additional attack roll with that weapon at disadvantage. You off-hand is the hand not holding the weapon used for the regular attack rolls.
+
 ##### Table 27: Warrior Abilities by Level
+
 | **Level** | Hit Dice | Proficiency Bonus | Feature                    |
 |:----------|:---------|:------------------|:---------------------------|
 |1          | 1d10     | +2                | 2 Combat Maneuvers         | 
@@ -1201,6 +1228,7 @@ For every four levels gained, you may select one of the following categories of 
 # Equipment
 
 ##### Table 28: Weapons
+
 |              | Cost | Damage | Type                      | Range |
 |:-------------|:-----|:-------|:--------------------------|:------|
 | Dagger       | 3    | 1d4    | Light, thrown             | Short |
@@ -1225,6 +1253,7 @@ For every four levels gained, you may select one of the following categories of 
 
 
 ##### Table 29: Ammunition
+
 |                       | Cost |
 |:----------------------|:-----|
 | Quiver of 20 Arrows   | 10   |
@@ -1234,6 +1263,7 @@ For every four levels gained, you may select one of the following categories of 
 
 
 ##### Table 30: Armor
+
 |                       | Type  | Cost | AC             |
 |:----------------------|:------|:-----|:---------------|
 | Leather Armor         | Light | 15   | 12 + Dex Bonus |
@@ -1245,6 +1275,7 @@ For every four levels gained, you may select one of the following categories of 
 
 
 ##### Table 31: Transport
+
 |                       | Cost   |
 |:----------------------|:-------|
 | Mule                  | 20     |
@@ -1265,6 +1296,7 @@ For every four levels gained, you may select one of the following categories of 
 
 
 ##### Table 32: Sundries
+
 |                             | Cost |
 |:----------------------------|:-----|
 | 50’ of Rope                 | 1    |
@@ -1493,18 +1525,22 @@ For every four levels gained, you may select one of the following categories of 
 # Open Game License
 
 ###### DESIGNATION OF PRODUCT IDENTITY
+
 All artwork, logos, and presentation are product identity.
 The names “ADHD Basic”
 are product identity. All text in the following sections is
 product identity: (none).
 
 ###### DESIGNATION OF OPEN GAME CONTENT
+
 All text and tables not declared as product identity are Open
 Game Content.
 
 ###### OPEN GAME LICENSE Version 1.0a
+```
 The following text is the property of Wizards of the Coast, Inc and is Copyright
 2000 Wizards of the Coast, Inc (“Wizards”) All Rights Reserved
+
 1 Definitions: (a)”Contributors” means the copyright and/or trademark owners who
 have contributed Open Game Content; (b)”Derivative Material” means copyrighted
 material including derivative works and translations (including into other computer
@@ -1533,26 +1569,32 @@ the associated products contributed to the Open Game License by the Contributor 
 “Use”,”Used” or “Using” means to use, Distribute, copy, edit, format, modify, translate
 and otherwise create Derivative Material of Open Game Content (h) “You” or “Your”
 means the licensee in terms of this agreement
+
 2 The License: This License applies to any Open Game Content that contains a notice
 indicating that the Open Game Content may only be Used under and in terms of
 this License You must affix such a notice to any Open Game Content that you Use
 No terms may be added to or subtracted from this License except as described by
 the License itself No other terms or conditions may be applied to any Open Game
 Content distributed using this License
+
 3 Offer and Acceptance: By Using the Open Game Content You indicate Your ac-
 ceptance of the terms of this License
+
 4 Grant and Consideration: In consideration for agreeing to use this License, the
 Contributors grant You a perpetual, worldwide, royalty-free, non-exclusive license
 with the exact terms of this License to Use, the Open Game Content
+
 5 Representation of Authority to Contribute: If You are contributing original
 material as Open Game Content, You represent that Your Contributions are Your
 original creation and/or You have sufficient rights to grant the rights conveyed
 by this License
+
 6 Notice of License Copyright: You must update the COPYRIGHT NOTICE portion of
 this License to include the exact text of the COPYRIGHT NOTICE of any Open Game
 Content You are copying, modifying or distributing, and You must add the title,
 the copyright date, and the copyright holder’s name to the COPYRIGHT NOTICE of
 any original Open Game Content you Distribute
+
 7 Use of Product Identity: You agree not to Use any Product Identity, including as an
 indication as to compatibility, except as expressly licensed in another, independent
 Agreement with the owner of each element of that Product Identity You agree
@@ -1563,33 +1605,43 @@ Trademark or Registered Trademark The use of any Product Identity in Open Game
 Content does not constitute a challenge to the ownership of that Product Identity
 The owner of any Product Identity used in Open Game Content shall retain all
 rights, title and interest in and to that Product Identity
+
 8 Identification: If you distribute Open Game Content You must clearly indicate
 which portions of the work that you are distributing are Open Game Content
 9 Updating the License: Wizards or its designated Agents may publish updated
 versions of this License You may use any authorised version of this License to
 copy, modify and distribute any Open Game Content originally distributed under
 any version of this License
+
 10 Copy of this License: You MUST include a copy of this License with every copy
 of the Open Game Content You Distribute
 11 Use of Contributor Credits: You may not market or advertise the Open Game
 Content using the name of any Contributor unless You have written permission
 from the Contributor to do so
+
 12 Inability to Comply: If it is impossible for You to comply with any of the terms of
 this License with respect to some or all of the Open Game Content due to statute,
 judicial order, or governmental regulation then You may not Use any Open Game
 Material so affected
+
 13 Termination: This License will terminate automatically if You fail to comply
 with all terms herein and fail to cure such breach within 30 days of becoming
 aware of the breach All sublicenses shall survive the termination of this License
+
 14 Reformation: If any provision of this License is held to be unenforceable, such
 provision shall be reformed only to the extent necessary to make it enforceable
+
 15 COPYRIGHT NOTICE
 Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc
+
 System Reference Document 5.1 Copyright 2016,
 Wizards of the Coast, Inc.; Authors Mike Mearls,
 Jeremy Crawford, Chris Perkins, Rodney Thompson,
 Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R.
 Cordell, Chris Sims, and Steve Townshend, based on
 original material by E. Gary Gygax and Dave Arneson.
+
 ADHD Basic Copyright 2022 Sean Wolcott
+
 END OF LICENSE
+```
