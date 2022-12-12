@@ -7,10 +7,10 @@ layout: default
   <h1 class="page-heading">Rules</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for page in site.pages %}
       <li>
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} {{ post.version }}</a>
+          <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }} {{ page.version }}</a>
         </h2>
       </li>
     {% endfor %}
