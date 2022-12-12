@@ -133,8 +133,6 @@ disadvantage. In this case, the attack roll is rolled
 normally, as the advantage and disadvantage cancel each 
 other out.
 
-\page
-
 # Combat
 
 
@@ -170,7 +168,6 @@ An action is the main thing the character does over the course of the round. Con
 
 
 
-:
 ##### Table 1: Actions
 | Action         | Effect                                              |
 |:---------------|:----------------------------------------------------|
@@ -195,7 +192,6 @@ If a weapon attack is successful, roll the damage die indicated in Table 24. If 
 
 
 
-:
 ##### Table 2: Attack Rolls
 
 | Attack               | Check                               | Result                 |
@@ -214,8 +210,6 @@ If an attack roll is a *natural 20*, (the literal number on the die is 20, befor
 
 Conversely, if the attack roll is a *natural 1*, the attack automatically misses. However, the player may choose to succeed anyway, in which case the GM introduces a minor detriment to the character. It may be that their weapon gets stuck and they lose use of it while the opponent is still standing, or the ground gives way and they fall into a fall cavern, or their nemesis just managed to track them down and now have two situations to deal with.
 
-
-\page
 
 
 
@@ -256,7 +250,6 @@ The following are examples of reactions. Every character has an opportunity atta
 
 
 
-:
 ##### Table 3: Example Reactions
 | Reaction           | Trigger                        | Effect  |
 |:-------------------|:-------------------------------|:--------|
@@ -279,7 +272,6 @@ Combat is complex, and any number of things can happen in the heat of battle tha
 
 
 
-:
 ##### Table 4: Example Conditions 
 | Situation              | Effect        |
 |:-----------------------|:--------------|
@@ -304,8 +296,6 @@ When a character drops to 0HP, they are unconscious and dying. If the character 
 
 When the character first enters the dying condition, they must make a constitution saving throw DC 10. They must repeat the throw every minute afterward or anytime they take damage in the dying condition. Upon the accumulation of three failed saves since the last time the character took a full day of rest, the character is dead.
 
-
-\page
 
 # Character Creation
 
@@ -429,8 +419,6 @@ ready to go.
  
 
 And that's it. Happy adventuring!
-
-\page
 
 # Higher levels
 
@@ -565,8 +553,6 @@ figuratively or literally, possibly seeking godhood.
 The challenges in this tier have to do with the great 
 cosmic conflicts and interplanar creatures.
 
-\page
-
 # Backgrounds
 Characters weren't born as adventurers. They grew up in an 
 area, in a certain niche of a certain society. They 
@@ -649,8 +635,6 @@ adventurer.
 in growing up in this background, and agrees to the 
 ability bonuses.
 
-\page
-
 # Classes
 
 A character's class is the archetype that they embody. In this game, classes exist to give characters mechanical abilities. In other words, while backgrounds define who they are, classes define what they can do.
@@ -719,8 +703,6 @@ Below is a list of suggestions as starting points or even drop-in replacements f
 
 A class is chosen at character creation, and as the character gains levels, the classes may offer new things to do. For simplicity's sake, a character may not change levels, but there are certain classes, namely the various racial martial archetypes, which effectively function as multi-class options, as they borrow abilities from two other classes.
 
-\page
-
 
 ## Cleric
 
@@ -770,9 +752,6 @@ A cleric can cast a divine spell from a scroll without memorizing the spell or e
 
 Beginning at 4th level, a cleric can channel divine power into a single attack roll per turn, granting 1d8 additional damage on a hit. An extra 1d8 of damage is gained at 8th and 12th level.
 
-
-
-::::
 ##### Table 14: Cleric Abilities by Level and Spell Slots per Tier
 | **Level** | Hit Dice | Proficiency Bonus | 1st | 2nd | 3rd | 4th | 5th | 6th | Feature                  |
 |:----------|:---------|:------------------|:----|:----|:----|:----|:----|:----|:-------------------------|
@@ -790,8 +769,6 @@ Beginning at 4th level, a cleric can channel divine power into a single attack r
 | 12        | 10d8+4   | +4                | 4   | 3   | 3   | 2   | 2   | 1   | Smite 3d8                |
 | 13        | 10d8+6   | +5                | 4   | 3   | 3   | 2   | 2   | 2   | Turn Undead DC 15 + Cha  |
 
-
-\page
 
  
 ## Dwarf
@@ -853,10 +830,6 @@ Beginning at 4th level, a dwarf can use their action to give allies within a 5' 
 
 Beginning at 6th level, a dwarf can gain a warrior's combat maneuver from Table 22. They may select another combat maneuver to learn at 9th and 11th levels. 
 
-
-
-
-::::
 ##### Table 16: Dwarf Abilities by Level and Spell Slots per Tier
 
 | **Level** | Hit Dice | Proficiency Bonus | 1st | 2nd | 3rd | 4th | Feature                         |
@@ -876,8 +849,6 @@ Beginning at 6th level, a dwarf can gain a warrior's combat maneuver from Table 
 | 13        | 10d8+9   | +5                | 3   | 2   | 2   | 2   | Inspire Courage 15'             |
 
 
-
-\page
 
  
 ## Elf
@@ -931,10 +902,6 @@ Upon reaching 5th level, an elf can gain a warrior's combat maneuver from Table 
 #### Trait: Weapon Mastery
 
 Upon reaching 6th and 10th level, an elf may select one of the following categories of weapon: Swords, spears, clubs, staves, daggers, or bows. Attacks with that weapon do an extra die of damage. For each additional mastery gained, you may select to either gain mastery in a new category of weapon, or to stack the effect on an already mastered category for yet another die of damage.
-
-
-
-::::
 ##### Table 18: Elf Abilities by Level and Spell Slots per Tier
 
 | **Level** | Hit Dice | Proficiency Bonus | 1st | 2nd | 3rd | 4th | Feature                        |
@@ -953,8 +920,6 @@ Upon reaching 6th and 10th level, an elf may select one of the following categor
 | 12        | 10d6+4   | +4                | 3   | 2   | 2   | -   |                                |
 | 13        | 10d6+6   | +5                | 3   | 2   | 2   | 1   | Additional Combat Maneuver     |
 
-
-\page
 
  
 ## Jack
@@ -1016,10 +981,6 @@ At 6th level a jack gains proficiency in deciphering languages.
 
 #### Trait: Aid
 At 3rd level, a jack grant advantage to an ally within 30' once per day as a reaction. They can grant aid an additional time per day at 7th level, and again at 11th level.
-
-
-
-::::
 ##### Table 20: Jack Abilities by Level and Spell Slots by Tier
 | **Level** | Hit Dice | Proficiency Bonus | 1st | 2nd | 3rd | 4th | Feature               |
 |:----------|:---------|:------------------|:----|:----|:----|:----|:----------------------|
@@ -1037,8 +998,6 @@ At 3rd level, a jack grant advantage to an ally within 30' once per day as a rea
 | 12        | 10d6+4   | +4                | 4   | 3   | 2   | 2   |                       |
 | 13        | 10d6+6   | +5                | 4   | 3   | 3   | 2   |                       |
 
-
-\page
 
  
 ## Mage
@@ -1082,10 +1041,6 @@ A mage can cast any spell from their spellbook without memorizing it or expendin
 A mage can cast an arcane spell from a scroll without memorizing the spell or expending a spell slot. Doing so destroys the scroll. The mage must make an intelligence check with proficiency against a DC 10 + spell tier. Failing causes the casting to fail. If the spell is of the level the mage can memorize and cast normally, the check automatically succeeds.
 
 
-
-
-
-::::
 ##### Table 22: Mage Abilities by Level and Spell Slots by Tier
 | **Level** | Hit Dice | Proficiency Bonus | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | Feature |
 |:----------|:---------|:------------------|:----|:----|:----|:----|:----|:----|:----|:--------|
@@ -1104,8 +1059,6 @@ A mage can cast an arcane spell from a scroll without memorizing the spell or ex
 | 13        | 10d4+3   | +5                | 4   | 4   | 3   | 3   | 2   | 2   | 1   ||
 
 
-
-\page
 
  
 ## Thief
@@ -1158,10 +1111,6 @@ At 6th level a thief gains proficiency in deciphering languages and may gain ski
 
 #### Trait: Scroll Use
 At 8th Level a Thief can attempt to cast scrolls of spells as an action. To do so requires a Charisma check DC 10 + tier of the spell. At 10th level they are proficient in scroll use and so may apply their proficiency bonus to the check.
-
-
-
-::::
 ##### Table 24: Thief Abilities by Level
 | **Level** | Hit Dice | Proficiency Bonus | Feature                    |
 |:----------|:---------|:------------------|:---------------------------|
@@ -1179,8 +1128,6 @@ At 8th Level a Thief can attempt to cast scrolls of spells as an action. To do s
 |12         | 10d6+4   | +4                |                            |
 |13         | 10d6+6   | +5                | Backstab 6d6, Skill Mastery|
 
-
-\page
 
  
 ## Warrior
@@ -1234,10 +1181,6 @@ For every four levels gained, you may select one of the following categories of 
 | Parry              | You may forgo one attack roll on your turn to automatically cause the next enemy attack roll targeting you to miss. The effect lasts until the start of your next turn. If you have extra attacks, you may forgo additional attack rolls to cause more enemy attack rolls to miss.  |
 | Disarm              | Once per attack action, you may elect for your next attack roll against a weapon-weilding opponent to have disadvantage, and  on a successful hit, the opponent takes no damage from the attack, but instead drops their weapon.  
 | Two weapon fighting | Once per attack action, if holding a light weapon in your off-hand, you may make an additional attack roll with that weapon at disadvantage. You off-hand is the hand not holding the weapon used for the regular attack rolls.
-
-
-
-::::
 ##### Table 27: Warrior Abilities by Level
 | **Level** | Hit Dice | Proficiency Bonus | Feature                    |
 |:----------|:---------|:------------------|:---------------------------|
@@ -1255,12 +1198,8 @@ For every four levels gained, you may select one of the following categories of 
 |12         | 10d10+6  | +4                |                            |
 |13         | 10d10+9  | +5                | Additional combat maneuver, Weapon Mastery |
 
-\page
-
 # Equipment
 
-
-::
 ##### Table 28: Weapons
 |              | Cost | Damage | Type                      | Range |
 |:-------------|:-----|:-------|:--------------------------|:------|
@@ -1285,8 +1224,6 @@ For every four levels gained, you may select one of the following categories of 
 |Heavy Crossbow| 25   | 1d8    | Ranged, two-handed        | Long  |
 
 
-
-::
 ##### Table 29: Ammunition
 |                       | Cost |
 |:----------------------|:-----|
@@ -1296,8 +1233,6 @@ For every four levels gained, you may select one of the following categories of 
 | Silver Tipped Arrow   | 5    |
 
 
-
-::
 ##### Table 30: Armor
 |                       | Type  | Cost | AC             |
 |:----------------------|:------|:-----|:---------------|
@@ -1309,8 +1244,6 @@ For every four levels gained, you may select one of the following categories of 
 | Barding (Horse Armor) |       | 150  | 14             |
 
 
-
-::
 ##### Table 31: Transport
 |                       | Cost   |
 |:----------------------|:-------|
@@ -1331,8 +1264,6 @@ For every four levels gained, you may select one of the following categories of 
 | Large Galley          | 30,000 |
 
 
-
-::
 ##### Table 32: Sundries
 |                             | Cost |
 |:----------------------------|:-----|
@@ -1359,8 +1290,6 @@ For every four levels gained, you may select one of the following categories of 
 | 1 week rations for 1 person | 5    |
 
 
-
-\page
 
 # Magic
 
@@ -1401,8 +1330,6 @@ For every four levels gained, you may select one of the following categories of 
 | Web                  | Spray webs in 10' area that blocks movement. Caught creatures must make a Str save to break free | 
 
 
-\page
-
 ##### Table 33: Arcane Spell List (Cont'd)
 
 
@@ -1437,8 +1364,6 @@ For every four levels gained, you may select one of the following categories of 
 | Wall of Fire         | Make a 1200' sq wall of fire, touch causes 1d6 damage, Con save to pass through |
 | Wall of Ice          | Make a 1200' sq wall of icy blast, touch causes 1d6 damage, Con save to pass through | 
 
-
-\page
 
 ##### Table 33: Arcane Spell List (Cont'd)
 
@@ -1475,9 +1400,6 @@ For every four levels gained, you may select one of the following categories of 
 | Control Weather      | Make weather in the local area become rain, snow, fog, clear, high winds, or tornado while concentrating |
 
 
-:::
-
-
 | Tier 7 Spells   | Description |
 |:-----------------------|:------------|
 | Delayed Blast Fireball | Create a small throwable gem that becomes a fireball between 1 and 60 rounds later, determined by the caster |
@@ -1488,8 +1410,6 @@ For every four levels gained, you may select one of the following categories of 
 | Arcane Sword           | A glowing magical sword appears to attack enemies with caster's spell attack for 1d10 dmg for 1 round / level |
 | Greater Teleport       | A touched nonliving object up to 50lbs teleports per the teleport spell |
 
-
-\page
 
 
 ##### Table 34: Divine Spell List
@@ -1508,9 +1428,6 @@ For every four levels gained, you may select one of the following categories of 
 | Protection from Energy        | Short range allies take half damage from one of acid, cold, fire, lightning, or thunder
 | Protection from Evil and Good | Supernatural creatures can't charm, frighten, possess touched target, and have disadvantage vs touched target
 | Purify Food and Drink         | Food and drinks for a dozen people are no longer poisoned
-
-
-:::
 
 | Tier 2 Spells | Description |
 |:---------------------|:------------|
@@ -1534,9 +1451,7 @@ For every four levels gained, you may select one of the following categories of 
 | Locate Object        | Know where one specific object is within short range
 | Remove Curse         | Touched target is cured of the effects of Bestow Curse
 | Shillelagh           | Make a touched weapon magical with +1d6 damage for 10 min
-| Speak with the Dead  | One dead creature must answer three questions
-
-::::::::
+| Speak with the Dead  | One dead creature must answer three questions::::::
 
 | Tier 4 Spells    | Description |
 |:------------------------|:------------|
@@ -1548,8 +1463,6 @@ For every four levels gained, you may select one of the following categories of 
 | Greater Protection from Evil and Good | Protection from Evil and Good in a 10' radius
 | Speak with Plants       | Have an intelligible telepathic conversation with plants, and they can do minor favors if able
 
-
-\page
 
 ##### Table 34: Divine Spell List (Cont'd)
 
@@ -1577,8 +1490,6 @@ For every four levels gained, you may select one of the following categories of 
 | Find the Path        | For 1 hour / caster level see the path leading to a specific location
 | Word of Recall       | Teleport yourself to your permanent home or sanctuary
 
-
-\page
 # Open Game License
 
 ###### DESIGNATION OF PRODUCT IDENTITY
@@ -1594,7 +1505,6 @@ Game Content.
 ###### OPEN GAME LICENSE Version 1.0a
 The following text is the property of Wizards of the Coast, Inc and is Copyright
 2000 Wizards of the Coast, Inc (“Wizards”) All Rights Reserved
-:
 1 Definitions: (a)”Contributors” means the copyright and/or trademark owners who
 have contributed Open Game Content; (b)”Derivative Material” means copyrighted
 material including derivative works and translations (including into other computer
@@ -1623,32 +1533,26 @@ the associated products contributed to the Open Game License by the Contributor 
 “Use”,”Used” or “Using” means to use, Distribute, copy, edit, format, modify, translate
 and otherwise create Derivative Material of Open Game Content (h) “You” or “Your”
 means the licensee in terms of this agreement
-:
 2 The License: This License applies to any Open Game Content that contains a notice
 indicating that the Open Game Content may only be Used under and in terms of
 this License You must affix such a notice to any Open Game Content that you Use
 No terms may be added to or subtracted from this License except as described by
 the License itself No other terms or conditions may be applied to any Open Game
 Content distributed using this License
-:
 3 Offer and Acceptance: By Using the Open Game Content You indicate Your ac-
 ceptance of the terms of this License
-:
 4 Grant and Consideration: In consideration for agreeing to use this License, the
 Contributors grant You a perpetual, worldwide, royalty-free, non-exclusive license
 with the exact terms of this License to Use, the Open Game Content
-:
 5 Representation of Authority to Contribute: If You are contributing original
 material as Open Game Content, You represent that Your Contributions are Your
 original creation and/or You have sufficient rights to grant the rights conveyed
 by this License
-:
 6 Notice of License Copyright: You must update the COPYRIGHT NOTICE portion of
 this License to include the exact text of the COPYRIGHT NOTICE of any Open Game
 Content You are copying, modifying or distributing, and You must add the title,
 the copyright date, and the copyright holder’s name to the COPYRIGHT NOTICE of
 any original Open Game Content you Distribute
-:
 7 Use of Product Identity: You agree not to Use any Product Identity, including as an
 indication as to compatibility, except as expressly licensed in another, independent
 Agreement with the owner of each element of that Product Identity You agree
@@ -1659,47 +1563,33 @@ Trademark or Registered Trademark The use of any Product Identity in Open Game
 Content does not constitute a challenge to the ownership of that Product Identity
 The owner of any Product Identity used in Open Game Content shall retain all
 rights, title and interest in and to that Product Identity
-
-\page
-:
 8 Identification: If you distribute Open Game Content You must clearly indicate
 which portions of the work that you are distributing are Open Game Content
-:
 9 Updating the License: Wizards or its designated Agents may publish updated
 versions of this License You may use any authorised version of this License to
 copy, modify and distribute any Open Game Content originally distributed under
 any version of this License
-:
 10 Copy of this License: You MUST include a copy of this License with every copy
 of the Open Game Content You Distribute
-:
 11 Use of Contributor Credits: You may not market or advertise the Open Game
 Content using the name of any Contributor unless You have written permission
 from the Contributor to do so
-:
 12 Inability to Comply: If it is impossible for You to comply with any of the terms of
 this License with respect to some or all of the Open Game Content due to statute,
 judicial order, or governmental regulation then You may not Use any Open Game
 Material so affected
-:
 13 Termination: This License will terminate automatically if You fail to comply
 with all terms herein and fail to cure such breach within 30 days of becoming
 aware of the breach All sublicenses shall survive the termination of this License
-:
 14 Reformation: If any provision of this License is held to be unenforceable, such
 provision shall be reformed only to the extent necessary to make it enforceable
-:
 15 COPYRIGHT NOTICE
-:
 Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc
-:
 System Reference Document 5.1 Copyright 2016,
 Wizards of the Coast, Inc.; Authors Mike Mearls,
 Jeremy Crawford, Chris Perkins, Rodney Thompson,
 Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R.
 Cordell, Chris Sims, and Steve Townshend, based on
 original material by E. Gary Gygax and Dave Arneson.
-:
 ADHD Basic Copyright 2022 Sean Wolcott
-:
 END OF LICENSE
