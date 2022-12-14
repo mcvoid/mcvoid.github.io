@@ -62,7 +62,7 @@ The "Basic" part is a nod to its play style being that of the B/X system. The AD
 
 These rules are released under the [Open Game License v1.0a](/docs/license/).
 
-Must of this work is my own material. The rest of the rules derive from one of the following documents:
+Most of this work is my own material. The rest of the rules derive from one of the following documents:
 * [System Reference Document 5.1](https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
 * [Old-School Essentials System Reference Document](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page)
 
