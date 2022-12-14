@@ -17,7 +17,7 @@ You might like this system if:
 * You like Fifth Edition at its core but find it too overwhelming to run a game yourself.
 * You want to see what old-shool play is like without having to learn new dice rules.
 * You think Fifth Edition combat runs too slow.
-* Have some homebrew or a custom campaign idea and you wanter a more minimal base to build on.
+* Have some homebrew or a custom campaign idea and you wanted a more minimal base to build on.
 
 We have some opinionated answers to help solve that, and we would love to know what you think of the result. We hope you enjoy playing this rule set!
 

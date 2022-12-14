@@ -1,5 +1,6 @@
 ---
 title: "Core Rules"
+weight: -1
 ---
 
 # Abilities

@@ -1,5 +1,6 @@
 ---
 title: Magic
+weight: 10
 ---
 
 
