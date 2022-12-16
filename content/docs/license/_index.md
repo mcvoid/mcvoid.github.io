@@ -1,5 +1,6 @@
 ---
 title: "Open Game License"
+toc: false
 weight: 1000
 ---
 # Open Game License

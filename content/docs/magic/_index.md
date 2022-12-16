@@ -1,5 +1,6 @@
 ---
 title: Magic
+toc: false
 weight: 10
 ---
 

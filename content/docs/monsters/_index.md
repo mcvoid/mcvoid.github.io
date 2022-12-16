@@ -1,5 +1,6 @@
 ---
 title: Monsters
+toc: false
 weight: 11
 ---
 

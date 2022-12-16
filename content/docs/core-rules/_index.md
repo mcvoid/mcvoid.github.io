@@ -1,5 +1,6 @@
 ---
 title: "Core Rules"
+toc: false
 weight: -1
 ---
 
