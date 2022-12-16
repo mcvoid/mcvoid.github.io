@@ -39,7 +39,7 @@ HD      | Prof Bonus | Base XP | XP / Ability | Avg # Att | Avg # Specials
 21–21+n	| +6         | 2,500 	 | +2,000       | 3 (+2)    | 3 (+1)
 
 ### Table 47: Monster List (A-Z)
-                | HD (HP)  | AC | Attack                              | MV       | S/D/C/I/W/C    | XP   | Special
+Monster         | HD (HP)  | AC | Attack                              | MV       | S/D/C/I/W/C    | XP   | Special
 :---------------|:---------|:---|:------------------------------------|:---------|:---------------|:-----|:-------
 Acolyte         | 1 (4)    | 16 | 1x mace +2 (1d6)                    | 30'      | -              | 10   | 
 Acolyte, Leader | 3 (13)   | 17 | 1x mace +2 (1d6)                    | 30'      | -              | 50   | Divine spellcasting: cure light wounds, cause fear (DC 10)
