@@ -182,7 +182,7 @@ weight: 10
  Dispel Evil           | In short range, break charms, fear, possession, supernatural creatures have disadvantage, or spell attack vs supernatural creature is dismissed to their home plane
  Insect Plague         | Summon a 30' radius swarm of insects which obscure vision and drive off low level creatures for 1 day
  Raise Dead (Finger of Death) | Bring to life a humanoid dead for 1 day / caster level *or* a creature in short range must Con save or die
- Quest (Remove) | Target within 30' must Wis save or be forced to a task, 1 level of exhaustion/week not doing said task, *or* remove a quest
+ Quest (Remove Quest) | Target within 30' must Wis save or be forced to a task, 1 level of exhaustion/week not doing said task, *or* remove a quest
 
 ### Table 45: Tier 6 Divine Spell List
 
