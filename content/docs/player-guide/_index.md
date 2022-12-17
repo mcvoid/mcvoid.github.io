@@ -58,7 +58,7 @@ Abilities determine bonuses to roll ability checks.
 
 ## Choose Background
 Backgrounds determine the skills and tool proficiencies
-and increase two abilities to increase by 1 to indicate
+and choose two abilities to increase by 1 to indicate
 prior training.
 
 ##### Table 7: Example Backgrounds
