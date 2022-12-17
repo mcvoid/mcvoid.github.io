@@ -213,7 +213,7 @@ A creature that uses the Disengage action does not attract oppotunity attacks an
 
 ### Saving Throws
 
-Saves are ability checks used to avoid effects. These are made the same as any attack roll or skill check is made, with proficiency being determined by the class. Success results in that particular negative effect being avoided entirely, unless the effect's description says otherwise.
+Saves are ability checks used to avoid effects. These are made the same as any attack roll or skill check is made, with proficiency being determined by the class. The DC for saving throws is DC 11 unless specifically stated otherwise. Success results in that particular negative effect being avoided entirely, unless the effect's description says otherwise.
 
 ### Special Effects and Conditions
 

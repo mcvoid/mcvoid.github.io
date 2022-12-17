@@ -34,6 +34,24 @@ As an action, a cleric may rebuke any undead creatures in a 30' radius. Any affe
 
 Beginning at 2nd level, a cleric can cast divine spells. Each day the cleric can memorize a number of spells equal to the number of spell slots for that tier, from the entire divine spell list.
 
+##### Cleric Spell Slots per Tier
+
+ **Level** | 1st | 2nd | 3rd | 4th | 5th | 6th 
+:----------|:----|:----|:----|:----|:----|:----
+ 1         | -   | -   | -   | -   | -   | -   
+ 2         | 1   | -   | -   | -   | -   | -   
+ 3         | 2   | -   | -   | -   | -   | -   
+ 4         | 2   | 1   | -   | -   | -   | -   
+ 5         | 2   | 2   | -   | -   | -   | -   
+ 6         | 2   | 2   | 1   | -   | -   | -   
+ 7         | 2   | 2   | 2   | -   | -   | -   
+ 8         | 3   | 2   | 2   | 1   | -   | -   
+ 9         | 3   | 2   | 2   | 2   | -   | -   
+ 10        | 3   | 3   | 2   | 2   | 1   | -   
+ 11        | 3   | 3   | 2   | 2   | 2   | -   
+ 12        | 4   | 3   | 3   | 2   | 2   | 1   
+ 13        | 4   | 3   | 3   | 2   | 2   | 2   
+
 #### Trait: Scroll Use
 
 A cleric can cast a divine spell from a scroll without memorizing the spell or expending a spell slot. Doing so destroys the scroll. The mage must make an wisdom check with proficiency against a DC 10 + spell tier. Failing causes the casting to fail. If the spell is of the level the cleric can memorize and cast normally, the check automatically succeeds.
@@ -42,23 +60,23 @@ A cleric can cast a divine spell from a scroll without memorizing the spell or e
 
 Beginning at 4th level, a cleric can channel divine power into a single attack roll per turn, granting 1d8 additional damage on a hit. An extra 1d8 of damage is gained at 8th and 12th level.
 
-##### Table 14: Cleric Abilities by Level and Spell Slots per Tier
+##### Table 14: Cleric Abilities by Level
 
- **Level** | Hit Dice | Proficiency Bonus | 1st | 2nd | 3rd | 4th | 5th | 6th | Feature
-:----------|:---------|:------------------|:----|:----|:----|:----|:----|:----|:-------------------------
- 1         | 1d8      | +2                | -   | -   | -   | -   | -   | -   | Turn Undead DC 10 + Cha
- 2         | 2d8      | +2                | 1   | -   | -   | -   | -   | -   | Divine Spellcasting
- 3         | 3d8      | +2                | 2   | -   | -   | -   | -   | -   | Turn Undead DC 11 + Cha
- 4         | 4d8      | +2                | 2   | 1   | -   | -   | -   | -   | Smite 1d8
- 5         | 5d8      | +3                | 2   | 2   | -   | -   | -   | -   | Turn Undead DC 12 + Cha
- 6         | 6d8      | +3                | 2   | 2   | 1   | -   | -   | -   | Destroy Undead 1 HD
- 7         | 7d8      | +3                | 2   | 2   | 2   | -   | -   | -   | Turn Undead DC 13 + Cha
- 8         | 8d8      | +3                | 3   | 2   | 2   | 1   | -   | -   | Smite 2d8
- 9         | 9d9      | +4                | 3   | 2   | 2   | 2   | -   | -   | Destroy Undead 2 HD
- 10        | 10d8     | +4                | 3   | 3   | 2   | 2   | 1   | -   | Turn Undead DC 14 + Cha
- 11        | 10d8+2   | +4                | 3   | 3   | 2   | 2   | 2   | -   | Destroy Undead 4HD
- 12        | 10d8+4   | +4                | 4   | 3   | 3   | 2   | 2   | 1   | Smite 3d8
- 13        | 10d8+6   | +5                | 4   | 3   | 3   | 2   | 2   | 2   | Turn Undead DC 15 + Cha
+ **Level** | Hit Dice | Proficiency Bonus | Feature
+:----------|:---------|:------------------|:-------------------------
+ 1         | 1d8      | +2                | Turn Undead DC 10 + Cha
+ 2         | 2d8      | +2                | Divine Spellcasting
+ 3         | 3d8      | +2                | Turn Undead DC 11 + Cha
+ 4         | 4d8      | +2                | Smite 1d8
+ 5         | 5d8      | +3                | Turn Undead DC 12 + Cha
+ 6         | 6d8      | +3                | Destroy Undead 1 HD
+ 7         | 7d8      | +3                | Turn Undead DC 13 + Cha
+ 8         | 8d8      | +3                | Smite 2d8
+ 9         | 9d9      | +4                | Destroy Undead 2 HD
+ 10        | 10d8     | +4                | Turn Undead DC 14 + Cha
+ 11        | 10d8+2   | +4                | Destroy Undead 4HD
+ 12        | 10d8+4   | +4                | Smite 3d8
+ 13        | 10d8+6   | +5                | Turn Undead DC 15 + Cha
 
 
 
@@ -74,7 +92,7 @@ the front lines in ways clerics cannot.
 ##### Table 15: Dwarf Traits
 
 
-Trait                    | Effect
+Trait                     | Effect
 :-------------------------|:-----------------------------------------------------------------
  Hit dice                 | 1d8
  Starting Hit Points      | 4 + 1d8 + Con Bonus
@@ -99,6 +117,25 @@ Beginning at 2nd level, a dwarf can channel divine power into a single attack ro
 
 Beginning at 2nd level, a dwarf can cast divine spells. Each day the dwarf can memorize a number of spells equal to the number of spell slots for that tier, from the entire divine spell list.
 
+##### Dwarf Spell Slots per Tier
+
+ **Level** | 1st | 2nd | 3rd
+:----------|:----|:----|:---
+ 1         | -   | -   | -  
+ 2         | -   | -   | -  
+ 3         | 1   | -   | -  
+ 4         | 1   | -   | -  
+ 5         | 2   | -   | -  
+ 6         | 2   | -   | -  
+ 7         | 2   | 1   | -  
+ 8         | 2   | 1   | -  
+ 8         | 2   | 2   | -  
+ 9         | 2   | 2   | -  
+ 10        | 2   | 2   | 1  
+ 11        | 2   | 2   | 1  
+ 12        | 2   | 2   | 2  
+ 13        | 2   | 2   | 2  
+
 #### Trait: Inspire Courage
 
 Beginning at 4th level, a dwarf can use their action to give allies within a 5' radius advantage on one attack roll and one saving throw until the start of your next turn. This radius increases to 10' at 7th level, and to 15' at 13th level.
@@ -107,23 +144,23 @@ Beginning at 4th level, a dwarf can use their action to give allies within a 5' 
 
 Beginning at 6th level, a dwarf can gain a warrior's combat maneuver from Table 22. They may select another combat maneuver to learn at 9th and 11th levels.
 
-##### Table 16: Dwarf Abilities by Level and Spell Slots per Tier
+##### Table 16: Dwarf Abilities by Level
 
- **Level** | Hit Dice | Proficiency Bonus | 1st | 2nd | 3rd | 4th | Feature
-:----------|:---------|:------------------|:----|:----|:----|:----|:--------------------------------
- 1         | 1d8      | +2                | -   | -   | -   | -   | Lay on Hands
- 2         | 2d8      | +2                | -   | -   | -   | -   | Smite 1d8
- 3         | 3d8      | +2                | 1   | -   | -   | -   | Divine Spellcasting
- 4         | 4d8      | +2                | 2   | -   | -   | -   | Inspire Courage 5'
- 5         | 5d8      | +3                | 2   | -   | -   | -   | Smite 2d8
- 6         | 6d8      | +3                | 2   | 1   | -   | -   | Combat Maneuver
- 7         | 7d8      | +3                | 2   | 2   | -   | -   | Inspire Courage 10'
- 8         | 8d8      | +3                | 2   | 2   | -   | -   | Smite 3d8
- 9         | 9d8      | +4                | 2   | 2   | 1   | -   | Additional Combat Maneuver
- 10        | 10d8     | +4                | 2   | 2   | 2   | -   |
- 11        | 10d8+3   | +4                | 2   | 2   | 2   | -   | Smite 4d8
- 12        | 10d8+6   | +4                | 3   | 2   | 2   | 1   | Additional Combat Maneuver
- 13        | 10d8+9   | +5                | 3   | 2   | 2   | 2   | Inspire Courage 15'
+ **Level** | Hit Dice | Proficiency Bonus | Feature
+:----------|:---------|:------------------|:--------------------------------
+ 1         | 1d8      | +2                | Lay on Hands
+ 2         | 2d8      | +2                | Smite 1d8
+ 3         | 3d8      | +2                | Divine Spellcasting
+ 4         | 4d8      | +2                | Inspire Courage 5'
+ 5         | 5d8      | +3                | Smite 2d8
+ 6         | 6d8      | +3                | Combat Maneuver
+ 7         | 7d8      | +3                | Inspire Courage 10'
+ 8         | 8d8      | +3                | Smite 3d8
+ 9         | 9d8      | +4                | Additional Combat Maneuver
+ 10        | 10d8     | +4                |
+ 11        | 10d8+3   | +4                | Smite 4d8
+ 12        | 10d8+6   | +4                | Additional Combat Maneuver
+ 13        | 10d8+9   | +5                | Inspire Courage 15'
 
 
 
@@ -153,6 +190,24 @@ Elves start with a spellbook. That spellbook has 2 spells in it. An elf can lear
 
 Spells can be memorized from the spellbook. An elf can memorize 1 spell per half their level + their intelligence bonus each day. These spells are cast using the spell slot.
 
+##### Table 22: Elf Spell Slots by Tier
+
+ **Level** | 1st | 2nd | 3rd | 4th 
+:----------|:----|:----|:----|:---
+ 1         | 1   | -   | -   | -   
+ 2         | 1   | -   | -   | -   
+ 3         | 2   | -   | -   | -   
+ 4         | 2   | -   | -   | -   
+ 5         | 2   | 1   | -   | -   
+ 6         | 2   | 1   | -   | -   
+ 7         | 2   | 2   | -   | -   
+ 8         | 2   | 2   | -   | -   
+ 9         | 2   | 2   | 1   | -   
+ 10        | 2   | 2   | 1   | -   
+ 11        | 2   | 2   | 2   | -   
+ 12        | 2   | 2   | 2   | -   
+ 13        | 3   | 2   | 2   | 1   
+
 #### Trait: Two Weapon Fighting
 
 Elves start having learned the warrior's Two weapon fighting combat maneuver. Once per attack action, if holding a light weapon in your off-hand, you may make an additional attack roll with that weapon at disadvantage. You off-hand is the hand not holding the weapon used for the regular attack rolls.
@@ -165,23 +220,23 @@ Upon reaching 5th level, an elf can gain a warrior's combat maneuver from Table 
 
 Upon reaching 6th and 10th level, an elf may select one of the following categories of weapon: Swords, spears, clubs, staves, daggers, or bows. Attacks with that weapon do an extra die of damage. For each additional mastery gained, you may select to either gain mastery in a new category of weapon, or to stack the effect on an already mastered category for yet another die of damage.
 
-##### Table 18: Elf Abilities by Level and Spell Slots per Tier
+##### Table 18: Elf Abilities by Level
 
- **Level** | Hit Dice | Proficiency Bonus | 1st | 2nd | 3rd | 4th | Feature
-:----------|:---------|:------------------|:----|:----|:----|:----|:-------------------------------
- 1         | 1d6      | +2                | 1   | -   | -   | -   | Spellbook, Two Weapon Fighting
- 2         | 2d6      | +2                | 1   | -   | -   | -   |
- 3         | 3d6      | +2                | 2   | -   | -   | -   |
- 4         | 4d6      | +2                | 2   | -   | -   | -   |
- 5         | 5d6      | +3                | 2   | 1   | -   | -   | Additional Combat Maneuver
- 6         | 6d6      | +3                | 2   | 1   | -   | -   | Weapon Mastery
- 7         | 7d6      | +3                | 2   | 2   | -   | -   |
- 8         | 8d6      | +3                | 2   | 2   | -   | -   |
- 9         | 9d6      | +4                | 2   | 2   | 1   | -   | Additional Combat Maneuver
- 10        | 10d6     | +4                | 2   | 2   | 1   | -   | Weapon Mastery
- 11        | 10d6+2   | +4                | 2   | 2   | 2   | -   |
- 12        | 10d6+4   | +4                | 3   | 2   | 2   | -   |
- 13        | 10d6+6   | +5                | 3   | 2   | 2   | 1   | Additional Combat Maneuver
+ **Level** | Hit Dice | Proficiency Bonus | Feature
+:----------|:---------|:------------------|:-------------------------------
+ 1         | 1d6      | +2                | Spellbook, Two Weapon Fighting
+ 2         | 2d6      | +2                |
+ 3         | 3d6      | +2                |
+ 4         | 4d6      | +2                |
+ 5         | 5d6      | +3                | Additional Combat Maneuver
+ 6         | 6d6      | +3                | Weapon Mastery
+ 7         | 7d6      | +3                |
+ 8         | 8d6      | +3                |
+ 9         | 9d6      | +4                | Additional Combat Maneuver
+ 10        | 10d6     | +4                | Weapon Mastery
+ 11        | 10d6+2   | +4                |
+ 12        | 10d6+4   | +4                |
+ 13        | 10d6+6   | +5                | Additional Combat Maneuver
 
 
 
@@ -195,8 +250,8 @@ Jacks are, as their name suggest, jacks of all trades. They are competent fighte
 
 ##### Table 19: Jack Traits
 
-Trait                    | Effect
-:-------------------------|:-------------------------------------------------
+Trait                      | Effect
+:--------------------------|:-------------------------------------------------
 | Hit dice                 | 1d6
 | Starting Hit Points      | 4 + 1d6 + Con Bonus
 | Armor & Weapons          | All one-handed weapons, crossbows, light weapons and armors
@@ -220,6 +275,24 @@ Starting at 2nd level jacks gain a spellbook. That spellbook has 2 spells in it.
 
 Spells can be memorized from the spellbook. A jack can memorize 1 spell per level + their intelligence bonus each day. These spells are cast using the spell slot.
 
+##### Table 22: Jack Spell Slots by Tier
+
+ **Level** | 1st | 2nd | 3rd | 4th 
+:----------|:----|:----|:----|:---
+ 1         | 1   | -   | -   | -   
+ 2         | 1   | -   | -   | -   
+ 3         | 2   | -   | -   | -   
+ 4         | 2   | -   | -   | -   
+ 5         | 2   | 1   | -   | -   
+ 6         | 2   | 1   | -   | -   
+ 7         | 2   | 2   | -   | -   
+ 8         | 2   | 2   | -   | -   
+ 9         | 2   | 2   | 1   | -   
+ 10        | 2   | 2   | 1   | -   
+ 11        | 2   | 2   | 2   | -   
+ 12        | 2   | 2   | 2   | -   
+ 13        | 3   | 2   | 2   | 1   
+
 #### Trait: Scroll Use
 
 A Jack can cast an arcane spell from a scroll without memorizing the spell or expending a spell slot. Doing so destroys the scroll. The jack must make a charisma check with proficiency against a DC 10 + spell tier. Failing causes the casting to fail. If the spell is of the level the jack can memorize and cast normally, the check automatically succeeds.
@@ -230,23 +303,23 @@ At 6th level a jack gains proficiency in deciphering languages.
 #### Trait: Aid
 At 3rd level, a jack grant advantage to an ally within 30' once per day as a reaction. They can grant aid an additional time per day at 7th level, and again at 11th level.
 
-##### Table 20: Jack Abilities by Level and Spell Slots by Tier
+##### Table 20: Jack Abilities by Level
 
- **Level** | Hit Dice | Proficiency Bonus | 1st | 2nd | 3rd | 4th | Feature
-:----------|:---------|:------------------|:----|:----|:----|:----|:----------------------
- 1         | 1d6      | +2                | -   | -   | -   | -   | Jack Skills, Lucky
- 2         | 2d6      | +2                | 1   | -   | -   | -   | Spellbook, Scroll Use
- 3         | 3d6      | +2                | 2   | -   | -   | -   | Aid 1x/day
- 4         | 4d6      | +2                | 2   | -   | -   | -   |
- 5         | 5d6      | +3                | 2   | 1   | -   | -   |
- 6         | 6d6      | +3                | 2   | 2   | -   | -   | Deciphering Languages
- 7         | 7d6      | +3                | 3   | 2   | -   | -   | Aid 2x/day
- 8         | 8d6      | +3                | 3   | 2   | 1   | -   |
- 9         | 9d6      | +4                | 3   | 2   | 2   | -   |
- 10        | 10d6     | +4                | 3   | 3   | 2   | -   |
- 11        | 10d6+2   | +4                | 4   | 3   | 2   | 1   | Aid 3x/day
- 12        | 10d6+4   | +4                | 4   | 3   | 2   | 2   |
- 13        | 10d6+6   | +5                | 4   | 3   | 3   | 2   |
+ **Level** | Hit Dice | Proficiency Bonus | Feature
+:----------|:---------|:----------------- |:----------------------
+ 1         | 1d6      | +2                | Jack Skills, Lucky
+ 2         | 2d6      | +2                | Spellbook, Scroll Use
+ 3         | 3d6      | +2                | Aid 1x/day
+ 4         | 4d6      | +2                |
+ 5         | 5d6      | +3                |
+ 6         | 6d6      | +3                | Deciphering Languages
+ 7         | 7d6      | +3                | Aid 2x/day
+ 8         | 8d6      | +3                |
+ 9         | 9d6      | +4                |
+ 10        | 10d6     | +4                |
+ 11        | 10d6+2   | +4                | Aid 3x/day
+ 12        | 10d6+4   | +4                |
+ 13        | 10d6+6   | +5                |
 
 
 
@@ -275,6 +348,24 @@ Mages start with a spellbook. That spellbook has 2 spells in it. A mage can lear
 
 Spells can be memorized from the spellbook. A mage can memorize 1 spell per level + their intelligence bonus each day. These spells are cast using the spell slot.
 
+##### Table 22: Mage Spell Slots by Tier
+
+ **Level** | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th 
+:----------|:----|:----|:----|:----|:----|:----|:----
+ 1         | 1   | -   | -   | -   | -   | -   | -   
+ 2         | 2   | -   | -   | -   | -   | -   | -   
+ 3         | 2   | 1   | -   | -   | -   | -   | -   
+ 4         | 2   | 2   | -   | -   | -   | -   | -   
+ 5         | 2   | 2   | 1   | -   | -   | -   | -   
+ 6         | 2   | 2   | 2   | -   | -   | -   | -   
+ 7         | 3   | 2   | 2   | 1   | -   | -   | -   
+ 8         | 3   | 2   | 2   | 2   | -   | -   | -   
+ 9         | 3   | 3   | 2   | 2   | 1   | -   | -   
+ 10        | 3   | 3   | 2   | 2   | 2   | -   | -   
+ 11        | 4   | 3   | 3   | 2   | 2   | 1   | -   
+ 12        | 4   | 3   | 3   | 2   | 2   | 2   | -   
+ 13        | 4   | 4   | 3   | 3   | 2   | 2   | 1   
+
 #### Trait: Ritual Casting
 
 A mage can cast any spell from their spellbook without memorizing it or expending a spell slot by casting it as a ritual. Doing so makes the spell take a minimum of 10 minutes to cast.
@@ -283,25 +374,23 @@ A mage can cast any spell from their spellbook without memorizing it or expendin
 
 A mage can cast an arcane spell from a scroll without memorizing the spell or expending a spell slot. Doing so destroys the scroll. The mage must make an intelligence check with proficiency against a DC 10 + spell tier. Failing causes the casting to fail. If the spell is of the level the mage can memorize and cast normally, the check automatically succeeds.
 
-##### Table 22: Mage Abilities by Level and Spell Slots by Tier
+##### Table 22: Mage Abilities by Level
 
- **Level** | Hit Dice | Proficiency Bonus | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | Feature
-:----------|:---------|:------------------|:----|:----|:----|:----|:----|:----|:----|:--------
- 1         | 1d4      | +2                | 1   | -   | -   | -   | -   | -   | -   | Spellbook, Ritual Casting, Scroll Use
- 2         | 2d4      | +2                | 2   | -   | -   | -   | -   | -   | -   |
- 3         | 3d4      | +2                | 2   | 1   | -   | -   | -   | -   | -   |
- 4         | 4d4      | +2                | 2   | 2   | -   | -   | -   | -   | -   |
- 5         | 5d4      | +3                | 2   | 2   | 1   | -   | -   | -   | -   |
- 6         | 6d4      | +3                | 2   | 2   | 2   | -   | -   | -   | -   |
- 7         | 7d4      | +3                | 3   | 2   | 2   | 1   | -   | -   | -   |
- 8         | 8d4      | +3                | 3   | 2   | 2   | 2   | -   | -   | -   |
- 9         | 9d4      | +4                | 3   | 3   | 2   | 2   | 1   | -   | -   |
- 10        | 10d4     | +4                | 3   | 3   | 2   | 2   | 2   | -   | -   |
- 11        | 10d4+1   | +4                | 4   | 3   | 3   | 2   | 2   | 1   | -   |
- 12        | 10d4+2   | +4                | 4   | 3   | 3   | 2   | 2   | 2   | -   |
- 13        | 10d4+3   | +5                | 4   | 4   | 3   | 3   | 2   | 2   | 1   |
-
-
+ **Level** | Hit Dice | Proficiency Bonus | Feature
+:----------|:---------|:------------------|:--------
+ 1         | 1d4      | +2                | Spellbook, Ritual Casting, Scroll Use
+ 2         | 2d4      | +2                |
+ 3         | 3d4      | +2                |
+ 4         | 4d4      | +2                |
+ 5         | 5d4      | +3                |
+ 6         | 6d4      | +3                |
+ 7         | 7d4      | +3                |
+ 8         | 8d4      | +3                |
+ 9         | 9d4      | +4                |
+ 10        | 10d4     | +4                |
+ 11        | 10d4+1   | +4                |
+ 12        | 10d4+2   | +4                |
+ 13        | 10d4+3   | +5                |
 
 ## Thief
 
