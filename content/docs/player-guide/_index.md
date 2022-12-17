@@ -404,7 +404,7 @@ The cleric is a holy servant, on a mission. Clerics cast divine magic, largely d
 
 ##### Table 13: Cleric Traits
 
-                          |
+ Trait                    | Effect
 :-------------------------|:-----------------------------------------
  Hit dice                 | 1d8
  Starting Hit Points      | 4 + 1d8 + Con Bonus
@@ -464,7 +464,8 @@ the front lines in ways clerics cannot.
 
 ##### Table 15: Dwarf Traits
 
-                          |
+
+Trait                    | Effect
 :-------------------------|:-----------------------------------------------------------------
  Hit dice                 | 1d8
  Starting Hit Points      | 4 + 1d8 + Con Bonus
@@ -525,7 +526,7 @@ The elves have developed their own elegant style of combat, dancing gracefully a
 
 ##### Table 17: Elf Traits
 
-                            |
+Trait                    | Effect
 :---------------------------|:-----------------------------------------
  Hit dice                   | 1d6
  Starting Hit Points        | 4 + 1d6 + Con Bonus
@@ -585,8 +586,8 @@ Jacks are, as their name suggest, jacks of all trades. They are competent fighte
 
 ##### Table 19: Jack Traits
 
-|                          |
-|:-------------------------|:-------------------------------------------------
+Trait                    | Effect
+:-------------------------|:-------------------------------------------------
 | Hit dice                 | 1d6
 | Starting Hit Points      | 4 + 1d6 + Con Bonus
 | Armor & Weapons          | All one-handed weapons, crossbows, light weapons and armors
@@ -648,7 +649,7 @@ Whether learned through dedicated study, or granted by a supernatural entity, or
 
 ##### Table 21: Mage Traits
 
-                          |
+Trait                    | Effect
 :-------------------------|:--------------------------------------
  Hit dice                 | 1d4
  Starting Hit Points      | 4 + 1d4 + Con Bonus
@@ -706,7 +707,7 @@ can fill the role of the thief.
 
 ##### Table 23: Thief Traits
 
-                          |
+Trait                    | Effect
 :-------------------------|:------------------------------------
  Hit dice                 | 1d6
  Starting Hit Points      | 4 + 1d6 + Con Bonus
@@ -765,7 +766,7 @@ tournament fighters.
 
 ##### Table 25: Warrior Traits
 
-                          |
+Trait                    | Effect
 :-------------------------|:------------------------------------------
  Hit dice                 | 1d10
  Starting Hit Points      | 4 + 1d10 + Con Bonus
@@ -822,7 +823,7 @@ For every four levels gained, you may select one of the following categories of 
 
 ##### Table 28: Weapons
 
-               | Cost | Damage | Type                      | Range
+Weapon         | Cost | Damage | Type                      | Range
 :--------------|:-----|:-------|:--------------------------|:------
  Dagger        | 3    | 1d4    | Light, thrown             | Short
  Hand Axe      | 3    | 1d4    | Light, thrown             | Short
@@ -846,7 +847,7 @@ Heavy Crossbow | 25   | 1d8    | Ranged, two-handed        | Long
 
 ##### Table 29: Ammunition
 
-                       | Cost
+Ammunition             | Cost
 :----------------------|:-----
  Quiver of 20 Arrows   | 10
  Case with 30 Quarrels | 10
@@ -855,7 +856,7 @@ Heavy Crossbow | 25   | 1d8    | Ranged, two-handed        | Long
 
 ##### Table 30: Armor
 
-                       | Type  | Cost | AC
+Armor                  | Type  | Cost | AC
 :----------------------|:------|:-----|:---------------
  Leather Armor         | Light | 15   | 12 + Dex Bonus
  Chain-type Mail       |       | 30   | 14 + Dex Bonus (max +2)
@@ -866,7 +867,7 @@ Heavy Crossbow | 25   | 1d8    | Ranged, two-handed        | Long
 
 ##### Table 31: Transport
 
-                       | Cost
+Transport              | Cost
 :----------------------|:-------
  Mule                  | 20
  Draft Horse           | 30
@@ -886,7 +887,7 @@ Heavy Crossbow | 25   | 1d8    | Ranged, two-handed        | Long
 
 ##### Table 32: Sundries
 
-                             | Cost
+Item                         | Cost
 :----------------------------|:-----
  50’ of Rope                 | 1
  10’ Pole                    | 1
