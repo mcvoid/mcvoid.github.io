@@ -15,6 +15,7 @@ Dmg describes the number of damage dice across all attacks in a round. Can be al
 The number of special abilities is just a suggestion, but try to keep them within the theme of the monster. Some abilities shouldn't be used on monsters commonly encountered before PCs have the tools to deal with them, such as permanent ability drain.
 
 ### Table 46: Monster Stats by HD
+
 HD    | HP   | Poor | Prof | Good | Dmg/Round | # Specials
 :-----|:-----|:-----|:-----|:---- |:--------- |:----------
 1/4   | 1    | -2   | +2   | +2   |  1d4      | 0-1
@@ -42,6 +43,7 @@ HD    | HP   | Poor | Prof | Good | Dmg/Round | # Specials
 21    | 95   | +2   | +7   | +12  |  4d8+2    | 2-6
 
 ### Table 47: Monster Specials
+
 Special                 | Min HD | Description
 :-----------------------|:-------|------------
 Ability Drain           | -      | Save or temporarily lose 1d6 of that ability 
@@ -58,6 +60,7 @@ Swallow Whole           | 5      | Swallow whole on crit, digesting is 1d4/round
 
 
 ### Table 47: Monster List A
+
 Monster         | HD | AC | MV  | Special
 :---------------|:-- |:---|:----|:-------
 Acolyte         | 1  | 16 | 30' | 
@@ -65,6 +68,7 @@ Acolyte, Leader | 3  | 17 | 30' | Spellcasting
 Ape, White      | 4  | 12 | 40' |
 
 ### Table 49: Monster List B
+
 Monster            | HD  | AC | MV  | Special
 :------------------|:--  |:---|:----|:-------
 Bandit             | 1   | 12 | 30' | 
@@ -92,6 +96,7 @@ Buccaneer, Captain | 7   | 14 | 30' |
 Bugbear            | 3   | 13 | 30' | Multiattack
 
 ### Table 49: Monster List C
+
 Monster                  | HD | AC | MV  | Special
 :---------------         |:---|:---|:----|:-------
 Caecilia                 | 6  | 11 | 20' | Swim, Swallow wWhole
@@ -115,6 +120,7 @@ Crocodile, Normal        | 2  | 14 | 30' | Swim
 Cyclops                  | 13 | 13 | 30' | Curse 1x/week
 
 ### Table 49: Monster List D
+
 Monster                  | HD | AC | MV  | Special
 :---------------         |:---|:---|:----|:-------
 Dervish                  | 1  | 14 | 30' | 
@@ -126,8 +132,32 @@ Dragon, Gold             | 11 | 18 | 30' | Fly 80', 90' cone fire or poison, 4 T
 Dragon, Green            | 8  | 16 | 30' | Fly 80', Sphere poison, 3 Tier-1 + 3 Tier-2 spells
 Dragon, Red              | 10 | 18 | 30' | Fly 80', 90' cone of fire, 3 Tier-1 + 3 Tier-2 spells + 3 Tier-3 spells
 Dragon, Sea              | 8  | 16 | -   | Swim/glide 60', 20' sphere poison, 3 Tier-1 + 3 Tier-2 spells
-Dragon, White            | 6  | 15 | 30' | Fly 80', 80' cone of cold, 3 Tier-1
+Dragon, White            | 6  | 15 | 30' | Fly 80', 80' cone of cold, 3 Tier-1 spells
 Dragon Turtle            | 30 | 19 | 10' | Swim 30', 90'x30' cylinder of steam
 Driver Ant               | 4  | 14 | 60' | 
 Dryad                    | 2  | 13 | 40' | Tree meld, charm
 Dwarf                    | 1  | 13 | 20' | 
+
+### Table 49: Monster List E
+
+Monster                  | HD | AC | MV  | Special
+:---------------         |:---|:---|:----|:-------
+Efreeti (Lesser)         | 10 | 15 | 30' | Fly 80', mundane damager immunity, invisibility, illusion, wall of fire, confire metals and soft goods
+Elemental, Air           | 12 | 17 | -   | Fly 120', whirlwind, harm flying creatures +1d8
+Elemental, Earth         | 12 | 17 | 20' | Blocked by water, harm creatures on ground +1d8
+Elemental, Fire          | 12 | 17 | 40' | Blocked by water, harm cold-based creatures +1d8
+Elemental, Water         | 12 | 17 | 20' | Swim 60', water-bound, harm creatures in water +1d8
+Elephant                 | 9  | 13 | 40' | Charge, trample: adv against humans in touch range
+Elf                      | 1  | 12 | 30' | Spell: 1 Tier-1
+
+### Table 49: Monster List F
+
+Monster                  | HD | AC | MV  | Special
+:---------------         |:---|:---|:----|:-------
+Ferret, Giant            | 1  | 12 | 50' | 
+Fish, Giant Bass         | 2  | 10 | -   | Swim 40'
+Fish, Giant Catfish      | 8  | 13 | -   | Swim 30', Swallow whole
+Fish, Giant Piranha      | 3  | 11 | -   | Swim 50', swarm 8-on-1
+Fish, Giant Rockfish     | 5  | 10 | -   | Swim 60', poison spines (Con Save or die)
+Fish, Giant Sturgeon     | 10 | 10 | -   | Swim 60', Swallow whole
+
