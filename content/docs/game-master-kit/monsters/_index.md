@@ -1,7 +1,7 @@
 ---
 title: Monsters
 toc: false
-weight: 11
+weight: 2
 ---
 
 # Monsters
@@ -49,7 +49,9 @@ Special                 | Min HD | Description
 Ability Drain           | -      | Save or temporarily lose 1d6 of that ability 
 Area of Effect          | 5      | 10'/2HD cone *or* 5'/2HD sphere *or* 10'/2HD line, damage 1d6/2HD, save for half
 Blood Drain             | -      | Uncounsious creatures in touch range lose 1d4/round
+Charge                  | -      | As per the combat maneuver
 Condition               | -      | Save or get condition (poison, paralysis, confusion) on successful attack
+Construct               | -      | Unharmed by gas; unaffected by charm, hold, and sleep spells.
 Damage resistance       | -      | Half or no damage to certain damage types
 Movement                | -      | Gain a fly/swim/burrow/hover, etc speed
 Multiattack             | 3      | 1 extra attack per 3HD (+1 die to Dmg/Round)
@@ -57,6 +59,7 @@ Permanent Ability Drain | 5      | Save or permanently lose 1d6 of that ability
 Reshape Environment     | -      | Affect stone, plants, weather, illusions, or magic fields in short range
 Spellcasting            | -      | Know 2 spells
 Swallow Whole           | 5      | Swallow whole on crit, digesting is 1d4/round, daggers damage inside
+Undead                  | -      | Immune to effects that affect living creatures and mind-affecting spells, curing is reversed
 
 
 ### Table 47: Monster List A
@@ -71,7 +74,7 @@ Ape, White      | 4  | 12 | 40' |
 
 Monster            | HD  | AC | MV  | Special
 :------------------|:--  |:---|:----|:-------
-Bandit             | 1   | 12 | 30' | 
+Bandit             | 1/2 | 12 | 30' | 
 Basilisk           | 6   | 13 | 10' | Petrify
 Bat                | 1/4 | 13 | 60' | Fly, Confusion
 Bat, Giant         | 2   | 13 | 60' | Fly
@@ -87,10 +90,10 @@ Black Jelly        | 10  | 11 | 20' | Non-fire immunity
 Blink Dog          | 4   | 11 | 40' | Teleport
 Boar               | 3   | 12 | 50' |
 Brigand, Cavalier  | 1   | 16 | 30' |
-Brigand, Footman   | 1   | 14 | 30' |
+Brigand, Footman   | 1/2 | 14 | 30' |
 Brigand, Leader    | 2   | 18 | 30' | 
 Brigand, Commander | 4   | 18 | 30' | 
-Buccaneer          | 1   | 12 | 30' |
+Buccaneer          | 1/2 | 12 | 30' |
 Buccaneer, Bosun   | 2   | 14 | 30' |
 Buccaneer, Captain | 7   | 14 | 30' |
 Bugbear            | 3   | 13 | 30' | Multiattack
@@ -136,19 +139,19 @@ Dragon, White            | 6  | 15 | 30' | Fly 80', 80' cone of cold, 3 Tier-1 s
 Dragon Turtle            | 30 | 19 | 10' | Swim 30', 90'x30' cylinder of steam
 Driver Ant               | 4  | 14 | 60' | 
 Dryad                    | 2  | 13 | 40' | Tree meld, charm
-Dwarf                    | 1  | 13 | 20' | 
+Dwarf                    | 1/2| 13 | 20' | 
 
 ### Table 49: Monster List E
 
 Monster                  | HD | AC | MV  | Special
 :---------------         |:---|:---|:----|:-------
-Efreeti (Lesser)         | 10 | 15 | 30' | Fly 80', mundane damager immunity, invisibility, illusion, wall of fire, confire metals and soft goods
+Efreeti (Lesser)         | 10 | 15 | 30' | Fly 80', mundane damage immunity, invisibility, illusion, wall of fire, confire metals and soft goods
 Elemental, Air           | 12 | 17 | -   | Fly 120', whirlwind, harm flying creatures +1d8
 Elemental, Earth         | 12 | 17 | 20' | Blocked by water, harm creatures on ground +1d8
 Elemental, Fire          | 12 | 17 | 40' | Blocked by water, harm cold-based creatures +1d8
 Elemental, Water         | 12 | 17 | 20' | Swim 60', water-bound, harm creatures in water +1d8
 Elephant                 | 9  | 13 | 40' | Charge, trample: adv against humans in touch range
-Elf                      | 1  | 12 | 30' | Spell: 1 Tier-1
+Elf                      | 1/2| 12 | 30' | Spellcasting
 
 ### Table 49: Monster List F
 
@@ -157,7 +160,37 @@ Monster                  | HD | AC | MV  | Special
 Ferret, Giant            | 1  | 12 | 50' | 
 Fish, Giant Bass         | 2  | 10 | -   | Swim 40'
 Fish, Giant Catfish      | 8  | 13 | -   | Swim 30', Swallow whole
-Fish, Giant Piranha      | 3  | 11 | -   | Swim 50', swarm 8-on-1
-Fish, Giant Rockfish     | 5  | 10 | -   | Swim 60', poison spines (Con Save or die)
+Fish, Giant Piranha      | 3  | 11 | -   | Swim 50', Swarm 8-on-1
+Fish, Giant Rockfish     | 5  | 10 | -   | Swim 60', Poison spines (Con Save or die)
 Fish, Giant Sturgeon     | 10 | 10 | -   | Swim 60', Swallow whole
 
+### Table 49: Monster List G
+
+Monster                  | HD | AC | MV  | Special
+:---------------         |:---|:---|:----|:-------
+Gargoyle                 | 4  | 12 | 30' | Fly 50', mundane damage immunity, immune to sleep & charm
+Gelatinous Cube          | 4  | 9  | 20' | Str save or paralysis 1d4 turns, cold & lightning immunity
+Ghoul                    | 2  | 11 | 30' | Paralysis 1d4 turns, Undead
+Giant, Cloud             | 12 | 13 | 40' | Keen senses, Long range boulder throwing 3d6
+Giant, Fire              | 11 | 13 | 40' | Fire immunity, Long range boulder throwing 3d6
+Giant, Frost             | 10 | 13 | 40' | Cold immunity, Long range boulder throwing 3d6
+Giant, Hill              | 8  | 13 | 40' |
+Giant, Stone             | 9  | 13 | 40' | Long range boulder throwing 3d6
+Giant, Storm             | 15 | 15 | 50' | Summon storm, Lightning bolt, Lightning immunity
+Gnoll                    | 2  | 12 | 30' |
+Gnoll, Leader            | 3  | 12 | 30' |
+Gnome                    | 1/2| 10 | 20' | Infravision
+Gnome, Bodyguard         | 3  | 10 | 20' | Infravision
+Gnome, Chieftain         | 4  | 10 | 20' | Infravision, +1 to damage
+Gnome, Leader            | 2  | 10 | 20' | Infravision
+Goblin                   | 1/2| 11 | 20' | Infravision, hate the sun
+Goblin, Bodyguard        | 2  | 11 | 20' | Infravision
+Goblin King              | 3  | 11 | 20' | Infravision, +1 to damage
+Golem, Amber             | 10 | 11 | 60' | Construct, Mundane damage immunity, perfect tracking, see invisibility
+Golem, Bone              | 8  | 15 | 40' | Construct, Mundane damage immunity, Energy immunity, Multiattack
+Golem, Bronze            | 20 | 17 | 80' | Construct, Mundane damage immunity, Fire immunity, Flaming blood Dex save or 2d6 dmg
+Golem, Wood              | 2  | 10 | 40' | Construct, Mundane damage immunity, flammable
+Gorgon                   | 8  | 15 | 40' | Charge, Breath: 60'x10' petrify
+Grey Ooze                | 3  | 10 | 3'  | Energy immunity, Acid destroys touched armor + 2d8 dmg
+Green Slime              | 2  | -  | 1'  | Acid: destroys wood and armor, consume flesh over 6 rounds, becomes green slime Cold and fire immunity
+Griffon                  | 7  | 12 | 40' | Fly 120'  
