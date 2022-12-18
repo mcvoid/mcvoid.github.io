@@ -10,7 +10,7 @@ Monsters are any Non-Player Characters (NPCs) involved in combat. Monsters are n
 
 Poor rolls are activities that are awkward for that creature, or that they are not designed to do. Proficient rolls are things they are used to doing regularly, like attacks. Good rolls are for the things they specialize in or are known for being especially good at. Like a giant's strength, or a tiger's stealth, or a signature attack.
 
-Dmg describes the number of damage dice across all attacks in a round. Can be all in a single attack or spread across several attacks.
+Dmg describes the number of damage dice across all attacks in a round. Can be all in a single attack or spread across several attacks. For example 3d8 dmg/round can be a single attack for 3d8, or an attack of 1d8 and an attack of 2d8.
 
 The number of special abilities is just a suggestion, but try to keep them within the theme of the monster. Some abilities shouldn't be used on monsters commonly encountered before PCs have the tools to deal with them, such as permanent ability drain.
 
@@ -45,10 +45,10 @@ HD    | HP   | Poor | Prof | Good | Dmg/Round | # Specials
 Special                 | Min HD | Description
 :-----------------------|:-------|------------
 Ability Drain           | -      | Save or temporarily lose 1d6 of that ability 
-Area of Effect          | 5      | 10'/2HD cone *or* 5'/2HD phere *or* 10'/2HD line, damage 1d6/2HD, save for half
+Area of Effect          | 5      | 10'/2HD cone *or* 5'/2HD sphere *or* 10'/2HD line, damage 1d6/2HD, save for half
 Blood Drain             | -      | Uncounsious creatures in touch range lose 1d4/round
 Condition               | -      | Save or get condition (poison, paralysis, confusion) on successful attack
-Damage resistance       | -      | Half or no damage to cerain damage types
+Damage resistance       | -      | Half or no damage to certain damage types
 Movement                | -      | Gain a fly/swim/burrow/hover, etc speed
 Multiattack             | 3      | 1 extra attack per 3HD (+1 die to Dmg/Round)
 Permanent Ability Drain | 5      | Save or permanently lose 1d6 of that ability 
@@ -106,11 +106,28 @@ Cave Locust              | 2  | 14 | 60' | Multiattack, Sickness
 Centaur                  | 4  | 13 | 60' |
 Centaur, young           | 2  | 13 | 60' |
 Centipede, Giant         | 1  | 10 | 20' | Poison
-Chimera                  | 9  | 14 | 60' | Fly, Cone of fire 3x/day
-Cockatrice               | 5  | 12 | 60' | Fly, Petrification
+Chimera                  | 9  | 14 | 60' | Fl 90'y, Cone of fire 3x/day
+Cockatrice               | 5  | 12 | 60' | Fly 90', Petrification
 Crab, Giant              | 3  | 16 | 20' | Multiattack
 Crocodile, Giant         | 15 | 17 | 30' | Swim, Swallow whole
 Crocodile, Large         | 6  | 16 | 30' | Swim
 Crocodile, Normal        | 2  | 14 | 30' | Swim
 Cyclops                  | 13 | 13 | 30' | Curse 1x/week
 
+### Table 49: Monster List D
+Monster                  | HD | AC | MV  | Special
+:---------------         |:---|:---|:----|:-------
+Dervish                  | 1  | 14 | 30' | 
+Djinni (Lesser)          | 7  | 13 | 30' | Fly 90', spells: invisibilty, gaseous form, illusions, conjure metals and soft goods
+Doppelgänger             | 4  | 13 | 30' | Shape Stealing
+Dragon, Black            | 7  | 16 | 30' | Fly 80', 60' line acid, 4 Tier-1 spells
+Dragon, Blue             | 9  | 17 | 30' | Fly 80', 100' line lightning, 4 Tier-1 + 4 Tier-2 spells
+Dragon, Gold             | 11 | 18 | 30' | Fly 80', 90' cone fire or poison, 4 Tier-1 + 4 Tier-2 spells + 4 Tier-3 spells
+Dragon, Green            | 8  | 16 | 30' | Fly 80', Sphere poison, 3 Tier-1 + 3 Tier-2 spells
+Dragon, Red              | 10 | 18 | 30' | Fly 80', 90' cone of fire, 3 Tier-1 + 3 Tier-2 spells + 3 Tier-3 spells
+Dragon, Sea              | 8  | 16 | -   | Swim/glide 60', 20' sphere poison, 3 Tier-1 + 3 Tier-2 spells
+Dragon, White            | 6  | 15 | 30' | Fly 80', 80' cone of cold, 3 Tier-1
+Dragon Turtle            | 30 | 19 | 10' | Swim 30', 90'x30' cylinder of steam
+Driver Ant               | 4  | 14 | 60' | 
+Dryad                    | 2  | 13 | 40' | Tree meld, charm
+Dwarf                    | 1  | 13 | 20' | 

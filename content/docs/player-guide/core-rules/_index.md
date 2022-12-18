@@ -28,7 +28,7 @@ Dexterity    | agility, equilibrium, and coordination | dodging, catching, tumbl
 Constitution | health and resilience | feats of endurance and warding off threats to their physicality | total hit points | poison, petrification, death
 Intelligence | information retention, logic and pattern recognition faculties | knowledge, ability to reason | arcane spellcasting ability | insanity, psychic attacks
 Wisdom       | perceptiveness and ability to distinguish subtleties | perception and insight | divine spellcasting ability | charms and illusions
-Charisma     | force of personality and leadership ability | performance, diplomacy, deception | thief's scroll use, followers | possession and curses
+Charisma     | force of personality and leadership ability | performance, diplomacy, deception | thief's scroll use, magic item limit | possession and curses
 
 ### Ability Checks
 
