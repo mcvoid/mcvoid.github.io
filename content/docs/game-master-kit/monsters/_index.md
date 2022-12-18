@@ -98,7 +98,7 @@ Buccaneer, Bosun   | 2   | 14 | 30' |
 Buccaneer, Captain | 7   | 14 | 30' |
 Bugbear            | 3   | 13 | 30' | Multiattack
 
-### Table 49: Monster List C
+### Table 50: Monster List C
 
 Monster                  | HD | AC | MV  | Special
 :---------------         |:---|:---|:----|:-------
@@ -122,75 +122,102 @@ Crocodile, Large         | 6  | 16 | 30' | Swim
 Crocodile, Normal        | 2  | 14 | 30' | Swim
 Cyclops                  | 13 | 13 | 30' | Curse 1x/week
 
-### Table 49: Monster List D
+### Table 51: Monster List D
 
-Monster                  | HD | AC | MV  | Special
-:---------------         |:---|:---|:----|:-------
-Dervish                  | 1  | 14 | 30' | 
-Djinni (Lesser)          | 7  | 13 | 30' | Fly 90', spells: invisibilty, gaseous form, illusions, conjure metals and soft goods
-Doppelgänger             | 4  | 13 | 30' | Shape Stealing
-Dragon, Black            | 7  | 16 | 30' | Fly 80', 60' line acid, 4 Tier-1 spells
-Dragon, Blue             | 9  | 17 | 30' | Fly 80', 100' line lightning, 4 Tier-1 + 4 Tier-2 spells
-Dragon, Gold             | 11 | 18 | 30' | Fly 80', 90' cone fire or poison, 4 Tier-1 + 4 Tier-2 spells + 4 Tier-3 spells
-Dragon, Green            | 8  | 16 | 30' | Fly 80', Sphere poison, 3 Tier-1 + 3 Tier-2 spells
-Dragon, Red              | 10 | 18 | 30' | Fly 80', 90' cone of fire, 3 Tier-1 + 3 Tier-2 spells + 3 Tier-3 spells
-Dragon, Sea              | 8  | 16 | -   | Swim/glide 60', 20' sphere poison, 3 Tier-1 + 3 Tier-2 spells
-Dragon, White            | 6  | 15 | 30' | Fly 80', 80' cone of cold, 3 Tier-1 spells
-Dragon Turtle            | 30 | 19 | 10' | Swim 30', 90'x30' cylinder of steam
-Driver Ant               | 4  | 14 | 60' | 
-Dryad                    | 2  | 13 | 40' | Tree meld, charm
-Dwarf                    | 1/2| 13 | 20' | 
+Monster         | HD | AC | MV  | Special
+:---------------|:---|:---|:----|:-------
+Dervish         | 1  | 14 | 30' | 
+Djinni (Lesser) | 7  | 13 | 30' | Fly 90', spells: invisibilty, gaseous form, illusions, conjure metals and soft goods
+Doppelgänger    | 4  | 13 | 30' | Shape Stealing
+Dragon, Black   | 7  | 16 | 30' | Fly 80', 60' line acid, 4 Tier-1 spells
+Dragon, Blue    | 9  | 17 | 30' | Fly 80', 100' line lightning, 4 Tier-1 + 4 Tier-2 spells
+Dragon, Gold    | 11 | 18 | 30' | Fly 80', 90' cone fire or poison, 4 Tier-1 + 4 Tier-2 spells + 4 Tier-3 spells
+Dragon, Green   | 8  | 16 | 30' | Fly 80', Sphere poison, 3 Tier-1 + 3 Tier-2 spells
+Dragon, Red     | 10 | 18 | 30' | Fly 80', 90' cone of fire, 3 Tier-1 + 3 Tier-2 spells + 3 Tier-3 spells
+Dragon, Sea     | 8  | 16 | -   | Swim/glide 60', 20' sphere poison, 3 Tier-1 + 3 Tier-2 spells
+Dragon, White   | 6  | 15 | 30' | Fly 80', 80' cone of cold, 3 Tier-1 spells
+Dragon Turtle   | 30 | 19 | 10' | Swim 30', 90'x30' cylinder of steam
+Driver Ant      | 4  | 14 | 60' | 
+Dryad           | 2  | 13 | 40' | Tree meld, charm
+Dwarf           | 1/2| 13 | 20' | 
 
-### Table 49: Monster List E
+### Table 52: Monster List E
 
-Monster                  | HD | AC | MV  | Special
-:---------------         |:---|:---|:----|:-------
-Efreeti (Lesser)         | 10 | 15 | 30' | Fly 80', mundane damage immunity, invisibility, illusion, wall of fire, confire metals and soft goods
-Elemental, Air           | 12 | 17 | -   | Fly 120', whirlwind, harm flying creatures +1d8
-Elemental, Earth         | 12 | 17 | 20' | Blocked by water, harm creatures on ground +1d8
-Elemental, Fire          | 12 | 17 | 40' | Blocked by water, harm cold-based creatures +1d8
-Elemental, Water         | 12 | 17 | 20' | Swim 60', water-bound, harm creatures in water +1d8
-Elephant                 | 9  | 13 | 40' | Charge, trample: adv against humans in touch range
-Elf                      | 1/2| 12 | 30' | Spellcasting
+Monster          | HD | AC | MV  | Special
+:--------------- |:---|:---|:----|:-------
+Efreeti (Lesser) | 10 | 15 | 30' | Fly 80', mundane damage immunity, invisibility, illusion, wall of fire, confire metals and soft goods
+Elemental, Air   | 12 | 17 | -   | Fly 120', whirlwind, harm flying creatures +1d8
+Elemental, Earth | 12 | 17 | 20' | Blocked by water, harm creatures on ground +1d8
+Elemental, Fire  | 12 | 17 | 40' | Blocked by water, harm cold-based creatures +1d8
+Elemental, Water | 12 | 17 | 20' | Swim 60', water-bound, harm creatures in water +1d8
+Elephant         | 9  | 13 | 40' | Charge, trample: adv against humans in touch range
+Elf              | 1/2| 12 | 30' | Spellcasting
 
-### Table 49: Monster List F
+### Table 53: Monster List F
 
-Monster                  | HD | AC | MV  | Special
-:---------------         |:---|:---|:----|:-------
-Ferret, Giant            | 1  | 12 | 50' | 
-Fish, Giant Bass         | 2  | 10 | -   | Swim 40'
-Fish, Giant Catfish      | 8  | 13 | -   | Swim 30', Swallow whole
-Fish, Giant Piranha      | 3  | 11 | -   | Swim 50', Swarm 8-on-1
-Fish, Giant Rockfish     | 5  | 10 | -   | Swim 60', Poison spines (Con Save or die)
-Fish, Giant Sturgeon     | 10 | 10 | -   | Swim 60', Swallow whole
+Monster              | HD | AC | MV  | Special
+:---------------     |:---|:---|:----|:-------
+Ferret, Giant        | 1  | 12 | 50' | 
+Fish, Giant Bass     | 2  | 10 | -   | Swim 40'
+Fish, Giant Catfish  | 8  | 13 | -   | Swim 30', Swallow whole
+Fish, Giant Piranha  | 3  | 11 | -   | Swim 50', Swarm 8-on-1
+Fish, Giant Rockfish | 5  | 10 | -   | Swim 60', Poison spines (Con Save or die)
+Fish, Giant Sturgeon | 10 | 10 | -   | Swim 60', Swallow whole
 
-### Table 49: Monster List G
+### Table 54: Monster List G
 
-Monster                  | HD | AC | MV  | Special
-:---------------         |:---|:---|:----|:-------
-Gargoyle                 | 4  | 12 | 30' | Fly 50', mundane damage immunity, immune to sleep & charm
-Gelatinous Cube          | 4  | 9  | 20' | Str save or paralysis 1d4 turns, cold & lightning immunity
-Ghoul                    | 2  | 11 | 30' | Paralysis 1d4 turns, Undead
-Giant, Cloud             | 12 | 13 | 40' | Keen senses, Long range boulder throwing 3d6
-Giant, Fire              | 11 | 13 | 40' | Fire immunity, Long range boulder throwing 3d6
-Giant, Frost             | 10 | 13 | 40' | Cold immunity, Long range boulder throwing 3d6
-Giant, Hill              | 8  | 13 | 40' |
-Giant, Stone             | 9  | 13 | 40' | Long range boulder throwing 3d6
-Giant, Storm             | 15 | 15 | 50' | Summon storm, Lightning bolt, Lightning immunity
-Gnoll                    | 2  | 12 | 30' |
-Gnoll, Leader            | 3  | 12 | 30' |
-Gnome                    | 1/2| 10 | 20' | Infravision
-Gnome, Bodyguard         | 3  | 10 | 20' | Infravision
-Gnome, Chieftain         | 4  | 10 | 20' | Infravision, +1 to damage
-Gnome, Leader            | 2  | 10 | 20' | Infravision
-Goblin                   | 1/2| 11 | 20' | Infravision, hate the sun
-Goblin, Bodyguard        | 2  | 11 | 20' | Infravision
-Goblin King              | 3  | 11 | 20' | Infravision, +1 to damage
-Golem, Amber             | 10 | 11 | 60' | Construct, Mundane damage immunity, perfect tracking, see invisibility
-Golem, Bone              | 8  | 15 | 40' | Construct, Mundane damage immunity, Energy immunity, Multiattack
-Golem, Bronze            | 20 | 17 | 80' | Construct, Mundane damage immunity, Fire immunity, Flaming blood Dex save or 2d6 dmg
-Golem, Wood              | 2  | 10 | 40' | Construct, Mundane damage immunity, flammable
-Gorgon                   | 8  | 15 | 40' | Charge, Breath: 60'x10' petrify
-Grey Ooze                | 3  | 10 | 3'  | Energy immunity, Acid destroys touched armor + 2d8 dmg
-Green Slime              | 2  | -  | 1'  | Acid: destroys wood and armor, consume flesh over 6 rounds, becomes green slime Cold and fire immunity
-Griffon                  | 7  | 12 | 40' | Fly 120'  
+Monster            | HD | AC | MV  | Special
+:---------------   |:---|:---|:----|:-------
+Gargoyle           | 4  | 12 | 30' | Fly 50', mundane damage immunity, immune to sleep & charm
+Gelatinous Cube    | 4  | 9  | 20' | Str save or paralysis 1d4 turns, cold & lightning immunity
+Ghoul              | 2  | 11 | 30' | Paralysis 1d4 turns, Undead
+Giant, Cloud       | 12 | 13 | 40' | Keen senses, Long range boulder throwing 3d6
+Giant, Fire        | 11 | 13 | 40' | Fire immunity, Long range boulder throwing 3d6
+Giant, Frost       | 10 | 13 | 40' | Cold immunity, Long range boulder throwing 3d6
+Giant, Hill        | 8  | 13 | 40' |
+Giant, Stone       | 9  | 13 | 40' | Long range boulder throwing 3d6
+Giant, Storm       | 15 | 15 | 50' | Summon storm, Lightning bolt, Lightning immunity
+Gnoll              | 2  | 12 | 30' |
+Gnoll, Leader      | 3  | 12 | 30' |
+Gnome              | 1/2| 10 | 20' | Infravision
+Gnome, Bodyguard   | 3  | 10 | 20' | Infravision
+Gnome, Chieftain   | 4  | 10 | 20' | Infravision, +1 to damage
+Gnome, Leader      | 2  | 10 | 20' | Infravision
+Goblin             | 1/2| 11 | 20' | Infravision, hate the sun
+Goblin, Bodyguard  | 2  | 11 | 20' | Infravision
+Goblin King        | 3  | 11 | 20' | Infravision, +1 to damage
+Golem, Amber       | 10 | 11 | 60' | Construct, Mundane damage immunity, perfect tracking, see invisibility
+Golem, Bone        | 8  | 15 | 40' | Construct, Mundane damage immunity, Energy immunity, Multiattack
+Golem, Bronze      | 20 | 17 | 80' | Construct, Mundane damage immunity, Fire immunity, Flaming blood Dex save or 2d6 dmg
+Golem, Wood        | 2  | 10 | 40' | Construct, Mundane damage immunity, flammable
+Gorgon             | 8  | 15 | 40' | Charge, Breath: 60'x10' petrify
+Grey Ooze          | 3  | 10 | 3'  | Energy immunity, Acid destroys touched armor + 2d8 dmg
+Green Slime        | 2  | -  | 1'  | Acid: destroys wood and armor, consume flesh over 6 rounds, becomes green slime Cold and fire immunity
+Griffon            | 7  | 12 | 40' | Fly 120'
+
+### Table 55: Monster List H
+
+Monster              | HD | AC | MV  | Special
+:---------------     |:---|:---|:----|:-------
+Halfling             | 1/2| 11 | 30' | 
+Halfling, Guard      | 2  | 11 | 30' | 
+Harpy                | 3  | 10 | 20' | Fly 50', Charm long range, Magic resistance: +2 saves
+Hawk, Giant          | 3  | 11 | -   | Fly 150', Swoop: charge, carry prey
+Hawk, Normal         | 1/2| 10 | -   | Fly 160' Swoop: charge
+Hellhound            | 5  | 13 | 40' | Fire breath: cone 60' recharge 5-6, Fire immunity, See invisibilty short range
+Hippogriff           | 3  | 12 | 60' | Fly 120'
+Hobgoblin            | 1  | 11 | 30' |
+Hobgoblin, Bodyguard | 4  | 11 | 30' |
+Hobgoblin, King      | 5  | 11 | 30' | +1 to damage
+Horse, Draft         | 3  | 10 | 30' |
+Horse, Riding        | 2  | 10 | 80' |
+Horse, War           | 3  | 10 | 40' | Charge
+Horse, Wild          | 2  | 10 | 80' | Stampede
+Hydra                | 5  | 12 | 40' | +1 HD for each additional head
+
+### Table 56: Monster List I
+
+Monster            | HD | AC | MV  | Special
+:---------------   |:---|:---|:----|:-------
+Insect Swarm       | 2  | 10 | 10' | Fly 20', Immunity: everything except fire, cold, sleep
+Invisible Stalker  | 8  | 14 | 40' | Perfect tracking, Invisibility
