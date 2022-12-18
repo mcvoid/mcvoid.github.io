@@ -257,6 +257,7 @@ Trait                      | Effect
 | Armor & Weapons          | All one-handed weapons, crossbows, light weapons and armors
 | Saving Throw Proficiency | Dexterity, Constitution
 | Jack Skills              | Stealth, lockpick tools, perception, climbing, disarming traps, and sleight of hand proficiency
+ Spell Save DC             | 8 + Proficiency bonus + Int Bonus
 | Lucky                    | Reroll 1's on any ability check once
 | Spellbook                | 2 spells known, + 1 per level gained
 | Scroll Use               | Can cast scrolls or copy scrolls from their spell list
