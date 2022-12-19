@@ -129,31 +129,31 @@ Cyclops                  | 13 | 13 | 30' | Curse 1x/week
 Monster         | HD | AC | MV  | Special
 :---------------|:---|:---|:----|:-------
 Dervish         | 1  | 14 | 30' | 
-Djinni (Lesser) | 7  | 13 | 30' | Fly 90', spells: invisibilty, gaseous form, illusions, conjure metals and soft goods
+Djinni (Lesser) | 7  | 13 | 30' | Fly 90', Spells: Invisibilty, Gaseous form, Illusions, Conjure metals and soft goods
 Doppelgänger    | 4  | 13 | 30' | Shape Stealing
-Dragon, Black   | 7  | 16 | 30' | Fly 80', 60' line acid, 4 Tier-1 spells
-Dragon, Blue    | 9  | 17 | 30' | Fly 80', 100' line lightning, 4 Tier-1 + 4 Tier-2 spells
-Dragon, Gold    | 11 | 18 | 30' | Fly 80', 90' cone fire or poison, 4 Tier-1 + 4 Tier-2 spells + 4 Tier-3 spells
+Dragon, Black   | 7  | 16 | 30' | Fly 80', 60' Line acid, 4 Tier-1 spells
+Dragon, Blue    | 9  | 17 | 30' | Fly 80', 100' Line lightning, 4 Tier-1 + 4 Tier-2 spells
+Dragon, Gold    | 11 | 18 | 30' | Fly 80', 90' Cone fire or poison, 4 Tier-1 + 4 Tier-2 spells + 4 Tier-3 spells
 Dragon, Green   | 8  | 16 | 30' | Fly 80', Sphere poison, 3 Tier-1 + 3 Tier-2 spells
-Dragon, Red     | 10 | 18 | 30' | Fly 80', 90' cone of fire, 3 Tier-1 + 3 Tier-2 spells + 3 Tier-3 spells
+Dragon, Red     | 10 | 18 | 30' | Fly 80', 90' Cone of fire, 3 Tier-1 + 3 Tier-2 spells + 3 Tier-3 spells
 Dragon, Sea     | 8  | 16 | -   | Swim/glide 60', 20' sphere poison, 3 Tier-1 + 3 Tier-2 spells
-Dragon, White   | 6  | 15 | 30' | Fly 80', 80' cone of cold, 3 Tier-1 spells
-Dragon Turtle   | 30 | 19 | 10' | Swim 30', 90'x30' cylinder of steam
+Dragon, White   | 6  | 15 | 30' | Fly 80', 80' Cone of cold, 3 Tier-1 spells
+Dragon Turtle   | 30 | 19 | 10' | Swim 30', 90'x30' Cylinder of steam
 Driver Ant      | 4  | 14 | 60' | 
 Dryad           | 2  | 13 | 40' | Tree meld, charm
-Dwarf           | 1 | 13 | 20' | 
+Dwarf           | 1  | 13 | 20' | 
 
 ### Table 52: Monster List E
 
 Monster          | HD | AC | MV  | Special
 :--------------- |:---|:---|:----|:-------
-Efreeti (Lesser) | 10 | 15 | 30' | Fly 80', mundane damage immunity, invisibility, illusion, wall of fire, confire metals and soft goods
-Elemental, Air   | 12 | 17 | -   | Fly 120', whirlwind, harm flying creatures +1d8
-Elemental, Earth | 12 | 17 | 20' | Blocked by water, harm creatures on ground +1d8
-Elemental, Fire  | 12 | 17 | 40' | Blocked by water, harm cold-based creatures +1d8
-Elemental, Water | 12 | 17 | 20' | Swim 60', water-bound, harm creatures in water +1d8
-Elephant         | 9  | 13 | 40' | Charge, trample: adv against humans in touch range
-Elf              | 1 | 12 | 30' | Spellcasting
+Efreeti (Lesser) | 10 | 15 | 30' | Fly 80', Mundane damage immunity, invisibility, illusion, wall of fire, confire metals and soft goods
+Elemental, Air   | 12 | 17 | -   | Fly 120', Whirlwind, harm flying creatures +1d8
+Elemental, Earth | 12 | 17 | 20' | Blocked by water, Harm creatures on ground +1d8
+Elemental, Fire  | 12 | 17 | 40' | Blocked by water, Harm cold-based creatures +1d8
+Elemental, Water | 12 | 17 | 20' | Swim 60', Water-bound, Harm creatures in water +1d8
+Elephant         | 9  | 13 | 40' | Charge, Trample: adv against humans in touch range
+Elf              | 1  | 12 | 30' | Spellcasting
 
 ### Table 53: Monster List F
 
@@ -253,3 +253,17 @@ Lycanthrope, Wereboar          | 4  | 13 | 50' | Lycanthrope, Battle rage: +2 to
 Lycanthrope, Wererat           | 3  | 11 | 40' | Lycanthrope, Sneak attack +1d6
 Lycanthrope, Weretiger         | 5  | 14 | 50' | Lycanthrope, Camouflage
 Lycanthrope, Werewolf          | 4  | 12 | 60' | Lycanthrope
+
+### Table 58: Monster List M
+
+Monster                        | HD | AC | MV  | Special
+:---------------               |:---|:---|:----|:-------
+Manticore                      | 6  | 13 | 40' | Fly 120', Poison tail spikes
+Mastodon                       | 15 | 14 | 40' | Charge, Trample: adv against humans in touch range
+Medium                         | 1  | 10 | 30' | Spellcasting: 3 Tier-1 spells
+Medusa                         | 4  | 10 | 30' | Petrifying gaze, Snake bites poisonous
+Merchant                       | 1  | 12 | 30' | 
+Merman                         | 3  | 12 | -   | Swim 40', Water breathing
+Minotaur                       | 6  | 11 | 40' | 
+Mule                           | 1  | 10 | 40' | 
+Mummy                          | 5  | 14 | 20' | Undead, Cha save for paralyze with terror, Mummy rot on attack, Immune to everthing but magic & fire, half damage on everything
