@@ -53,6 +53,7 @@ Charge                  | -      | As per the combat maneuver
 Condition               | -      | Save or get condition (poison, paralysis, confusion) on successful attack
 Construct               | -      | Unharmed by gas; unaffected by charm, hold, and sleep spells.
 Damage resistance       | -      | Half or no damage to certain damage types
+Division                | -      | Attacking with edged weapons produces 2HD clones of the monster
 Infravision             | -      | Can see in the dark short range
 Lycanthrope             | 3      | Has human form, Mundane damage immunity, Summon 1d2 animals, wolfsbane forces Cha save or flee, Losing 1/2 total HP to lycanthrope attacks contracts infection
 Movement                | -      | Gain a fly/swim/burrow/hover, etc speed
@@ -88,7 +89,7 @@ Beetle, Fire       | 1   | 14 | 30' |
 Beetle, Oil        | 2   | 14 | 30' | Blistering, 10'
 Beetle, Tiger      | 3   | 14 | 30' |
 Berserker          | 1   | 11 | 30' |
-Black Jelly        | 10  | 11 | 20' | Non-fire immunity
+Black Jelly        | 10  | 11 | 20' | Non-fire immunity, Division
 Blink Dog          | 4   | 11 | 40' | Teleport
 Boar               | 3   | 12 | 50' |
 Brigand, Cavalier  | 1   | 16 | 30' |
@@ -270,6 +271,115 @@ Mummy     | 5  | 14 | 20' | Undead, Cha save for paralyze with terror, Mummy rot
 
 ### Table 60: Monster List N
 
-Monster                        | HD | AC | MV  | Special
-:---------------               |:---|:---|:----|:-------
+Monster               | HD | AC | MV  | Special
+:---------------      |:---|:---|:----|:-------
+Neanderthal (Caveman) | 2  | 10 | 40' | 
+Nixie                 | 1  | 11 | 40' | Charm, Bestow Water breathing, Summon giant bass
+Noble                 | 3  | 16 | 20' | 
+Nomad                 | 1  | 13 | 40' | 
+Normal Human          | 1/2| 10 | 30' |
 
+### Table 60: Monster List O
+
+Monster         | HD | AC | MV  | Special
+:---------------|:---|:---|:----|:-------
+Ochre Jelly     | 5  | 10 | 10' | Immune to all but ice and fire, Division
+Octopus, Giant  | 8  | 11 | 30' | Swim 30' Constriction +1d3 dmg, Ink cloud makes darkness
+Ogre            | 4  | 12 | 30' | 
+Orc             | 1  | 11 | 40' | Hate the sun
+Owl Bear        | 5  | 13 | 40' | Multiattack
+
+### Table 61: Monster List P
+
+Monster                | HD | AC | MV  | Special
+:-------------         |:---|:---|:----|:-------
+Pegasus                | 2  | 11 | 80' | Fly 160'
+Pirate                 | 1  | 12 | 30' | 
+Pixie                  | 1  | 14 | 30' | Fly 60', Invisibility
+Pterosaur, Pteranodon  | 5  | 11 | -   | Fly 80'
+Pterosaur, Pterodactyl | 1  | 11 | -   | Fly 60'
+Purple Worm            | 15 | 11 | 20' | Swallow whole, Poison: Con save or die
+
+### Table 62: Monster List R
+
+Monster         | HD | AC | MV  | Special
+:---------------|:---|:---|:----|:-------
+Rat
+Rhagodessa
+Rhinoceros
+Robber Fly
+Roc
+Rock Baboon
+Rust Monster 
+
+### Table 63: Monster List S
+
+Monster         | HD | AC | MV  | Special
+:---------------|:---|:---|:----|:-------
+Salamander
+Scorpion, Giant
+Sea Serpent (Lesser)
+Shadow
+Shark
+Shrew, Giant
+Shrieker
+Skeleton
+Snake
+Spectre
+Spider, Giant
+Sprite
+Squid, Giant
+Stegosaurus
+Stirge 
+
+### Table 64: Monster List T
+
+Monster         | HD | AC | MV  | Special
+:---------------|:---|:---|:----|:-------
+Thoul
+Titanothere
+Toad, Giant
+Trader
+Treant
+Triceratops
+Troglodyte
+Troll
+Tyrannosaurus Rex 
+
+### Table 65: Monster List U
+
+Monster         | HD | AC | MV  | Special
+:---------------|:---|:---|:----|:-------
+Unicorn
+
+### Table 66: Monster List V
+
+Monster         | HD | AC | MV  | Special
+:---------------|:---|:---|:----|:-------
+Vampire
+Veteran
+
+### Table 67: Monster List W
+
+Monster         | HD | AC | MV  | Special
+:---------------|:---|:---|:----|:-------
+Warp Beast
+Water Termite
+Weasel, Giant
+Whale
+Wight
+Wolf
+Wraith
+Wyvern 
+
+### Table 68: Monster List Y
+
+Monster         | HD | AC | MV  | Special
+:---------------|:---|:---|:----|:-------
+Yellow Mould
+
+### Table 68: Monster List Y
+
+Monster         | HD | AC | MV  | Special
+:---------------|:---|:---|:----|:-------
+Zombie
