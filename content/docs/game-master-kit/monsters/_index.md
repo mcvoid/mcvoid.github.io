@@ -254,16 +254,22 @@ Lycanthrope, Wererat           | 3  | 11 | 40' | Lycanthrope, Sneak attack +1d6
 Lycanthrope, Weretiger         | 5  | 14 | 50' | Lycanthrope, Camouflage
 Lycanthrope, Werewolf          | 4  | 12 | 60' | Lycanthrope
 
-### Table 58: Monster List M
+### Table 59: Monster List M
+
+Monster   | HD | AC | MV  | Special
+:---------|:---|:---|:----|:-------
+Manticore | 6  | 13 | 40' | Fly 120', Poison tail spikes
+Mastodon  | 15 | 14 | 40' | Charge, Trample: adv against humans in touch range
+Medium    | 1  | 10 | 30' | Spellcasting: 3 Tier-1 spells
+Medusa    | 4  | 10 | 30' | Petrifying gaze, Snake bites poisonous
+Merchant  | 1  | 12 | 30' | 
+Merman    | 3  | 12 | -   | Swim 40', Water breathing
+Minotaur  | 6  | 11 | 40' | 
+Mule      | 1  | 10 | 40' | 
+Mummy     | 5  | 14 | 20' | Undead, Cha save for paralyze with terror, Mummy rot on attack, Immune to everthing but magic & fire, half damage on everything
+
+### Table 60: Monster List N
 
 Monster                        | HD | AC | MV  | Special
 :---------------               |:---|:---|:----|:-------
-Manticore                      | 6  | 13 | 40' | Fly 120', Poison tail spikes
-Mastodon                       | 15 | 14 | 40' | Charge, Trample: adv against humans in touch range
-Medium                         | 1  | 10 | 30' | Spellcasting: 3 Tier-1 spells
-Medusa                         | 4  | 10 | 30' | Petrifying gaze, Snake bites poisonous
-Merchant                       | 1  | 12 | 30' | 
-Merman                         | 3  | 12 | -   | Swim 40', Water breathing
-Minotaur                       | 6  | 11 | 40' | 
-Mule                           | 1  | 10 | 40' | 
-Mummy                          | 5  | 14 | 20' | Undead, Cha save for paralyze with terror, Mummy rot on attack, Immune to everthing but magic & fire, half damage on everything
+
