@@ -1,5 +1,5 @@
 ---
-title: "Player Guide"
+title: "Introduction"
 ---
 
 # ADHD Basic
@@ -30,9 +30,9 @@ We have some opinionated answers to help solve that, and we would love to know w
 * Have the entire character sheet fit on one side of a sheet of paper, or even a postcard.
 * Have fast, flowing combat while still having options.
 * Have a flexible system for skills that encourages imagination both in and out of combat.
-* Be less mechanically-depended on species, while boosting the mechanical goodness of backgrounds.
+* Be less mechanically-dependent on species, while boosting the mechanical goodness of backgrounds.
 * Minimize time spent shuffling through books for rules, spells, and edge cases.
-* Easier encounter building with more predictible difficulty.
+* Easier encounter building with more predictable difficulty.
 
 ### Not Design Goals
 
