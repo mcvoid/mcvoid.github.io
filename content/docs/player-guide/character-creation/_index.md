@@ -157,10 +157,10 @@ level 5, increases to +4 upon reaching level 9, +5 at level
 The spell slots for a spellcaster are updated according to
 the chart in their class description.
 
-Spellcasters add 2  spells to their spellbook of a tier for
-which they have  spell slots. They may not add any spells
+Spellcasters add 2  spells to their spellbook of a level for
+which they have spell slots. They may not add any spells
 not in their respective spell list. If they do not yet any
-any slots upon  leveling, they do not add any spells to
+any slots upon leveling, they do not add any spells to
 their book.
 
 A spellcaster may also add any spells from another

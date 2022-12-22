@@ -61,7 +61,6 @@ Lycanthrope             | 3      | Has human form, Mundane damage immunity, Summ
 Movement                | -      | Gain a fly/swim/burrow/hover, etc speed
 Multiattack             | 3      | 1 extra attack per 3HD (+1 die to Dmg/Round)
 Permanent Ability Drain | 5      | Save or permanently lose 1d6 of that ability 
-Reshape Environment     | -      | Affect stone, plants, weather, illusions, or magic fields in short range
 Regeneration            | -      | Regain hit points per round unless damaged by fire
 Resistance              | -      | +2 to saving throws
 Spellcasting            | -      | Know 2 spells
@@ -137,13 +136,13 @@ Monster         | HD | AC | MV  | Special
 Dervish         | 1  | 14 | 30' | 
 Djinni (Lesser) | 7  | 13 | 30' | Fly 90', Spells: Invisibilty, Gaseous form, Illusions, Conjure metals and soft goods
 Doppelgänger    | 4  | 13 | 30' | Shape Stealing
-Dragon, Black   | 7  | 16 | 30' | Fly 80', 60' Line acid, 4 Tier-1 spells
-Dragon, Blue    | 9  | 18 | 30' | Fly 80', 100' Line lightning, 4 Tier-1 + 4 Tier-2 spells
-Dragon, Gold    | 11 | 20 | 30' | Fly 80', 90' Cone fire or poison, 4 Tier-1 + 4 Tier-2 spells + 4 Tier-3 spells
-Dragon, Green   | 8  | 17 | 30' | Fly 80', Sphere poison, 3 Tier-1 + 3 Tier-2 spells
-Dragon, Red     | 10 | 19 | 30' | Fly 80', 90' Cone of fire, 3 Tier-1 + 3 Tier-2 spells + 3 Tier-3 spells
-Dragon, Sea     | 8  | 17 | -   | Swim/glide 60', 20' sphere poison, 3 Tier-1 + 3 Tier-2 spells
-Dragon, White   | 6  | 15 | 30' | Fly 80', 80' Cone of cold, 3 Tier-1 spells
+Dragon, Black   | 7  | 16 | 30' | Fly 80', 60' Line acid, 4 arcane spells
+Dragon, Blue    | 9  | 18 | 30' | Fly 80', 100' Line lightning, 8 arcane spells
+Dragon, Gold    | 11 | 20 | 30' | Fly 80', 90' Cone fire or poison, 12 arcane spells
+Dragon, Green   | 8  | 17 | 30' | Fly 80', Sphere poison, 6 arcane spells
+Dragon, Red     | 10 | 19 | 30' | Fly 80', 90' Cone of fire, 9 arcane spells
+Dragon, Sea     | 8  | 17 | -   | Swim/glide 60', 20' sphere poison, 6 arcane spells
+Dragon, White   | 6  | 15 | 30' | Fly 80', 80' Cone of cold, 3 arcane spells
 Dragon Turtle   | 30 | 20 | 10' | Swim 30', 90'x30' Cylinder of steam
 Driver Ant      | 4  | 15 | 60' | 
 Dryad           | 2  | 13 | 40' | Tree meld, charm
@@ -274,7 +273,7 @@ Monster   | HD | AC | MV  | Special
 :---------|:---|:---|:----|:-------
 Manticore | 6  | 14 | 40' | Fly 120', Poison tail spikes
 Mastodon  | 15 | 15 | 40' | Charge, Trample
-Medium    | 1  | 10 | 30' | Spellcasting: 3 Tier-1 spells
+Medium    | 1  | 10 | 30' | Spellcasting: 3 arcane spells
 Medusa    | 4  | 10 | 30' | Petrifying gaze, Snake bites poisonous
 Merchant  | 1  | 13 | 30' | 
 Merman    | 3  | 12 | -   | Swim 40', Water breathing

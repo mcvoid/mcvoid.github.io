@@ -19,7 +19,6 @@ The cleric is a holy servant, on a mission. Clerics cast divine magic, largely d
  Starting Hit Points      | 4 + 1d8 + Con Bonus
  Armor & Weapons          | Clubs, maces, and all armor and shields
  Saving Throw Proficiency | Wisdom, Charisma
- Spell Save DC            | 8 + Proficiency bonus + Wis Bonus
  Turn Undead              | Turn away undead within 30'
  Divine Casting           | Memorize 1 spell per slot
  Scroll Use               | Can cast scrolls from their spell list
@@ -32,29 +31,11 @@ As an action, a cleric may rebuke any undead creatures in a 30' radius. Any affe
 
 #### Trait: Divine Spellcasting
 
-Beginning at 2nd level, a cleric can cast divine spells. Each day the cleric can memorize a number of spells equal to the number of spell slots for that tier, from the entire divine spell list.
-
-##### Cleric Spell Slots per Tier
-
- **Level** | 1st | 2nd | 3rd | 4th | 5th | 6th 
-:----------|:----|:----|:----|:----|:----|:----
- 1         | -   | -   | -   | -   | -   | -   
- 2         | 1   | -   | -   | -   | -   | -   
- 3         | 2   | -   | -   | -   | -   | -   
- 4         | 2   | 1   | -   | -   | -   | -   
- 5         | 2   | 2   | -   | -   | -   | -   
- 6         | 2   | 2   | 1   | -   | -   | -   
- 7         | 2   | 2   | 2   | -   | -   | -   
- 8         | 3   | 2   | 2   | 1   | -   | -   
- 9         | 3   | 2   | 2   | 2   | -   | -   
- 10        | 3   | 3   | 2   | 2   | 1   | -   
- 11        | 3   | 3   | 2   | 2   | 2   | -   
- 12        | 4   | 3   | 3   | 2   | 2   | 1   
- 13        | 4   | 3   | 3   | 2   | 2   | 2   
+Beginning at 2nd level, a cleric can cast divine spells. Each day the cleric can memorize a number of spells equal to the number of spell slots for that level, from the entire divine spell list.
 
 #### Trait: Scroll Use
 
-A cleric can cast a divine spell from a scroll without memorizing the spell or expending a spell slot. Doing so destroys the scroll. The mage must make an wisdom check with proficiency against a DC 10 + spell tier. Failing causes the casting to fail. If the spell is of the level the cleric can memorize and cast normally, the check automatically succeeds.
+A cleric can cast a divine spell from a scroll without memorizing the spell or expending a spell slot. Doing so destroys the scroll. The mage must make an wisdom check with proficiency against a DC 5 + spell level. Failing causes the casting to fail. If the spell is of the level the cleric can memorize and cast normally, the check automatically succeeds.
 
 #### Trait: Smite
 
@@ -80,6 +61,46 @@ Beginning at 4th level, a cleric can channel divine power into a single attack r
 
 
 
+##### Cleric Spell Slots by Level
+
+ **Level** | 2nd | 4th | 6th | 8th | 10th| 12th 
+:----------|:----|:----|:----|:----|:----|:----
+ 1         | -   | -   | -   | -   | -   | -   
+ 2         | 1   | -   | -   | -   | -   | -   
+ 3         | 2   | -   | -   | -   | -   | -   
+ 4         | 2   | 1   | -   | -   | -   | -   
+ 5         | 2   | 2   | -   | -   | -   | -   
+ 6         | 2   | 2   | 1   | -   | -   | -   
+ 7         | 2   | 2   | 2   | -   | -   | -   
+ 8         | 3   | 2   | 2   | 1   | -   | -   
+ 9         | 3   | 2   | 2   | 2   | -   | -   
+ 10        | 3   | 3   | 2   | 2   | 1   | -   
+ 11        | 3   | 3   | 2   | 2   | 2   | -   
+ 12        | 4   | 3   | 3   | 2   | 2   | 1   
+ 13        | 4   | 3   | 3   | 2   | 2   | 2   
+
+##### Cleric Spell List
+
+ 2nd | 4th | 6th | 
+:----|:----|:----|
+Cure Light Wounds (Cause Lt. Wounds) | Bless (Blight)      | Continual Light (Continual Darkness)
+Detect Evil                          | Find Traps          | Cure Disease (Cause Disease)
+Detect Magic                         | Hold Person         | Growth of Animal
+Light (Darkness)                     | Know Alignment      | Locate Object
+Protection from Evil                 | Resist Fire         | Remove Curse (Curse)
+Purify Food and Water                | Silence 15’ Radius  | Striking
+Remove Fear (Cause Fear)             | Snake Charm         | 
+Resist Cold                          | Speak with Animals  | 
+
+8th | 10th| 12th 
+:----|:----|:----
+Create Water                            | Commune                      | Animate Dead
+Cure Serious Wounds (Cause Sr. Wounds)  | Create Food                  | Animate Objects
+Neutralize Poison                       | Dispel Evil                  | Antilife Shell 
+Protection from Evil 10’ Radius         | Insect Plague                | Find the Path  
+Speak with Plants                       | Quest (Remove Quest)         | Word of Recall 
+Sticks to Snakes                        | Raise Dead (Finger of Death) | 
+
 ## Dwarf
 
 Dwarven armies have gained their sterling reputation through constant warfare with the
@@ -98,7 +119,6 @@ Trait                     | Effect
  Starting Hit Points      | 4 + 1d8 + Con Bonus
  Armor & Weapons          | All melee weapons, all armor and shields
  Saving Throw Proficiency | Constitution, Wisdom
- Spell Save DC            | 8 + Proficiency bonus + Wis Bonus
  Lay on Hands             | 1d8/level healing per day
  Smite                    | +1d8 to damage on attack action
  Divine Spellcasting      | Memorize 1 spell per slot
@@ -115,26 +135,7 @@ Beginning at 2nd level, a dwarf can channel divine power into a single attack ro
 
 #### Trait: Divine Spellcasting
 
-Beginning at 2nd level, a dwarf can cast divine spells. Each day the dwarf can memorize a number of spells equal to the number of spell slots for that tier, from the entire divine spell list.
-
-##### Dwarf Spell Slots per Tier
-
- **Level** | 1st | 2nd | 3rd
-:----------|:----|:----|:---
- 1         | -   | -   | -  
- 2         | -   | -   | -  
- 3         | 1   | -   | -  
- 4         | 1   | -   | -  
- 5         | 2   | -   | -  
- 6         | 2   | -   | -  
- 7         | 2   | 1   | -  
- 8         | 2   | 1   | -  
- 8         | 2   | 2   | -  
- 9         | 2   | 2   | -  
- 10        | 2   | 2   | 1  
- 11        | 2   | 2   | 1  
- 12        | 2   | 2   | 2  
- 13        | 2   | 2   | 2  
+Beginning at 2nd level, a dwarf can cast divine spells. Each day the dwarf can memorize a number of spells equal to the number of spell slots for that level, from the entire divine spell list.
 
 #### Trait: Inspire Courage
 
@@ -164,6 +165,38 @@ Beginning at 6th level, a dwarf can gain a warrior's combat maneuver from Table 
 
 
 
+##### Dwarf Spell Slots by Level
+
+ **Level** | 3rd | 7th | 10th
+:----------|:----|:----|:---
+ 1         | -   | -   | -  
+ 2         | -   | -   | -  
+ 3         | 1   | -   | -  
+ 4         | 1   | -   | -  
+ 5         | 2   | -   | -  
+ 6         | 2   | -   | -  
+ 7         | 2   | 1   | -  
+ 8         | 2   | 1   | -  
+ 8         | 2   | 2   | -  
+ 9         | 2   | 2   | -  
+ 10        | 2   | 2   | 1  
+ 11        | 2   | 2   | 1  
+ 12        | 2   | 2   | 2  
+ 13        | 2   | 2   | 2  
+
+##### Dwarf Spell List
+
+3rd | 7th | 10th
+:----|:----|:----
+Cure Light Wounds (Cause Lt. Wounds) | Bless (Blight)      | Continual Light (Continual Darkness)
+Detect Evil                          | Find Traps          | Cure Disease (Cause Disease)
+Detect Magic                         | Hold Person         | Growth of Animal
+Light (Darkness)                     | Know Alignment      | Locate Object
+Protection from Evil                 | Resist Fire         | Remove Curse (Curse)
+Purify Food and Water                | Silence 15’ Radius  | Striking
+Remove Fear (Cause Fear)             | Snake Charm         | 
+Resist Cold                          | Speak with Animals  | 
+
 ## Elf
 
 The elves have developed their own elegant style of combat, dancing gracefully among enemies, twin blades twirling, along with a canny arsenal of acrane magic to augment their combat. The elite among them are given the title of bladesinger.
@@ -178,7 +211,6 @@ Trait                    | Effect
  Starting Hit Points        | 4 + 1d6 + Con Bonus
  Armor & Weapons            | Swords, bows, light weapons, light armor
  Saving Throw Proficiency   | Constitution, Wisdom
- Spell Save DC              | 8 + Proficiency bonus + Int Bonus
  Spellbook                  | 2 spells known, + 1 per level gained
  Two Weapon Fighting        | Gain the warrior combat maneuver
  Additional Combat Maneuver | Pick another warrior combat maneuver
@@ -189,24 +221,6 @@ Trait                    | Effect
 Elves start with a spellbook. That spellbook has 2 spells in it. An elf can learn an effectively infinite number of spells by adding them to the book. Spells can be added by finding other spellbooks and scrolls and adding the spells contained in them to their own spellbook. Doing so from a scroll destroys the scroll.
 
 Spells can be memorized from the spellbook. An elf can memorize 1 spell per half their level + their intelligence bonus each day. These spells are cast using the spell slot.
-
-##### Table 22: Elf Spell Slots by Tier
-
- **Level** | 1st | 2nd | 3rd | 4th 
-:----------|:----|:----|:----|:---
- 1         | 1   | -   | -   | -   
- 2         | 1   | -   | -   | -   
- 3         | 2   | -   | -   | -   
- 4         | 2   | -   | -   | -   
- 5         | 2   | 1   | -   | -   
- 6         | 2   | 1   | -   | -   
- 7         | 2   | 2   | -   | -   
- 8         | 2   | 2   | -   | -   
- 9         | 2   | 2   | 1   | -   
- 10        | 2   | 2   | 1   | -   
- 11        | 2   | 2   | 2   | -   
- 12        | 2   | 2   | 2   | -   
- 13        | 3   | 2   | 2   | 1   
 
 #### Trait: Two Weapon Fighting
 
@@ -240,6 +254,41 @@ Upon reaching 6th and 10th level, an elf may select one of the following categor
 
 
 
+##### Table 22: Elf Spell Slots by Level
+
+ **Level** | 1st | 5th | 9th | 13th 
+:----------|:----|:----|:----|:---
+ 1         | 1   | -   | -   | -   
+ 2         | 1   | -   | -   | -   
+ 3         | 2   | -   | -   | -   
+ 4         | 2   | -   | -   | -   
+ 5         | 2   | 1   | -   | -   
+ 6         | 2   | 1   | -   | -   
+ 7         | 2   | 2   | -   | -   
+ 8         | 2   | 2   | -   | -   
+ 9         | 2   | 2   | 1   | -   
+ 10        | 2   | 2   | 1   | -   
+ 11        | 2   | 2   | 2   | -   
+ 12        | 2   | 2   | 2   | -   
+ 13        | 3   | 2   | 2   | 1   
+
+##### Elf Spell List
+
+ 1st | 5th | 9th | 13th
+:----|:----|:----|:----
+Charm Person         | Continual Light (Continual Darkness)  | Clairvoyance                     | Charm Monster
+Detect Magic         | Detect Evil                           | Dispel Magic                     | Confusion
+Floating Disc        | Detect Invisible                      | Fire Ball                        | Dimension Door
+Hold Portal          | ESP                                   | Fly                              | Growth of Plants
+Light (Darkness)     | Invisibility                          | Haste                            | Hallucinatory Terrain
+Magic Missile        | Knock                                 | Hold Person                      | Massmorph
+Protection from Evil | Levitate                              | Infravision                      | Polymorph Others
+Read Languages       | Locate Object                         | Invisibility 10’ Radius          | Polymorph Self
+Read Magic           | Mirror Image                          | Lightning Bolt                   | Remove Curse (Curse)
+Shield               | Phantasmal Force                      | Protection from Evil 10’ Radius  | Wall of Fire
+Sleep                | Web                                   | Protection from Normal Missiles  | Wall of Ice
+Ventriloquism        | Wizard Lock                           | Water Breathing                  | Wizard Eye
+
 ## Jack
 
 We all know that person who can take apart machinery and put it back together, plays multiple musical instruments, binds their own books by hand, and practives multiple martial arts. That person would be a jack.
@@ -257,7 +306,6 @@ Trait                      | Effect
 | Armor & Weapons          | All one-handed weapons, crossbows, light weapons and armors
 | Saving Throw Proficiency | Dexterity, Constitution
 | Jack Skills              | Stealth, lockpick tools, perception, climbing, disarming traps, and sleight of hand proficiency
- Spell Save DC             | 8 + Proficiency bonus + Int Bonus
 | Lucky                    | Reroll 1's on any ability check once
 | Spellbook                | 2 spells known, + 1 per level gained
 | Scroll Use               | Can cast scrolls or copy scrolls from their spell list
@@ -276,27 +324,9 @@ Starting at 2nd level jacks gain a spellbook. That spellbook has 2 spells in it.
 
 Spells can be memorized from the spellbook. A jack can memorize 1 spell per level + their intelligence bonus each day. These spells are cast using the spell slot.
 
-##### Table 22: Jack Spell Slots by Tier
-
- **Level** | 1st | 2nd | 3rd | 4th 
-:----------|:----|:----|:----|:---
- 1         | 1   | -   | -   | -   
- 2         | 1   | -   | -   | -   
- 3         | 2   | -   | -   | -   
- 4         | 2   | -   | -   | -   
- 5         | 2   | 1   | -   | -   
- 6         | 2   | 1   | -   | -   
- 7         | 2   | 2   | -   | -   
- 8         | 2   | 2   | -   | -   
- 9         | 2   | 2   | 1   | -   
- 10        | 2   | 2   | 1   | -   
- 11        | 2   | 2   | 2   | -   
- 12        | 2   | 2   | 2   | -   
- 13        | 3   | 2   | 2   | 1   
-
 #### Trait: Scroll Use
 
-A Jack can cast an arcane spell from a scroll without memorizing the spell or expending a spell slot. Doing so destroys the scroll. The jack must make a charisma check with proficiency against a DC 10 + spell tier. Failing causes the casting to fail. If the spell is of the level the jack can memorize and cast normally, the check automatically succeeds.
+A Jack can cast a spell from a scroll without memorizing the spell or expending a spell slot. Doing so destroys the scroll. The jack must make a charisma check with proficiency against a DC 5 + spell level. Failing causes the casting to fail. If the spell is of the level the jack can memorize and cast normally, the check automatically succeeds. Use the Mage or Cleric spell list to determine spell level.
 
 #### Trait: Deciphering Languages
 At 6th level a jack gains proficiency in deciphering languages.
@@ -323,6 +353,42 @@ At 3rd level, a jack grant advantage to an ally within 30' once per day as a rea
  13        | 10d6+6   | +5                |
 
 
+##### Table 22: Jack Spell Slots by Level
+
+ **Level** | 1st | 5th | 9th | 13th 
+:----------|:----|:----|:----|:---
+ 1         | 1   | -   | -   | -   
+ 2         | 1   | -   | -   | -   
+ 3         | 2   | -   | -   | -   
+ 4         | 2   | -   | -   | -   
+ 5         | 2   | 1   | -   | -   
+ 6         | 2   | 1   | -   | -   
+ 7         | 2   | 2   | -   | -   
+ 8         | 2   | 2   | -   | -   
+ 9         | 2   | 2   | 1   | -   
+ 10        | 2   | 2   | 1   | -   
+ 11        | 2   | 2   | 2   | -   
+ 12        | 2   | 2   | 2   | -   
+ 13        | 3   | 2   | 2   | 1   
+
+
+##### Jack Spell List
+
+ 1st | 5th | 9th | 13th
+:----|:----|:----|:----
+Charm Person         | Continual Light (Continual Darkness)  | Clairvoyance                     | Charm Monster
+Detect Magic         | Detect Evil                           | Dispel Magic                     | Confusion
+Floating Disc        | Detect Invisible                      | Fire Ball                        | Dimension Door
+Hold Portal          | ESP                                   | Fly                              | Growth of Plants
+Light (Darkness)     | Invisibility                          | Haste                            | Hallucinatory Terrain
+Magic Missile        | Knock                                 | Hold Person                      | Massmorph
+Protection from Evil | Levitate                              | Infravision                      | Polymorph Others
+Read Languages       | Locate Object                         | Invisibility 10’ Radius          | Polymorph Self
+Read Magic           | Mirror Image                          | Lightning Bolt                   | Remove Curse (Curse)
+Shield               | Phantasmal Force                      | Protection from Evil 10’ Radius  | Wall of Fire
+Sleep                | Web                                   | Protection from Normal Missiles  | Wall of Ice
+Ventriloquism        | Wizard Lock                           | Water Breathing                  | Wizard Eye
+
 
 ## Mage
 
@@ -338,7 +404,6 @@ Trait                    | Effect
  Starting Hit Points      | 4 + 1d4 + Con Bonus
  Armor & Weapons          | Daggers and staves
  Saving Throw Proficiency | Intelligence, Wisdom
- Spell Save DC            | 8 + Proficiency bonus + Int Bonus
  Spellbook                | 2 spells known, + 1 per level gained
  Ritual Casting           | Cast spells from spellbook for free, but it takes 10 minutes
  Scroll Use               | Can cast or copy scrolls from their spell list
@@ -349,23 +414,6 @@ Mages start with a spellbook. That spellbook has 2 spells in it. A mage can lear
 
 Spells can be memorized from the spellbook. A mage can memorize 1 spell per level + their intelligence bonus each day. These spells are cast using the spell slot.
 
-##### Table 22: Mage Spell Slots by Tier
-
- **Level** | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th 
-:----------|:----|:----|:----|:----|:----|:----|:----
- 1         | 1   | -   | -   | -   | -   | -   | -   
- 2         | 2   | -   | -   | -   | -   | -   | -   
- 3         | 2   | 1   | -   | -   | -   | -   | -   
- 4         | 2   | 2   | -   | -   | -   | -   | -   
- 5         | 2   | 2   | 1   | -   | -   | -   | -   
- 6         | 2   | 2   | 2   | -   | -   | -   | -   
- 7         | 3   | 2   | 2   | 1   | -   | -   | -   
- 8         | 3   | 2   | 2   | 2   | -   | -   | -   
- 9         | 3   | 3   | 2   | 2   | 1   | -   | -   
- 10        | 3   | 3   | 2   | 2   | 2   | -   | -   
- 11        | 4   | 3   | 3   | 2   | 2   | 1   | -   
- 12        | 4   | 3   | 3   | 2   | 2   | 2   | -   
- 13        | 4   | 4   | 3   | 3   | 2   | 2   | 1   
 
 #### Trait: Ritual Casting
 
@@ -373,7 +421,7 @@ A mage can cast any spell from their spellbook without memorizing it or expendin
 
 #### Trait: Scroll Use
 
-A mage can cast an arcane spell from a scroll without memorizing the spell or expending a spell slot. Doing so destroys the scroll. The mage must make an intelligence check with proficiency against a DC 10 + spell tier. Failing causes the casting to fail. If the spell is of the level the mage can memorize and cast normally, the check automatically succeeds.
+A mage can cast an arcane spell from a scroll without memorizing the spell or expending a spell slot. Doing so destroys the scroll. The mage must make an intelligence check with proficiency against a DC 5 + spell level. Failing causes the casting to fail. If the spell is of the level the mage can memorize and cast normally, the check automatically succeeds.
 
 ##### Table 22: Mage Abilities by Level
 
@@ -392,6 +440,58 @@ A mage can cast an arcane spell from a scroll without memorizing the spell or ex
  11        | 10d4+1   | +4                |
  12        | 10d4+2   | +4                |
  13        | 10d4+3   | +5                |
+
+
+##### Table 22: Mage Spell Slots by Level
+
+ **Level** | 1st | 3rd | 5th | 7th | 9th | 11th | 13th 
+:----------|:----|:----|:----|:----|:----|:----|:----
+ 1         | 1   | -   | -   | -   | -   | -   | -   
+ 2         | 2   | -   | -   | -   | -   | -   | -   
+ 3         | 2   | 1   | -   | -   | -   | -   | -   
+ 4         | 2   | 2   | -   | -   | -   | -   | -   
+ 5         | 2   | 2   | 1   | -   | -   | -   | -   
+ 6         | 2   | 2   | 2   | -   | -   | -   | -   
+ 7         | 3   | 2   | 2   | 1   | -   | -   | -   
+ 8         | 3   | 2   | 2   | 2   | -   | -   | -   
+ 9         | 3   | 3   | 2   | 2   | 1   | -   | -   
+ 10        | 3   | 3   | 2   | 2   | 2   | -   | -   
+ 11        | 4   | 3   | 3   | 2   | 2   | 1   | -   
+ 12        | 4   | 3   | 3   | 2   | 2   | 2   | -   
+ 13        | 4   | 4   | 3   | 3   | 2   | 2   | 1   
+
+##### Mage Spell List
+
+ 1st | 3rd | 5th | 7th
+:----|:----|:----|:----
+Charm Person         | Continual Light (Continual Darkness)  | Clairvoyance                     | Charm Monster
+Detect Magic         | Detect Evil                           | Dispel Magic                     | Confusion
+Floating Disc        | Detect Invisible                      | Fire Ball                        | Dimension Door
+Hold Portal          | ESP                                   | Fly                              | Growth of Plants
+Light (Darkness)     | Invisibility                          | Haste                            | Hallucinatory Terrain
+Magic Missile        | Knock                                 | Hold Person                      | Massmorph
+Protection from Evil | Levitate                              | Infravision                      | Polymorph Others
+Read Languages       | Locate Object                         | Invisibility 10’ Radius          | Polymorph Self
+Read Magic           | Mirror Image                          | Lightning Bolt                   | Remove Curse (Curse)
+Shield               | Phantasmal Force                      | Protection from Evil 10’ Radius  | Wall of Fire
+Sleep                | Web                                   | Protection from Normal Missiles  | Wall of Ice
+Ventriloquism        | Wizard Lock                           | Water Breathing                  | Wizard Eye
+
+9th | 11th| 13th 
+:----|:----|:----
+Animate Dead                        | Anti-Magic Shell   | Delayed Blast Fireball
+Cloudkill                           | Control Weather    | Legend Lore           
+Conjure Elemental                   | Death Spell        | Power Word Stun       
+Contact Higher Plane                | Disintegrate       | Reverse Gravity       
+Feeblemind                          | Geas (Remove Geas) | Instant Summons       
+Hold Monster                        | Invisible Stalker  | Arcane Sword          
+Magic Jar                           | Lower Water        | Greater Teleport      
+Pass-Wall                           | Move Earth
+Telekinesis                         | Part Water
+Teleport                            | Projected Image
+Transmute Rock to Mud (Mud to Rock) | Reincarnation
+Wall of Stone                       | Stone to Flesh (Flesh to Stone)
+
 
 ## Thief
 
@@ -416,7 +516,7 @@ Trait                    | Effect
  Thief Skills             | Stealth, lockpick tools, perception, climbing, disarming traps, and sleight of hand proficiency
  Skill Mastery            | Double proficiency bonus in a selected thief skill
  Deciphering Languages    | Gain proficiency in deciphering languages
- Scroll Use               | Cast scroll with a Cha check DC 10+spell tier
+ Scroll Use               | Cast scroll with a Cha check DC 5 + spell level
 
 #### Trait: Backstab
 When a thief either attacks on an initiative round, or attacks with advantage, they add 2d6 to their damage roll. The damage increases by an additional 1d6 for every third level gained.
@@ -431,7 +531,7 @@ For each four levels gained, you may select one thief skill to gain expertise in
 At 6th level a thief gains proficiency in deciphering languages and may gain skill mastery in it at later levels.
 
 #### Trait: Scroll Use
-At 8th Level a Thief can attempt to cast scrolls of spells as an action. To do so requires a Charisma check DC 10 + tier of the spell. At 10th level they are proficient in scroll use and so may apply their proficiency bonus to the check.
+At 8th Level a Thief can attempt to cast scrolls of spells as an action. To do so requires a Charisma check DC 5 + spell of the spell. At 10th level they are proficient in scroll use and so may apply their proficiency bonus to the check. Use the Mage or Cleric spell list to determine spell level.
 
 ##### Table 24: Thief Abilities by Level
 
@@ -517,3 +617,4 @@ For every four levels gained, you may select one of the following categories of 
 11         | 10d10+3  | +4                |
 12         | 10d10+6  | +4                |
 13         | 10d10+9  | +5                | Additional combat maneuver, Weapon Mastery
+
