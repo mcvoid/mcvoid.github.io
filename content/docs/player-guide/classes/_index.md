@@ -20,6 +20,7 @@ The cleric is a holy servant, on a mission. Clerics cast divine magic, largely d
  Armor & Weapons          | Clubs, maces, and all armor and shields
  Saving Throw Proficiency | Wisdom, Charisma
  Turn Undead              | Turn away undead within 30'
+ Augury                   | Ask about the future, get the answer "weal" and/or "woe".
  Divine Casting           | Memorize 1 spell per slot
  Scroll Use               | Can cast scrolls from their spell list
  Smite                    | +1d8 to damage on attack action
@@ -28,6 +29,10 @@ The cleric is a holy servant, on a mission. Clerics cast divine magic, largely d
 #### Trait: Turn Undead
 
 As an action, a cleric may rebuke any undead creatures in a 30' radius. Any affected undead creatures must make a wisdom save or the must flee and cannot move closer to the cleric. The DC for the save is 10 + the cleric's charisma bonus. The DC increases by 1 upon gaining 3rd level, and again on levels 5, 7, 10, and 13.
+
+#### Trait: Augury
+
+Once per day, a cleric may ask their patron deity a single question about what the future portends. For example, "Is it a good idea to open this door?". The cleric will get one of three answers: "Weal" if the outcome would be generally good, "Woe" if the outcome would be generally bad, or both "Weal and Woe" if the outcome is both good and bad.
 
 #### Trait: Divine Spellcasting
 
@@ -45,7 +50,7 @@ Beginning at 4th level, a cleric can channel divine power into a single attack r
 
  **Level** | Hit Dice | Proficiency Bonus | Feature
 :----------|:---------|:------------------|:-------------------------
- 1         | 1d8      | +2                | Turn Undead DC 10 + Cha
+ 1         | 1d8      | +2                | Turn Undead DC 10 + Cha, Augury
  2         | 2d8      | +2                | Divine Spellcasting
  3         | 3d8      | +2                | Turn Undead DC 11 + Cha
  4         | 4d8      | +2                | Smite 1d8
@@ -399,14 +404,15 @@ Whether learned through dedicated study, or granted by a supernatural entity, or
 ##### Table 21: Mage Traits
 
 Trait                    | Effect
-:-------------------------|:--------------------------------------
- Hit dice                 | 1d4
- Starting Hit Points      | 4 + 1d4 + Con Bonus
- Armor & Weapons          | Daggers and staves
- Saving Throw Proficiency | Intelligence, Wisdom
- Spellbook                | 2 spells known, + 1 per level gained
- Ritual Casting           | Cast spells from spellbook for free, but it takes 10 minutes
- Scroll Use               | Can cast or copy scrolls from their spell list
+:------------------------|:--------------------------------------
+Hit dice                 | 1d4
+Starting Hit Points      | 4 + 1d4 + Con Bonus
+Armor & Weapons          | Daggers and staves
+Saving Throw Proficiency | Intelligence, Wisdom
+Spellbook                | 2 spells known, + 1 per level gained
+Ritual Casting           | Cast spells from spellbook for free, but it takes 10 minutes
+Scroll Use               | Can cast or copy scrolls from their spell list
+Cantrip                  | Create minor magical effects at will
 
 #### Trait: Spellbook
 
@@ -423,11 +429,15 @@ A mage can cast any spell from their spellbook without memorizing it or expendin
 
 A mage can cast an arcane spell from a scroll without memorizing the spell or expending a spell slot. Doing so destroys the scroll. The mage must make an intelligence check with proficiency against a DC 5 + spell level. Failing causes the casting to fail. If the spell is of the level the mage can memorize and cast normally, the check automatically succeeds.
 
+#### Trait: Cantrip
+
+As an action, the mage may make a single minor magical effect. Example ideas include producing bright sparks, lighting a torch, amplifying your voice similar to a megaphone, or making something give a minor (non-damaging) shock when it is touched.
+
 ##### Table 22: Mage Abilities by Level
 
  **Level** | Hit Dice | Proficiency Bonus | Feature
 :----------|:---------|:------------------|:--------
- 1         | 1d4      | +2                | Spellbook, Ritual Casting, Scroll Use
+ 1         | 1d4      | +2                | Spellbook, Ritual Casting, Scroll Use, Cantrip
  2         | 2d4      | +2                |
  3         | 3d4      | +2                |
  4         | 4d4      | +2                |
