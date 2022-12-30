@@ -65,16 +65,17 @@ Regeneration            | -      | Regain hit points per round unless damaged by
 Resistance              | -      | +2 to saving throws
 Spellcasting            | -      | Know 2 spells
 Swallow Whole           | 5      | Swallow whole on crit, digesting is 1d4/round, daggers damage inside
+Tenacious               | -      | Immune to morale effects
 Trample                 | -      | Advantage against creatures in touch range the the start of the turn
-Undead                  | -      | Immune to effects that affect living creatures and mind-affecting spells, curing is reversed
+Undead                  | -      | Immune to effects that affect living creatures and mind-affecting spells, curing is reversed, immune to morale effects
 
 
 ### Table 47: Monster List A
 
 Monster         | HD | AC | MV  | Special
 :---------------|:-- |:---|:----|:-------
-Acolyte         | 1  | 16 | 30' | 
-Acolyte, Leader | 3  | 17 | 30' | Spellcasting
+Acolyte         | 1  | 16 | 30' | Tenacious
+Acolyte, Leader | 3  | 17 | 30' | Spellcasting, Tenacious
 Ape, White      | 4  | 12 | 40' |
 
 ### Table 49: Monster List B
@@ -92,10 +93,10 @@ Bear, Polar        | 6   | 13 | 40' | Multiattack
 Beetle, Fire       | 1   | 14 | 30' | 
 Beetle, Oil        | 2   | 14 | 30' | Blistering, 10'
 Beetle, Tiger      | 3   | 15 | 30' |
-Berserker          | 1   | 11 | 30' |
+Berserker          | 1   | 11 | 30' | Tenacious
 Black Pudding      | 10  | 12 | 20' | Non-fire immunity, Division
 Blink Dog          | 4   | 13 | 40' | Teleport
-Boar               | 3   | 11 | 50' |
+Boar               | 3   | 11 | 50' | Tenacious
 Brigand, Cavalier  | 1   | 16 | 30' |
 Brigand, Footman   | 1   | 14 | 30' |
 Brigand, Leader    | 2   | 18 | 30' | 
@@ -136,13 +137,13 @@ Monster         | HD | AC | MV  | Special
 Dervish         | 1  | 14 | 30' | 
 Djinni (Lesser) | 7  | 13 | 30' | Fly 90', Spells: Invisibilty, Gaseous form, Illusions, Conjure metals and soft goods
 Doppelgänger    | 4  | 13 | 30' | Shape Stealing
-Dragon, Black   | 7  | 16 | 30' | Fly 80', 60' Line acid, 4 arcane spells
-Dragon, Blue    | 9  | 18 | 30' | Fly 80', 100' Line lightning, 8 arcane spells
-Dragon, Gold    | 11 | 20 | 30' | Fly 80', 90' Cone fire or poison, 12 arcane spells
-Dragon, Green   | 8  | 17 | 30' | Fly 80', Sphere poison, 6 arcane spells
-Dragon, Red     | 10 | 19 | 30' | Fly 80', 90' Cone of fire, 9 arcane spells
-Dragon, Sea     | 8  | 17 | -   | Swim/glide 60', 20' sphere poison, 6 arcane spells
-Dragon, White   | 6  | 15 | 30' | Fly 80', 80' Cone of cold, 3 arcane spells
+Dragon, Black   | 7  | 16 | 30' | Fly 80', 60' Line acid, 4 arcane spells, Tenacious
+Dragon, Blue    | 9  | 18 | 30' | Fly 80', 100' Line lightning, 8 arcane spells, Tenacious
+Dragon, Gold    | 11 | 20 | 30' | Fly 80', 90' Cone fire or poison, 12 arcane spells, Tenacious
+Dragon, Green   | 8  | 17 | 30' | Fly 80', Sphere poison, 6 arcane spells, Tenacious
+Dragon, Red     | 10 | 19 | 30' | Fly 80', 90' Cone of fire, 9 arcane spells, Tenacious
+Dragon, Sea     | 8  | 17 | -   | Swim/glide 60', 20' sphere poison, 6 arcane spells, Tenacious
+Dragon, White   | 6  | 15 | 30' | Fly 80', 80' Cone of cold, 3 arcane spells, Tenacious
 Dragon Turtle   | 30 | 20 | 10' | Swim 30', 90'x30' Cylinder of steam
 Driver Ant      | 4  | 15 | 60' | 
 Dryad           | 2  | 13 | 40' | Tree meld, charm
@@ -241,8 +242,8 @@ Invisible Stalker  | 8  | 15 | 40' | Perfect tracking, Invisibility
 
 Monster            | HD | AC | MV  | Special
 :---------------   |:---|:---|:----|:-------
-Killer Bee         | 1/2| 11 | __  | Fly 50', Poison, lodged stinger 1 dmg/round
-Killer Bee Queen   | 2  | 11 | --  | Fly 50', Poison
+Killer Bee         | 1/2| 11 | __  | Fly 50', Poison, lodged stinger 1 dmg/round, Tenacious
+Killer Bee Queen   | 2  | 11 | --  | Fly 50', Poison, Tenacious
 Kobold             | 1/2| 11 | 20' | Infravision, Sneak Attack +1d6
 Kobold, Bodyguard  | 1  | 11 | 20' | Infravision, Sneak Attack +1d6
 Kobold, Chieftain  | 2  | 11 | 20' | Infravision, Sneak Attack +1d6
@@ -337,9 +338,9 @@ Salamander, Frost         | 12 | 15 | 40' | Cold & mundane damage immunity, 20' 
 Scorpion, Giant           | 4  | 16 | 50' | Poison string: Con save or die
 Sea Serpent (Lesser)      | 6  | 13 | 50' | Swim 50', Can cause hull damage
 Shadow                    | 2  | 11 | 30' | Str drain, Mundane dmg immunity, Immune to sleep and charm
-Shark, Bull               | 2  | 14 | -   | Swim 60', Ram: Str save for stunned 3 rounds 
-Shark, Great White        | 8  | 14 | -   | Swim 60'
-Shark, Mako               | 4  | 14 | -   | Swim 60'
+Shark, Bull               | 2  | 14 | -   | Swim 60', Ram: Str save for stunned 3 rounds , Tenacious
+Shark, Great White        | 8  | 14 | -   | Swim 60', Tenacious
+Shark, Mako               | 4  | 14 | -   | Swim 60', Tenacious
 Shrew, Giant              | 1  | 14 | 60' | Climb 60', Wins initiative
 Shrieker                  | 3  | 11 | 3'  | No attacks, Shriek: attracts monsters if triggered by nearby light or movement
 Skeleton                  | 1  | 11 | 20' | Undead
