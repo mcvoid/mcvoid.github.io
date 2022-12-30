@@ -149,7 +149,7 @@ Step 7: Next round      | Go to step 4.
 
 ### Surprise and Ambush
 
-If the player characters are 
+If the player characters are actively trying to surprise the enemy, roll inititative with advantage. If the opponents are trying to surprise the party, roll initiative with disadvantage. If both are seeing surprise, or neither are expecting an encounter, roll with initiative normally.
 
 ### On Your Turn
 
