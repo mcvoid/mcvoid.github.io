@@ -161,6 +161,10 @@ Movement can happen at any time during the turn. So a character may move 30' bef
 
 A simple action like drawing a weapon may be done as part of movement. A trivial action like saying a few words or dropping something in your hand may be done for free during your turn.
 
+### Morale Checks
+
+When the monsters observe that the fight is going against them (for example, when half the group has fallen or they have lost half their HP), they should make a morale check (Wis save) or they must flee or surrender.
+
 ### Actions
 An action is the main thing the character does over the course of the round. Consult the table below for the mechanic that resolves the action. Note that *any* action which can be performed over the span of a few seconds may be considered an action.
 

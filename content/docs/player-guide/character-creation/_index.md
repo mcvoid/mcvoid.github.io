@@ -394,6 +394,4 @@ Below is a list of suggestions as starting points or even drop-in replacements f
 
 ### Multi-classing
 
-A class is chosen at character creation, and as the character gains levels, the classes may offer new things to do. For simplicity's sake, a character may not change levels, but there are certain classes, namely the various racial martial archetypes, which effectively function as multi-class options, as they borrow abilities from two other classes.
-
-
+A class is chosen at character creation, and as the character gains levels, the classes may offer new abilities. For simplicity's sake, a character may not change classes, and they may not take on more than one class at a time. However, there are certain classes, namely the various racial martial archetypes, which effectively function as multi-class options, as they borrow abilities from two other classes.
