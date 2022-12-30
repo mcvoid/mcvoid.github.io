@@ -110,7 +110,7 @@ Bugbear            | 3   | 13 | 30' | Multiattack
 
 Monster                  | HD | AC | MV  | Special
 :---------------         |:---|:---|:----|:-------
-Caecilia                 | 6  | 12 | 20' | Swim, Swallow wWhole
+Caecilia                 | 6  | 12 | 20' | Swim, Swallow Whole
 Camel                    | 2  | 11 | 50' |
 Carcass Crawler          | 3  | 11 | 40' | Paralysis
 Cat, Lion                | 5  | 12 | 50' |
