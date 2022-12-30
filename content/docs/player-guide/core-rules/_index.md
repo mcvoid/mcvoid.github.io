@@ -4,6 +4,41 @@ toc: false
 weight: -1
 ---
 
+# Terminology
+
+Term  | Definition
+:-----|:----------
+PC    | Player Character: a character controlled by the player
+NPC   | Non-player Character: every creature in the game who is not a PC, all controlled by the GM
+GM    | Game Master: the referee for the session
+Round | The base unit of time in combat, about six seconds long
+Class | The type of character you are playing; or the archetype or role that character fulfils
+Level | The magnitude of expertise the character has in their class
+
+## Dice Notation
+
+Dice are used extensively throughout this game in complex combinations. It's important to know the notation.
+
+The number after the "d" indicates how many faces are on the die you're supposed to roll.
+
+##### Dice Notation
+Symbol | Description
+:------|:------------
+d4     | A 4-sided die, a pyramid with triangle faces
+d6     | A 6-sided die, a cube with square faces
+d8     | An 8-sided die, resembles two pyramids with triangle faces stuck together
+d10    | A 10-sided die, with irregular 4-sided faces, 0 means "10"
+d12    | A 12-sided die, a ball made of pentagons
+d20    | A 20-sided die, a ball made of triangles
+
+## Multiple Dice Rolls
+
+A number before the "d" indicates the number of dice to roll. for example, `1d20` means a single d20 is to be rolled. `3d6` indicates that three d6's are to be rolled and the sum of their rolls is the number used.
+
+## Dice Roll Modifiers
+
+A bonus or penalty applied to a roll affects the outcome after the dice are rolled. For example, `1d20 + 2` means roll a d20 and add 2 to the result.
+
 # Abilities
 
 Abilities are the main way characters interact with the 
@@ -102,11 +137,19 @@ Inside combat, action is faster-paced and many things happen at once. Combat hap
 
 ### Order of Combat
 
-The order of combat is side-based. So the opponents all have a turn at once, then the players all have a turn at once, deciding amongst themselves the order they act.
+Step               | Action
+:------------------|:------
+Step 1: Gauge distance  | Typically long range in good visibility, short range otherwise.
+Step 2: Roll initiative | PCs Dex save.
+Step 3: Surprise round  | PCs who save take their turns.
+Step 4: Check morale    | Creatures who fail morale run or surrender.
+Step 5: Monster's turn  | Opponents take their turns.
+Step 6: Player's turn   | Player Characters take their turns. 
+Step 7: Next round      | Go to step 4.
 
-When combat starts, the players roll initiative. Initiative is a Dexterity check DC 10. If the opponents are not aware of the party *and* the party is actively trying to ambush the opponents, initiative is rolled with advantage. Conversely, if the party is *not* aware of the opponents and the opponents are actively trying to ambush the party, initiative is rolled with disadvantage.
+### Surprise and Ambush
 
-Characters who passed their initiative go first. After the initiative winners have their turn, the opponents' regular turn begins and the combat proceeds with the normal order of combat.
+If the player characters are 
 
 ### On Your Turn
 
@@ -116,8 +159,10 @@ Players on their turn have two main actions:
 
 Movement can happen at any time during the turn. So a character may move 30' before an action, or after an action, or even in the middle of an action. For example, a character with extra attacks may break up an attack so that they move in between each attack.
 
+A simple action like drawing a weapon may be done as part of movement. A trivial action like saying a few words or dropping something in your hand may be done for free during your turn.
+
 ### Actions
-An action is the main thing the character does over the course of the round. Consult the table below for the mechanic that resolves the action.
+An action is the main thing the character does over the course of the round. Consult the table below for the mechanic that resolves the action. Note that *any* action which can be performed over the span of a few seconds may be considered an action.
 
 ##### Table 1: Actions
 
@@ -231,7 +276,7 @@ Combat is complex, and any number of things can happen in the heat of battle tha
 | Flanked              | Opponents attacks have advantage
 | Behind cover         | Opponents attacks have disadvantage
 | Unconscious          | Opponents attacks have advantage
-| Teary-eyed from watching your true love die | Attacks have disadvantage
+| Teary-eyed from watching your true love die | Attacks on both sides have disadvantage
 | Your ally being used as human shield by target | Attacks on target have disadvantage
 
 ### Exhaustion
@@ -240,7 +285,4 @@ Extreme heat or cold without proper preparation, 24 hours without sleep, a day w
 
 ### Death and Dying
 
-When a character drops to 0HP, they are unconscious and dying. If the character is healed at any point before death, they are cured of the dying condition and are no longer unconscious.
-
-When the character first enters the dying condition, they must make a constitution saving throw DC 10. They must repeat the throw every minute afterward or anytime they take damage in the dying condition. Upon the accumulation of three failed saves since the last time the character took a full day of rest, the character is dead.
-
+When a character drops to 0HP, they are dead and are no longer controlled by the player. 
