@@ -67,7 +67,7 @@ Spellcasting            | -      | Know 2 spells
 Swallow Whole           | 5      | Swallow whole on crit, digesting is 1d4/round, daggers damage inside
 Tenacious               | -      | Immune to morale effects
 Trample                 | -      | Advantage against creatures in touch range the the start of the turn
-Undead                  | -      | Immune to effects that affect living creatures and mind-affecting spells, curing is reversed, immune to morale effects
+Undead                  | -      | Immune to effects that affect living creatures and mind-affecting spells, curing is reversed
 
 
 ### Table 47: Monster List A

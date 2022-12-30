@@ -163,7 +163,7 @@ A simple action like drawing a weapon may be done as part of movement. A trivial
 
 ### Morale Checks
 
-When the monsters observe that the fight is going against them (for example, when half the group has fallen or they have lost half their HP), they should make a morale check (Wis save) or they must flee or surrender.
+When the monsters observe that the fight is going against them (for example, when half the group has fallen or they have lost half their HP), they should make a morale check (Wis save) or they must flee or surrender. This does not apply to undead, constructs, and other creatures that either have no intelligence or no survival instinct.
 
 ### Actions
 An action is the main thing the character does over the course of the round. Consult the table below for the mechanic that resolves the action. Note that *any* action which can be performed over the span of a few seconds may be considered an action.
