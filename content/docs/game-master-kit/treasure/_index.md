@@ -6,7 +6,7 @@ weight: 1
 
 # Treasure
 
-## How to roll
+## How to Roll
 
 When finding a hoard, there are several types of treasure that can be found: 
 
@@ -40,5 +40,11 @@ Magic items are not mass-produced, so the only way to procure magic items is in 
 4. List them in order of power and rarity, starting with magic items, then scrolls, then potions, then gems and jewellery.
 5. Assign the currency title as the price of the first item in the list.
 6. The second item is 1/2 the price as the first. The third item is 1/3 the price as the first, the fourth 1/4, and so on.
-7. Each day that passes, remove an item from the list, along with removing items that were bought by the party.
-8. Each month, re-roll from the same hoard type.
+7. Each day of game time that passes, do upkeep on the list
+    1. Items bought by the party are removed from the list.
+    2. One item chosen at random is removed from the list, representing others buying the items.
+    3. Items remaining are moved up the list so that there are no empty spaces bewteen items, as scarcer supply makes for higher prices.
+    4. Items sold by the party are placed into the list in their appropriate relative value.
+8. Each month, re-roll from the same hoard type, reflecting new adventurers or arriving merchants.
+
+A party may sell magic items using this same method, though generally at half the price, reflecting the "fencing" fees involved.
