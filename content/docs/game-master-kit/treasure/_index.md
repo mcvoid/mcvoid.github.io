@@ -32,7 +32,7 @@ I    | -   | -           | -   | -            | -   | -          | 11    | 2d8  
 
 ## Magic Items in the Marketplace
 
-Magic items are not mass-produced, so the only way to procure magic items is in via a secondary market. This makes their prices and availability extremely variable. One way to deal with this is to use the treasure tables to seed the market, using Zipf's Law to make realistic value estimates. To determine what items are available in an area, do the following procedure:
+Magic items are not mass-produced, so the only way to procure magic items is in via a secondary market. This makes their prices and availability extremely variable. One way to deal with this is to use the treasure tables to seed the market, using Zipf's law to make realistic-looking value estimates. To determine what items are available in an area, do the following procedure:
 
 1. Determine the appropriate treasure hoard type (A-H) for the area. Larger, more metropolitan areas will have more items, but at higher prices.
 2. Roll for the amount of currency. This will be the price of the most expensive item.
@@ -51,38 +51,45 @@ A party may sell magic items using this same method, though generally at half th
 
 ### Example Treasure Market
 
-1. The market for a given city is a Type A hoard.
-2. For copper, rolled 11 on 1d20, so no copper.
-3. For silver, rolled 16 on 1d20, so a 2 on 1d6 makes 2000 silver.
-4. For gold, rolled 18 on 1d20, so a 5,6 on 2d6 makes 11000 gold.
-5. The price for the top item is 11200gp.
-6. For gems, rolled 20 on 1d20, so a 1,1,5,3,5,5 on 6d6 means 20 gems for sale.
-7. For magic items, rolled 10 on 1d20, so three magic items: A scroll of insivibility, a potion of animal control, and a sword -2 (cursed)
+1. We determine that the market for our example city is a Type A hoard.
+2.  We roll for currency
+    1. For copper, rolled 11 on 1d20, so no copper.
+    2. For silver, rolled 16 on 1d20, so a 2 on 1d6 makes 2000 silver.
+    3. For gold, rolled 18 on 1d20, so a 5,6 on 2d6 makes 11000 gold.
+    4. The price for the top item is 11200gp.
+3. We roll for gems and magic items.
+    1. For gems, rolled 20 on 1d20, so a 1,1,5,3,5,5 on 6d6 means 20 gems for sale.
+    2. For magic items, rolled 10 on 1d20, so three magic items: A scroll of insivibility, a potion of animal control, and a sword -2 (cursed).
+4. We make a list with the sword first, the scroll next, the potion after that, and then a list of gems and art and other collectibles.
+5. The sword gets the price of 11200gp
+6. The scroll gets 5600gp, the potion gets 3,733gp, the gems get 2,800gp, 2,240gp, 1,867gp, etc.
 
-The results give us the following table:
+To massage the numbers a bit, we'll round to the nearest even hundred for items above 1000gp, and to the nearest 10 for under that.  The results give us the following table for what is available to find in our city's collectors' market:
 
 Item                                                     | Price (GP)
 :------------------------                                |:-----
 Sword -2 (cursed)                                        | 11,200
 Scroll of Invisibility                                   | 5,600
-Potion of Animal Control                                 | 3,733
+Potion of Animal Control                                 | 3,800
 Electrum Flower Brooch                                   | 2,800
-Gold Cup engraved with Elven Script                      | 2,240
-Gold Salt Cellar                                         | 1,867
+Gold Cup engraved with Elven Script                      | 2,200
+Gold Salt Cellar                                         | 1,800
 Wooden Scepter set with Blue Star Sapphire               | 1,600
 Fine Leather Armor                                       | 1,400
-Gold Bracer engraved with Arcane Runes                   | 1,244
-Platinum Ring set with Bright Green Emerald              | 1,120
-Silk Brocade Merchant's Cap trimmed with Ermine          | 1,018
-White Opal                                               | 933
-Ivory Chalice inlaid with Platinum                       | 862
+Gold Bracer engraved with Arcane Runes                   | 1,200
+Platinum Ring set with Bright Green Emerald              | 1,200
+Silk Brocade Merchant's Cap trimmed with Ermine          | 1,000
+White Opal                                               | 930
+Ivory Chalice inlaid with Platinum                       | 860
 Rich Purple Corundum                                     | 800
-Silver Torc engraved with Elven Script                   | 747
+Silver Torc engraved with Elven Script                   | 750
 Chrysoberyl                                              | 700
-Leather Mantle tooled with Draconic Scales               | 659
-Bloodstone                                               | 622
-Black Opal                                               | 589
+Leather Mantle tooled with Draconic Scales               | 660
+Bloodstone                                               | 620
+Black Opal                                               | 590
 Aquamarine                                               | 560
-Jasper                                                   | 533
-Blue Quartz                                              | 509
-Chalcedony                                               | 487
+Jasper                                                   | 530
+Blue Quartz                                              | 500
+Chalcedony                                               | 490
+
+Take note that we don't want to reveal the magic item properties until after the sale. That's what identify and read magic are for, and if they use the sword before know what it does, then caveat emptor!
