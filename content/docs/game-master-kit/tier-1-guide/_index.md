@@ -1,5 +1,5 @@
 ---
 title: Tier 1 Guide
 toc: false
-weight: 1
+weight: 3
 ---
