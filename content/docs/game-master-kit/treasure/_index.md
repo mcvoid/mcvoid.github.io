@@ -32,7 +32,7 @@ I    | -   | -           | -   | -            | -   | -          | 11    | 2d8  
 
 ## Magic Items in the Marketplace
 
-Magic items are not mass-produced, so the only way to procure magic items is in via a secondary market. This makes their prices and availability extremely variable. One way to deal with this is to use the treasure tables to seed the market. To determine what items are available in an area, do the following procedure:
+Magic items are not mass-produced, so the only way to procure magic items is in via a secondary market. This makes their prices and availability extremely variable. One way to deal with this is to use the treasure tables to seed the market, using Zipf's Law to make realistic value estimates. To determine what items are available in an area, do the following procedure:
 
 1. Determine the appropriate treasure hoard type (A-H) for the area. Larger, more metropolitan areas will have more items, but at higher prices.
 2. Roll for the amount of currency. This will be the price of the most expensive item.
@@ -45,6 +45,44 @@ Magic items are not mass-produced, so the only way to procure magic items is in 
     2. One item chosen at random is removed from the list, representing others buying the items.
     3. Items remaining are moved up the list so that there are no empty spaces bewteen items, as scarcer supply makes for higher prices.
     4. Items sold by the party are placed into the list in their appropriate relative value.
-8. Each month, re-roll from the same hoard type, reflecting new adventurers or arriving merchants.
+8. Each month, re-roll from the same hoard type and build the table anew, reflecting new adventurers or arriving merchants.
 
 A party may sell magic items using this same method, though generally at half the price, reflecting the "fencing" fees involved.
+
+### Example Treasure Market
+
+1. The market for a given city is a Type A hoard.
+2. For copper, rolled 11 on 1d20, so no copper.
+3. For silver, rolled 16 on 1d20, so a 2 on 1d6 makes 2000 silver.
+4. For gold, rolled 18 on 1d20, so a 5,6 on 2d6 makes 11000 gold.
+5. The price for the top item is 11200gp.
+6. For gems, rolled 20 on 1d20, so a 1,1,5,3,5,5 on 6d6 means 20 gems for sale.
+7. For magic items, rolled 10 on 1d20, so three magic items: A scroll of insivibility, a potion of animal control, and a sword -2 (cursed)
+
+The results give us the following table:
+
+Item                                                     | Price (GP)
+:------------------------                                |:-----
+Sword -2 (cursed)                                        | 11,200
+Scroll of Invisibility                                   | 5,600
+Potion of Animal Control                                 | 3,733
+Electrum Flower Brooch                                   | 2,800
+Gold Cup engraved with Elven Script                      | 2,240
+Gold Salt Cellar                                         | 1,867
+Wooden Scepter set with Blue Star Sapphire               | 1,600
+Fine Leather Armor                                       | 1,400
+Gold Bracer engraved with Arcane Runes                   | 1,244
+Platinum Ring set with Bright Green Emerald              | 1,120
+Silk Brocade Merchant's Cap trimmed with Ermine          | 1,018
+White Opal                                               | 933
+Ivory Chalice inlaid with Platinum                       | 862
+Rich Purple Corundum                                     | 800
+Silver Torc engraved with Elven Script                   | 747
+Chrysoberyl                                              | 700
+Leather Mantle tooled with Draconic Scales               | 659
+Bloodstone                                               | 622
+Black Opal                                               | 589
+Aquamarine                                               | 560
+Jasper                                                   | 533
+Blue Quartz                                              | 509
+Chalcedony                                               | 487
