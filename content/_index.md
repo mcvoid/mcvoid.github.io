@@ -66,7 +66,7 @@ This system riffs on Cairn (with some inspiration from the Cypher System) for ev
 7. **Profession** If the referee determines that the character's `profession` would result in them being more skilled than usual at that task, the player may assume a minimum `edge` of `1` for effort applied to that action.
 8. **AC and HP** Any damage received is first reduced by your `AC` score. If `AC` cannot reduce it to `0`, then the remainder is taken from your `HP`. Once `HP` is `0`, the remaining damage dealt is taken from the relevant ability score. Physical damage reduces `STR`, while other effects like magic or poisons may affect `DEX` or `WIL` instead.
 9. **Critical Damage** The moment your `HP` reaches `0` as a result of taking damage, roll a `STR` saving throw. On a failure, you are disabled and can only moan for help and try to crawl to safety.
-10. **Equipment Slots** You have `10` equipment slots to start, `4` of which are considered to be worn or carried. Each piece of equipment you take with you (except coins) takes up equipment slots. Most equipment takes up `1` slot. Small items can be grouped into a single slot. Bulky items use `2` slots. If you have no unused equipment slots, you cannot carry any more equipment and are considered `deprived`. Carrying a person is considered bulky.
+10. **Equipment Slots** You have `10` equipment slots to start, `4` of which are considered to be worn or carried. Each piece of equipment you take with you (except coins) takes up equipment slots. Most equipment takes up `1` slot. Small items can be grouped into a single slot. Bulky items use `2` slots. If you have no unused equipment slots, you cannot carry any more equipment and are considered `deprived`. Carrying a person is considered bulky. Equipment abilities can only be activated while wearing or carrying them.
 11. **Deprivation** Extreme environments, magical effects, and running out of equipment slots causes you to be `deprived`. While `deprived`, you cannot restore `HP`, `STR`, `DEX`, nor `WIL` by resting.
 12. **Healing** Resting allows damage to be recovered to the max score. `HP` can be restored with a few minutes of rest. `STR`, `DEX`, and `WIL` need a full day of rest in a safe location with food and drink to be restored. Temporary injuries can only have their effects removed with a week of bedrest and a skilled healer.
 
@@ -138,7 +138,7 @@ You may choose from this list of tattoos. Each bullet point may only be taken on
 * **Mark of Wisdom**: Increase your `WIL edge` by 1, not to exceed `2`.
 * **Mark of Health**: Increase max `HP` by `2`.
 * **Mark of Burden**: Increase your number of inventory slots by `1`, not to exceed `15`.
-* **Mark of Skill**: Increase the number of inventory slots which can be worn by `1`, not to exceed `6`.
+* **Mark of Skill**: Increase the number of inventory slots which can be worn or carried by `1`, not to exceed `6`.
 * **Mark of Toughness**: Choose one armor type. Increase the `AC` of that armor type by `1` when you wear it, not to exceed `2` more than its listed value. You may select this more than once per tier, but it must be for different armor types.
 * **Mark of Arcana**: Choose a spell from the spell list. That spell is able to be cast without needing to equip a scroll. You may select this more than once per tier, but it must be for different spells.
 
