@@ -116,7 +116,7 @@ Each round the referee makes a determination on whether the creatures flee and e
 
 `XP` can be spent to reverse the effects of a bad roll. The player may choose to surrender `1 XP` to the referee after failing the save, and avoids whatever bad effect they would otherwise suffer. 
 
-`XP` can also be spent to make the character stronger by purchasing `tattoos`. The amount of `XP` surrended to the referee to gain a `tattoo` depends on their `tier`. Characters start at `Tier 1`. Once `4` tattoos are gained, a character advances to the next tier. Once purchased, a `tattoo` cannot be purchased again until the character advances to the next tier.
+`XP` can also be spent to make the character stronger by purchasing `tattoos`. The amount of `XP` surrended to the referee to gain a `tattoo` depends on their `tier`. Characters start at `Tier 1`. Once `4` tattoos are gained at that tier, a character advances to the next tier. Once purchased, a `tattoo` cannot be purchased again until the character advances to the next tier.
 
 | Tier | Tattoo Cost  |
 |:-----|:-------------|
