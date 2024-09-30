@@ -46,7 +46,7 @@ This system riffs on Cairn (with some inspiration from the Cypher System) for ev
 5. Roll `1d6`. This is your max `HP`.
 6. Add `3 days' rations` to your inventory. This takes only one equipment slot.
 7. Pick a starting equipment set. Add these to your inventory.
-8. Record your `ARM` based on your equipment set.
+8. Record your `AC` based on your equipment set.
 9. Record your equipped items and your weapon damage.
 10. Roll `3d6`. This is your starting `jink`.
 11. Write a sentence or two about your character's `profession` before heading out to adventure the planes.
@@ -60,11 +60,11 @@ This system riffs on Cairn (with some inspiration from the Cypher System) for ev
   * If your DEX score reaches `0`, you are immobilized until a full rest.
   * If your STR score reaches `0`, you are dead. Forever.
 3. **Saving Throws** To avoid a negative effect, roll 1d20. If the number is *less than or equal to* your relevant ability, you succeed.
-4. **Advantage/Disadvantage** If an action is particularly easy, the referee may request a roll be made with `advantage`, meaning the player rolls twice and takes the more favorable roll. Conversely, if an action is particularly easy, the referee may request a role be made with `disadvantage`, meaning the player rolls twice and takes the less favorable roll.
+4. **Advantage/Disadvantage** If an action is particularly easy, the referee may request a roll be made with `advantage`, meaning the player rolls twice and takes the more favorable roll. Conversely, if an action is particularly difficult, the referee may request a role be made with `disadvantage`, meaning the player rolls twice and takes the less favorable roll.
 5. **Effort** A player may turn a roll with `disadvantage` into a normal roll, or turn a normal roll into a roll with `advantage`, by applying `effort`. Applying `effort` gives the ability score for that roll `3 damage` after the effect of the roll is applied. A player can only apply `effort` once per roll.
 6. **Edge** Activating ability in equipment or applying effort will lower ability scores by a fixed cost. Having an `edge` decreases the cost by the amount of edge for that ability score. For example, if an ability costs `3 STR`, and your `STR edge` is `1`, you lose `2 STR` to use that ability. The minimum cost is `0`.
 7. **Profession** If the referee determines that the character's `profession` would result in them being more skilled than usual at that task, the player may assume a minimum `edge` of `1` for effort applied to that action.
-8. **ARM and HP** Any damage received is first reduced by your `ARM` score. If `ARM` cannot reduce it to `0`, then the remainder is taken from your `HP`. Once `HP` is `0`, the remaining damage dealt is taken from the relevant ability score. Physical damage reduces `STR`, while other effects like magic or poisons may affect `DEX` or `WIL` instead.
+8. **AC and HP** Any damage received is first reduced by your `AC` score. If `AC` cannot reduce it to `0`, then the remainder is taken from your `HP`. Once `HP` is `0`, the remaining damage dealt is taken from the relevant ability score. Physical damage reduces `STR`, while other effects like magic or poisons may affect `DEX` or `WIL` instead.
 9. **Critical Damage** The moment your `HP` reaches `0` as a result of taking damage, roll a `STR` saving throw. On a failure, you are disabled and can only moan for help and try to crawl to safety.
 10. **Equipment Slots** You have `10` equipment slots to start, `4` of which are considered to be worn or carried. Each piece of equipment you take with you (except coins) takes up equipment slots. Most equipment takes up `1` slot. Small items can be grouped into a single slot. Bulky items use `2` slots. If you have no unused equipment slots, you cannot carry any more equipment and are considered `deprived`. Carrying a person is considered bulky.
 11. **Deprivation** Extreme environments, magical effects, and running out of equipment slots causes you to be `deprived`. While `deprived`, you cannot restore `HP`, `STR`, `DEX`, nor `WIL` by resting.
@@ -139,7 +139,7 @@ You may choose from this list of tattoos. Each bullet point may only be taken on
 * **Mark of Health**: Increase max `HP` by `2`.
 * **Mark of Burden**: Increase your number of inventory slots by `1`, not to exceed `15`.
 * **Mark of Skill**: Increase the number of inventory slots which can be worn by `1`, not to exceed `6`.
-* **Mark of Toughness**: Choose one armor type. Increase the `ARM` of that armor type by `1` when you wear it, not to exceed `2` more than its listed value. You may select this more than once per tier, but it must be for different armor types.
+* **Mark of Toughness**: Choose one armor type. Increase the `AC` of that armor type by `1` when you wear it, not to exceed `2` more than its listed value. You may select this more than once per tier, but it must be for different armor types.
 * **Mark of Arcana**: Choose a spell from the spell list. That spell is able to be cast without needing to equip a scroll. You may select this more than once per tier, but it must be for different spells.
 
 ## Equipment and Jink
@@ -152,7 +152,7 @@ Pick one of these when first creating a character. They are not otherwise for sa
 
 ### Armor
 
-| Armor type    | `ARM`          | `INV` slots |
+| Armor type    | `AC`          | `INV` slots |
 |---------------|----------------|-------------|
 | Plain clothes | `0`            | `0`         |
 | Light         | `1`            | `1`         |
@@ -171,7 +171,7 @@ Pick one of these when first creating a character. They are not otherwise for sa
 
 | Tool              | `INV` Slots | Ability (`DEX` cost)                                                                |
 |-------------------|-------------|-------------------------------------------------------------------------------------|
-| Shield            | `1`         | Parry: `+1 ARM` until next turn (`2`)                                               |
+| Shield            | `1`         | Parry: `+1 AC` until next turn (`2`)                                               |
 | Climbing Gear     | `1`         | Scale walls and overhangs overwise unclimbable by skilled climbers (`3`)            |
 | Thieves' tools    | `1`         | Open locks and disarm traps that are not crackable by an a skilled lockpicker (`2`) |
 | Cloak of Shadows  | `1`         | Hide in dim light in ways a normal person can't (`2`)                               |
