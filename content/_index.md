@@ -1,69 +1,196 @@
 ---
-title: "Introduction"
+title: "Scape"
 ---
 
-# ADHD Basic
+# Scape
 
-Basic Rules Variant for Fifth Edition Fantasy Roleplaying
+A fantasy roleplaying game for the Planescape setting.
 
 ## Introduction
 
 ### What Are These Rules?
 
-AHDH Basic is a minimal rule set for playing using Fifth Edition mechanics. It has been stripped down to its bare minimum while keeping the positive traits of the original system, while keeping some of the lessons learned in older editions.
-
-You might like this system if:
-* You have a healthy skepicism of the authority of words written on a page.
-* You like Fifth Edition at its core but find it too overwhelming to run a game yourself.
-* You want to see what old-shool play is like without having to learn new dice rules.
-* You think Fifth Edition combat runs too slow.
-* Have some homebrew or a custom campaign idea and you wanted a more minimal base to build on.
-
-We have some opinionated answers to help solve that, and we would love to know what you think of the result. We hope you enjoy playing this rule set!
+This system riffs on Cairn (with some inspiration from the Cypher System) for eventual use in my personal campaign.
 
 ### Design Goals
 
-* Modern game mechanics.
-* Old-school playing style.
-* Lightning fast character creation.
-* Avoid punishing players for low ability score rolls.
-* Have the entire character sheet fit on one side of a sheet of paper, or even a postcard.
-* Have fast, flowing combat while still having options.
-* Have a flexible system for skills that encourages imagination both in and out of combat.
-* Be less mechanically-dependent on species, while boosting the mechanical goodness of backgrounds.
-* Minimize time spent shuffling through books for rules, spells, and edge cases.
-* Easier encounter building with more predictable difficulty.
+* Simple attributes and rolling
+* Lightning-fast combat
+* Simple, fast, and flexible character creation
+* Incremental but consistent power increases
+* No planned character "builds" or DPS/tank/healer roles
+* Low-power, even at higher tiers of play
+* Focus on narrative action rather than rules
 
 ### Not Design Goals
 
-* Compatibility with B/X or 5e or anything in between.
+* Compatibility with 5e, 2e, B/X, Cairn or anything in between.
 * Mechanical character customization options.
 
-### What Does the End Product Look Like?
+## Central Tenets of Scape
 
-* We use Fifth Edition fantasy roleplaying as the mechanical basis. So bounded accuracy, advantage, DCs go up, ability based saves, etc.
-* We use B/X roleplaying as the template for the style of play: similar classes, spells, progression, etc.
-* No skill or proficiency lists - backgrounds give a plain-english basis for GMs to adjudicate when proficiency applies.
-* No race mechanic - ability score bonuses and racial proficiencies are bundled into the background.
-* Side-at-a-time combat order with simple and intuitive initiative/surprise mechanic.
-* Simpler distance guage for spells and attacks.
-* Simpler mechanic for combat maneuvers and applying advantage and conditions in combat.
-* Avoiding "one level class ability dips" by banning multiclassing and instead providing special classes with multiclass-like ability progressions.
-* Shared 3d6 ability score array for the entire party.
-* A flatter ability bonus, giving a slightly bigger "dead" zone of frequent rolls that aren't penalized.
-* About 4 numbers to track while leveling up.
-* Spells and monsters have short stat blocks: often a single line of english text in a table.
+1. **Player characters are not superheroes.** They are denizens of the planes just like everyone else. What separates them from the rest is their choices.
+2. **Even mighty heores can fall to a single stroke of a weapon.** Mortals are mortal. They are fragile. Even the mighty Achilles or Ajax is slain with a single arrow or spear stroke. The trick is to avoid getting hit, or even better avoid letting anyone want to hit you in the first place.
+3. **Roleplay is not about combat, narrative, numbers, nor personality, but about choices.** The important things that happen are the ways the player characters affect the world around them.
+4. **Character growth is not a growth in numbers.** Don't expect STR or HP to alter dramatically. Expect a growth in what you are capable of.
+5. **Ideas and extraordinary abliities are represented as items.** Among the planes, the abstract tends to be represented as the physical. Your character's "class" is the items that give them abilities. Your level up abilities are tattoos you collect. Even your `XP` is represented as items or chips, to be traded and spent.
+6. **The referee is there to challege the characters' viewpoints as much as their safety.** This is more about perspective and philosophy than it is about killing monsters. The strange creatures are to be feared for their ideas more than fang and claw.
+7. **Rules are for skipping ahead in time.** We don't include rules for the important parts of the game: choices, ethics, planar travel. That's because we want you to take your time on those areas and explore them fully through roleplay and a dialogue between each other and the referee. We include rules for parts we want to get over quickly: combat, skill checks, powers, even making characters and leveling up. We made them simple and quick so they can make room for the important parts. Similarly, saving throws made out of combat are for skipping past unimportant bits.
 
-### Why is it called ADHD Basic?
+## Character Creation
 
-The "Basic" part is a nod to its play style being that of the B/X system. The ADHD part is a pun on the term "AD&D", and also a condition I have, which is one of the motivations in making this system.
+1. Roll `3d6`. This is your max `STR` score.
+2. Roll `3d6`. This is your max `DEX` score.
+3. Roll `3d6`. This is your max `WIL` score.
+4. Record your `STR`, `DEX` and `WIL` edge as `0`.
+5. Roll `1d6`. This is your max `HP`.
+6. Add `3 days' rations` to your inventory. This takes only one equipment slot.
+7. Pick a starting equipment set. Add these to your inventory.
+8. Record your `ARM` based on your equipment set.
+9. Record your equipped items and your weapon damage.
+10. Roll `3d6`. This is your starting `jink`.
+11. Write a sentence or two about your character's `profession` before heading out to adventure the planes.
+12. Pick a name.
 
-### Legal Stuff
+## Rules
 
-These rules are released under the [Open Game License v1.0a](/docs/license/).
+1. **Basic interaction** Describe your actions to the referee. They will decide if you succeed or fail. They may ask you to roll a saving throw to determine success.
+2. **Ability scores** You have three ability scores. They act as hit points. They start as the same value as your max ability scores, and may not exceed the max. Applying effort, using special equipment, or taking damage while critically injured can result in lowering your ability scores.
+  * If your WIL score reaches `0`, you are stupefied until a full rest.
+  * If your DEX score reaches `0`, you are immobilized until a full rest.
+  * If your STR score reaches `0`, you are dead. Forever.
+3. **Saving Throws** To avoid a negative effect, roll 1d20. If the number is *less than or equal to* your relevant ability, you succeed.
+4. **Advantage/Disadvantage** If an action is particularly easy, the referee may request a roll be made with `advantage`, meaning the player rolls twice and takes the more favorable roll. Conversely, if an action is particularly easy, the referee may request a role be made with `disadvantage`, meaning the player rolls twice and takes the less favorable roll.
+5. **Effort** A player may turn a roll with `disadvantage` into a normal roll, or turn a normal roll into a roll with `advantage`, by applying `effort`. Applying `effort` gives the ability score for that roll `3 damage` after the effect of the roll is applied. A player can only apply `effort` once per roll.
+6. **Edge** Activating ability in equipment or applying effort will lower ability scores by a fixed cost. Having an `edge` decreases the cost by the amount of edge for that ability score. For example, if an ability costs `3 STR`, and your `STR edge` is `1`, you lose `2 STR` to use that ability. The minimum cost is `0`.
+7. **Profession** If the referee determines that the character's `profession` would result in them being more skilled than usual at that task, the player may assume a minimum `edge` of `1` for effort applied to that action.
+8. **ARM and HP** Any damage received is first reduced by your `ARM` score. If `ARM` cannot reduce it to `0`, then the remainder is taken from your `HP`. Once `HP` is `0`, the remaining damage dealt is taken from the relevant ability score. Physical damage reduces `STR`, while other effects like magic or poisons may affect `DEX` or `WIL` instead.
+9. **Critical Damage** The moment your `HP` reaches `0` as a result of taking damage, roll a `STR` saving throw. On a failure, you are disabled and can only moan for help and try to crawl to safety.
+10. **Equipment Slots** You have `10` equipment slots to start, `4` of which are considered to be worn or carried. Each piece of equipment you take with you (except coins) takes up equipment slots. Most equipment takes up `1` slot. Small items can be grouped into a single slot. Bulky items use `2` slots. If you have no unused equipment slots, you cannot carry any more equipment and are considered `deprived`. Carrying a person is considered bulky.
+11. **Deprivation** Extreme environments, magical effects, and running out of equipment slots causes you to be `deprived`. While `deprived`, you cannot restore `HP`, `STR`, `DEX`, nor `WIL` by resting.
+12. **Healing** Resting allows damage to be recovered to the max score. `HP` can be restored with a few minutes of rest. `STR`, `DEX`, and `WIL` need a full day of rest in a safe location with food and drink to be restored. Temporary injuries can only have their effects removed with a week of bedrest and a skilled healer.
 
-Most of this work is my own material. The rest of the rules derive from one of the following documents:
-* [System Reference Document 5.1](https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
-* [Old-School Essentials System Reference Document](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page)
+## Combat
 
-Both are worth a read for inspiration of your own!
+When combat starts, the game gets a little more structured. There's two ways to run combat: `tactical play` or `casual play`. Combat happens in the following sequence:
+
+1. **Roll initiative** Everyone makes a `DEX` save.
+2. **Surprise Turn** Everyone who passed the save takes their turn.
+3. **Morale** Referee rolls to see if the characters under their control flee.
+4. **Enemy Turn** Characters under referee control take their turn.
+5. **Party Turn** Everyone who failed the save takes their turn.
+6. **End of Round** If combat is still ongoing, go to step `1`.
+
+### On a turn
+
+#### Casual Play
+
+Each character on their turn gets to move and perform an action.
+
+Actions include, but are not limited to:
+
+* **Attack** If the enemy is within range of the weapon, the attack succeeds. Roll the damage indicated by the weapon.
+* **Unarmed Attack** If the enemy is within reach, the attack succeeds. The enemy takes `1` damage.
+* **Use Equipment** They may use the equipment at a tool, or an improvsied weapon, or may activate an ability the equipment gives them. They do so by wearing or holding the equipment as appropriate. Merely carrying it (such as in a backpack) is not sufficient.
+* **Interact** They may push a button, open a door, roll a barrel, or interact with any other reachable object in their environment.
+* **Improvise** They may try to do anything else that the character can think of that's capable of being done in a few seconds. The referee determines the outcome.
+
+#### Tactical Play
+
+A turn in tactical play happens much like casual play, but on each turn a character may either move *or* perform an action, not both.
+
+### Morale
+
+Each round the referee makes a determination on whether the creatures flee and end the combat. This can be done "by feel", or by doing the following procedure.
+
+* Roll a `WIL` save on behalf of the creatures. One save for the entire group.
+* If they are especially cowardly creatures, or have lost half their group, the roll with disadvantage.
+* If they have an experienced leader, they roll with advantage.
+* If they fail, they attempt to flee and combat is ended.
+
+## Character Advancement
+
+### Experience
+
+`XP` is gained for attaining goals, discovering new places, and making critical decisions. `1 XP` is given to each player in a group when the group as a whole is being rewarded. If a single player is being rewarded, the referee gives `2 XP` to the player: `1 XP` the player keeps for themself, `1 XP` is given to another player while stating a reason they deserve it.
+
+`XP` can be spent to reverse the effects of a bad roll. The player may choose to surrender `1 XP` to the referee after failing the save, and avoids whatever bad effect they would otherwise suffer. 
+
+`XP` can also be spent to make the character stronger by purchasing `tattoos`. The amount of `XP` surrended to the referee to gain a `tattoo` depends on their `tier`. Characters start at `Tier 1`. Once `4` tattoos are gained, a character advances to the next tier. Once purchased, a `tattoo` cannot be purchased again until the character advances to the next tier.
+
+| Tier | Tattoo Cost  |
+|:-----|:-------------|
+| `1`  | `4 XP`       |
+| `2`  | `6 XP`       |
+| `3`  | `8 XP`       |
+| `4`  | `9 XP`       |
+| `5`  | `10 XP`      |
+
+### Tattoos
+
+You may choose from this list of tattoos. Each bullet point may only be taken once per tier.
+
+* **Mark of Power**: Increase max `STR` by `1`, not to exceed `18`.
+* **Mark of Vitality**: Increase your `STR edge` by 1, not to exceed `2`.
+* **MArk of Speed**: Increase max `DEX` by `1`, not to exceed `18`.
+* **Mark of Agility**: Increase your `DEX edge` by 1, not to exceed `2`.
+* **Mark of Intellect**: Increase max `WIL` by `1`, not to exceed `18`.
+* **Mark of Wisdom**: Increase your `WIL edge` by 1, not to exceed `2`.
+* **Mark of Health**: Increase max `HP` by `2`.
+* **Mark of Burden**: Increase your number of inventory slots by `1`, not to exceed `15`.
+* **Mark of Skill**: Increase the number of inventory slots which can be worn by `1`, not to exceed `6`.
+* **Mark of Toughness**: Choose one armor type. Increase the `ARM` of that armor type by `1` when you wear it, not to exceed `2` more than its listed value. You may select this more than once per tier, but it must be for different armor types.
+* **Mark of Arcana**: Choose a spell from the spell list. That spell is able to be cast without needing to equip a scroll. You may select this more than once per tier, but it must be for different spells.
+
+## Equipment and Jink
+
+The monetary currency of the planes is `jink`. Values listed in the equipment tables is their sale value. Trading in unwanted equipment typically nets half the sale value.
+
+### Starting Equipment
+
+Pick one of these when first creating a character. They are not otherwise for sale as a unit.
+
+### Armor
+
+| Armor type    | `ARM`          | `INV` slots |
+|---------------|----------------|-------------|
+| Plain clothes | `0`            | `0`         |
+| Light         | `1`            | `1`         |
+| Heavy         | `2`            | `2`         |
+
+### Weapons
+
+| Weapon type | `STR` Damage | `INV` slots | Ability (`STR` cost)                               |
+|-------------|--------------|-------------|----------------------------------------------------|
+| Unarmed     | `1`          | `0`         |                                                    |
+| Light       | `3`          | `1`         | Sneak Attack: `+3` damage (`2`)                    |
+| Medium      | `4`          | `1`         | Critical: Ignore `HP`, damage `STR` directly (`3`) |
+| Heavy       | `5`          | `2`         | Cleave: Target all enemies within reach (`4`)      |
+
+### Tools
+
+| Tool              | `INV` Slots | Ability (`DEX` cost)                                                                |
+|-------------------|-------------|-------------------------------------------------------------------------------------|
+| Shield            | `1`         | Parry: `+1 ARM` until next turn (`2`)                                               |
+| Climbing Gear     | `1`         | Scale walls and overhangs overwise unclimbable by skilled climbers (`3`)            |
+| Thieves' tools    | `1`         | Open locks and disarm traps that are not crackable by an a skilled lockpicker (`2`) |
+| Cloak of Shadows  | `1`         | Hide in dim light in ways a normal person can't (`2`)                               |
+| Sneaky boots      | `1`         | Move more silently than a cat (`3`)                                                 |
+
+### Magical and Ceremonial Gear
+
+| Gear            | `INV` Slots | Ability (`WIL` cost)                                                                          |
+|-----------------|-------------|-----------------------------------------------------------------------------------------------|
+| Scroll          | `1`         | Cast Spell: the spell written on it takes effect (`3`)                                        |
+| Holy Symbol     | `1`         | Turn Undead: Weak undead are chased away (`2`)                                                |
+| Prayer Beads    | `1`         | Lay on Hands: Heal `1 STR, DEX, or WIL` damage on touched creature per `WIL` spent (`varies`) |
+
+### Miscellaneous Items
+
+| Item                   | `INV` Slots | Ability                                                                        |
+|------------------------|-------------|--------------------------------------------------------------------------------|
+| Burglar's goggles      | `1`         | Evasion: `STR` damage is first taken from `DEX`                                |
+| Cloak of the War Mage  | `1`         | Mage Armor: `STR` damage is first taken from `WIL`                             |
+| War pipes              | `2`         | Heavy weapon, deals `WIL` damage rather than `STR`, Cleave costs `4 WIL`       |
+| Bolas                  | `1`         | Light weapon, deals `DEX` damage rather than `STR`, Sneak attack costs `2 DEX` |
+| Net                    | `1`         | Medium weapon, deals `DEX` damage rather than `STR`, Critical costs `3 DEX`    |
