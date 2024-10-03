@@ -46,8 +46,8 @@ This system riffs on Cairn (with some inspiration from the Cypher System) for ev
 5. Roll `1d6`. This is your max `HP`.
 6. Add `3 days' rations` to your inventory. This takes only one equipment slot.
 7. Pick a starting equipment set. Add these to your inventory.
-8. Record your `AC` based on your equipment set.
-9. Record your equipped items and your weapon damage.
+9. Record your worn items and your weapon damage.
+8. Record your `AC` based on your worn armor.
 10. Roll `3d6`. This is your starting `jink`.
 11. Write a sentence or two about your character's `profession` before heading out to adventure the planes.
 12. Pick a name.
@@ -112,35 +112,24 @@ Each round the referee makes a determination on whether the creatures flee and e
 
 ### Experience
 
-`XP` is gained for attaining goals, discovering new places, and making critical decisions. `1 XP` is given to each player in a group when the group as a whole is being rewarded. If a single player is being rewarded, the referee gives `2 XP` to the player: `1 XP` the player keeps for themself, `1 XP` is given to another player while stating a reason they deserve it.
+`XP` is gained for attaining goals, discovering new places, and making critical decisions. `1 XP` is given to each player in a group when the group as a whole is being rewarded. If a single player is being rewarded, the referee gives `2 XP` to the player: `1 XP` the player keeps for themself, `1 XP` is given to another player while stating a reason they deserve it. XP can be traded freely among players. `XP` can also be spent to "grease the wheels" of roleplaying, obtaining some minor goal without having to roleplay it or risk failure. Doing so costs the party `4XP`.
 
-`XP` can be spent to reverse the effects of a bad roll. The player may choose to surrender `1 XP` to the referee after failing the save, and avoids whatever bad effect they would otherwise suffer. 
+`XP` can be spent to reverse the effects of a bad roll. The player may choose to surrender `1 XP` to the referee after failing the save, and avoids whatever the most recent roll's bad effect as if it never happened. 
 
-`XP` can also be spent to make the character stronger by purchasing `tattoos`. The amount of `XP` surrended to the referee to gain a `tattoo` depends on their `tier`. Characters start at `Tier 1`. Once `4 tattoos` are gained at that tier, a character advances to the next tier. Once purchased, a `tattoo` cannot be purchased again until the character advances to the next tier.
-
-| Tier | Tattoo Cost  |
-|:-----|:-------------|
-| `1`  | `4 XP`       |
-| `2`  | `6 XP`       |
-| `3`  | `8 XP`       |
-| `4`  | `9 XP`       |
-| `5`  | `10 XP`      |
+`XP` can also be spent to make the character stronger by purchasing `tattoos`. A player can spend `4 XP` to gain any one of the following tattoos. A player may not take a particular `tattoo` if it was one of their `3` most recently purchased `tattoos`. That means at most the same tattoo can only be gained for every `4` tattoo purchases.
 
 ### Tattoos
 
-You may choose from this list of tattoos. Each bullet point may only be taken once per tier.
-
-* **Mark of Power**: Increase max `STR` by `1`, not to exceed `18`.
 * **Mark of Vitality**: Increase your `STR edge` by 1, not to exceed `2`.
-* **MArk of Speed**: Increase max `DEX` by `1`, not to exceed `18`.
 * **Mark of Agility**: Increase your `DEX edge` by 1, not to exceed `2`.
-* **Mark of Intellect**: Increase max `WIL` by `1`, not to exceed `18`.
-* **Mark of Wisdom**: Increase your `WIL edge` by 1, not to exceed `2`.
+* **Mark of Intellect**: Increase your `WIL edge` by 1, not to exceed `2`.
 * **Mark of Health**: Increase max `HP` by `2`.
-* **Mark of Burden**: Increase your number of inventory slots by `1`, not to exceed `15`.
+* **Mark of Burden**: Increase your number of inventory slots by `1`, not to exceed `14`.
 * **Mark of Skill**: Increase the number of inventory slots which can be worn or carried by `1`, not to exceed `6`.
-* **Mark of Toughness**: Choose one armor type. Increase the `AC` of that armor type by `1` when you wear it, not to exceed `2` more than its listed value. You may select this more than once per tier, but it must be for different armor types.
-* **Mark of Arcana**: Choose a spell from the spell list. That spell is able to be cast without needing to equip a scroll. You may select this more than once per tier, but it must be for different spells.
+* **Mark of Toughness**: Choose one armor type. Increase the `AC` of that armor type by `1` when you wear it. You may only select this tattoo once.
+* **Mark of Arcana**: Choose a spell from the spell list. That spell is able to be cast without needing to equip a scroll. Each time you purchase this `tattoo` it must be for a different spell.
+
+The referee should expand this list as a campaign goes on to reflect the experiences of the characters. This way the characters wear their own stories and experiences on their skin. These additional `tattoos` should be permanent abilities, such as gaining an ability from a certain item. Tattoos which improve numeric superiority should not be added.
 
 ## Equipment and Jink
 
@@ -152,45 +141,52 @@ Pick one of these when first creating a character. They are not otherwise for sa
 
 ### Armor
 
-| Armor type    | `AC`          | `INV` slots |
-|---------------|----------------|-------------|
-| Plain clothes | `0`            | `0`         |
-| Light         | `1`            | `1`         |
-| Heavy         | `2`            | `2`         |
+| Armor type    | `AC` | Inventory slots | Sale Value (`jink`) |
+|:--------------|:-----|:----------------|---------------------|
+| Plain clothes | `0`  | `0`             | -                   |
+| Light         | `1`  | `1`             | `10`                |
+| Heavy         | `2`  | `2`             | `50`                |
 
 ### Weapons
 
-| Weapon type | `STR` Damage | `INV` slots | Ability (`STR` cost)                               |
-|-------------|--------------|-------------|----------------------------------------------------|
-| Unarmed     | `1`          | `0`         |                                                    |
-| Light       | `3`          | `1`         | Sneak Attack: `+3` damage (`2`)                    |
-| Medium      | `4`          | `1`         | Critical: Ignore `HP`, damage `STR` directly (`3`) |
-| Heavy       | `5`          | `2`         | Cleave: Target all enemies within reach (`4`)      |
+| Weapon type | `STR` Damage | Inventory slots | Ability (`STR` cost)                                                  | Sale Value (`jink`) |
+|:------------|:-------------|:----------------|:----------------------------------------------------------------------|---------------------|
+| Unarmed     | `1`          | `0`             |                                                                       | -                   |
+| Light       | `3`          | `1`             | Sneak Attack: `+3` damage (`2`)                                       | `2`                 |
+| Medium      | `4`          | `1`             | Critical: Ignore `HP`, damage `STR` directly (`3`)                    | `8`                 |
+| Heavy       | `5`          | `2`             | Cleave: Target all enemies within reach (`4`)                         | `21`                |
+| Ranged      | `3`          | `2`             | Cover: Attacks against the party must pass a `DEX` save or miss (`2`) | `13`                |
 
 ### Tools
 
-| Tool              | `INV` Slots | Ability (`DEX` cost)                                                                |
-|-------------------|-------------|-------------------------------------------------------------------------------------|
-| Shield            | `1`         | Parry: `+1 AC` until next turn (`2`)                                               |
-| Climbing Gear     | `1`         | Scale walls and overhangs overwise unclimbable by skilled climbers (`3`)            |
-| Thieves' tools    | `1`         | Open locks and disarm traps that are not crackable by an a skilled lockpicker (`2`) |
-| Cloak of Shadows  | `1`         | Hide in dim light in ways a normal person can't (`2`)                               |
-| Sneaky boots      | `1`         | Move more silently than a cat (`3`)                                                 |
+| Tool              | Inventory Slots | Ability (`DEX` cost)                                                                | Sale Value (`jink`) |
+|:------------------|:----------------|:------------------------------------------------------------------------------------|---------------------|
+| Shield            | `1`             | Parry: `+1 AC` until next turn (`2`)                                                | `5`                 |
+| Climbing Gear     | `1`             | Scale walls and overhangs overwise unclimbable by skilled climbers (`3`)            | `5`                 |
+| Thieves' tools    | `1`             | Open locks and disarm traps that are not crackable by an a skilled lockpicker (`2`) | `8`                 |
+| Cloak of Shadows  | `1`             | Hide in dim light in ways a normal person can't (`2`)                               | `8`                 |
+| Sneaky boots      | `1`             | Move more silently than a cat (`3`)                                                 | `5`                 |
 
 ### Magical and Ceremonial Gear
 
-| Gear            | `INV` Slots | Ability (`WIL` cost)                                                                          |
-|-----------------|-------------|-----------------------------------------------------------------------------------------------|
-| Scroll          | `1`         | Cast Spell: the spell written on it takes effect (`3`)                                        |
-| Holy Symbol     | `1`         | Turn Undead: Weak undead are chased away (`2`)                                                |
-| Prayer Beads    | `1`         | Lay on Hands: Heal `1 STR, DEX, or WIL` damage on touched creature per `WIL` spent (`varies`) |
+| Gear            | Inventory Slots | Ability (`WIL` cost)                                                                          | Sale Value (`jink`) |
+|:----------------|:----------------|:----------------------------------------------------------------------------------------------|---------------------|
+| Scroll          | `1`             | Cast Spell: the spell written on it takes effect (`3`)                                        | `50`                |
+| Holy Symbol     | `1`             | Turn Undead: Weak undead are chased away (`2`)                                                | `50`                |
+| Prayer Beads    | `1`             | Lay on Hands: Heal `1 STR, DEX, or WIL` damage on touched creature per `WIL` spent (`varies`) | `30`                |
 
 ### Miscellaneous Items
 
-| Item                   | `INV` Slots | Ability                                                                        |
-|------------------------|-------------|--------------------------------------------------------------------------------|
-| Burglar's goggles      | `1`         | Evasion: `STR` damage is first taken from `DEX`                                |
-| Cloak of the War Mage  | `1`         | Mage Armor: `STR` damage is first taken from `WIL`                             |
-| War pipes              | `2`         | Heavy weapon, deals `WIL` damage rather than `STR`, Cleave costs `4 WIL`       |
-| Bolas                  | `1`         | Light weapon, deals `DEX` damage rather than `STR`, Sneak attack costs `2 DEX` |
-| Net                    | `1`         | Medium weapon, deals `DEX` damage rather than `STR`, Critical costs `3 DEX`    |
+| Item                   | Inventory Slots | Ability                                                                        | Sale Value (`jink`) |
+|:-----------------------|:----------------|:-------------------------------------------------------------------------------|---------------------|
+| Burglar's goggles      | `1`             | Evasion: `STR` damage is first taken from `DEX`                                | `50`                |
+| Cloak of the War Mage  | `1`             | Mage Armor: `STR` damage is first taken from `WIL`                             | `50`                |
+| War pipes              | `2`             | Heavy weapon, deals `WIL` damage rather than `STR`, Cleave costs `4 WIL`       | `30`                |
+| Bolas                  | `1`             | Light weapon, deals `DEX` damage rather than `STR`, Sneak attack costs `2 DEX` | |
+| Net                    | `1`             | Medium weapon, deals `DEX` damage rather than `STR`, Critical costs `3 DEX`    | |
+
+## License
+
+Scape is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Game rules are derived from [Cairn by Yochai Gal](https://cairnrpg.com/).
