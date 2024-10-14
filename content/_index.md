@@ -94,7 +94,7 @@ Each round the referee makes a determination on whether the creatures flee and e
 
 ### Tattoos
 
-* **Mark of Vitality**: This tattoo causes you to grow grotesquely muscly. You can perform great feats of strength more oftem, but maybe you should refrain from delicate tasks like petting kittens. Increase your `STR edge` by 1, not to exceed `2`.
+* **Mark of Vitality**: This tattoo causes you to grow grotesquely muscly. You can perform great feats of strength more often, but maybe you should refrain from delicate tasks like petting kittens. Increase your `STR edge` by 1, not to exceed `2`.
 * **Mark of Agility**: This tattoo causes you to be quicker and more twitchy. Your reflexes are enchanced. Never mind the occasional spasms. That's just your nervous system going into overdrive. Increase your `DEX edge` by 1, not to exceed `2`.
 * **Mark of Intellect**: With this mark your neural pathways have opened and you can see the connections you couldn't before. Also, does anyone else see all the eyes everywhere? Increase your `WIL edge` by 1, not to exceed `2`.
 * **Mark of Health**: You can dodge so well with this mark that time seems to move a bit slower for you. You're not sure why everyone keeps complaining about you talking so fast. Increase max `HP` by `2`.
@@ -158,6 +158,217 @@ Pick one of these when first creating a character. They are not otherwise for sa
 | War pipes              | `2`             | Heavy weapon, deals `WIL` damage rather than `STR`, Cleave costs `4 `WIL``       | `30`                |
 | Bolas                  | `1`             | Light weapon, deals `DEX` damage rather than `STR`, Sneak attack costs `2 `DEX`` | |
 | Net                    | `1`             | Medium weapon, deals `DEX` damage rather than `STR`, Critical costs `3 `DEX``    | |
+
+### 1d100 Spell Scrolls
+
+| **d100** | **Spell Name**               | **Description**                                                                                                     |
+|:-------:|:------------------------------|:--------------------------------------------------------------------------------------------------------------------|
+| 01      | **Glimmerwhisk**               | Summons a shimmering, whisk-like object that gently cleans and polishes small items for 1 minute.                   |
+| 02      | **Pocket Portal**              | Creates a temporary, tiny portal to a random pocket dimension, useful for hiding small objects.                     |
+| 03      | **Breeze of Forgetfulness**    | A soft breeze flows through, causing creatures in a small area to momentarily forget what they were doing.          |
+| 04      | **Featherweight Arms**         | Makes weapons in an area as light as feathers, reducing their damage but allowing easy handling.                    |
+| 05      | **Slippery Shoes**             | Makes the target’s shoes incredibly slippery, causing awkward movement but increasing dodge ability.                |
+| 06      | **Paper-to-Copper**            | Transmutes ordinary paper into 1 copper coin per sheet. The coin vanishes after 1 hour.                             |
+| 07      | **Ghostly Gossip**             | Summons a minor ghost that whispers irrelevant or amusing rumors for 10 minutes.                                    |
+| 08      | **Sticky Fingers**             | Target's hands become sticky, allowing them to easily grip objects, but making it difficult to let go.              |
+| 09      | **Mirthful Mask**              | Creates a magical mask on a target that makes them laugh uncontrollably for 1 minute.                               |
+| 10      | **Flame-Fizz**                 | Conjures a tiny flame that fizzles out upon contact, harmlessly popping like a firecracker.                         |
+| 11      | **Tangleweed**                 | Causes grass or small plants to grow wildly and entangle creatures within a 10-ft radius.                           |
+| 12      | **Spoon of Plenty**            | Enchants a spoon to multiply small amounts of food, enough to feed one creature per spoonful.                       |
+| 13      | **Temporal Tic**               | Causes a creature to experience mild time dilation, making them perceive time as moving faster for 1 minute.        |
+| 14      | **Puddle of Portals**          | Creates a small, harmless puddle that leads to a random plane for 10 seconds.                                       |
+| 15      | **Insect Orchestra**           | Summons a swarm of harmless insects that create musical tones by buzzing or chirping in harmony for 1 minute.       |
+| 16      | **Sudden Stiffness**           | Causes a single object or creature to become rigid and immovable for 10 seconds.                                    |
+| 17      | **Chatterbox Charm**           | Temporarily gives an inanimate object the ability to speak, although it mostly makes small talk.                    |
+| 18      | **Spectral Tailor**            | Summons an invisible entity to adjust, clean, or mend clothing for 1 hour.                                          |
+| 19      | **Fickle Fire**                | Summons a small flame that changes color every few seconds but offers no heat.                                      |
+| 20      | **Weight of Words**            | Makes the next sentence the target says feel physically heavy, slowing their speech.                                |
+| 21      | **Planar Sniff**               | The caster briefly gains the scent of a distant plane, like the brimstone of the Nine Hells or the flora of Arborea.|
+| 22      | **Silent Sneeze**              | Forces a creature to sneeze silently. No sound is made, but the sensation is unmistakable.                          |
+| 23      | **Mimic Echo**                 | Copies the last sound heard and repeats it at random intervals over the next hour.                                  |
+| 24      | **Spontaneous Scribbles**      | Summons a quill that writes random thoughts or doodles from the caster's subconscious for 1 minute.                 |
+| 25      | **Shrink Shrub**               | Causes a shrub or small bush to shrink down to the size of a potted plant for 1 hour.                               |
+| 26      | **Temporary Twin**             | Creates a duplicate of a creature that lasts for 30 seconds and mirrors their actions perfectly.                    |
+| 27      | **Damp Spark**                 | Conjures a spark of electricity that fizzles out instantly if it touches anything wet.                              |
+| 28      | **Whispering Gust**            | Sends a soft, whispering wind that can carry faint messages up to 100 feet.                                         |
+| 29      | **Unseen Breeze**              | Creates an invisible, gentle wind that cools the caster or an ally for 1 minute.                                    |
+| 30      | **Mirror Mask**                | Causes the target’s face to reflect light like a mirror for 10 minutes, making identification difficult.            |
+| 31      | **Jitterbug Curse**            | Causes a creature’s legs to involuntarily twitch and dance for 1 minute.                                            |
+| 32      | **Butterfly Eyes**             | Causes the target’s eyes to be surrounded by glowing, fluttering butterfly-like shapes for 10 minutes.              |
+| 33      | **Bubble Blower**              | Creates harmless bubbles that float through the air, obscuring vision slightly for 1 minute.                        |
+| 34      | **Charming Chime**             | Conjures a floating bell that rings whenever someone enters a room or crosses a threshold.                          |
+| 35      | **Frosted Breath**             | Causes a creature’s breath to become visible as frosty mist for 10 minutes.                                         |
+| 36      | **Candle Companion**           | Summons a small, sentient candle that follows the caster, offering light and simple advice for 1 hour.              |
+| 37      | **Nailgrow**                   | Causes the target’s fingernails to grow rapidly, though harmlessly, for 1 minute.                                   |
+| 38      | **Melt Marshmallow**           | Turns any small food item into a marshmallow for 5 minutes.                                                        |
+| 39      | **Frog's Leap**                | Gives a creature the ability to leap three times their normal height, but only for a single jump.                   |
+| 40      | **Whiff of Elysium**           | Releases a pleasant, calming aroma reminiscent of Elysium, soothing those nearby.                                   |
+| 41      | **Bouncing Ball**              | Conjures a small ball that bounces indefinitely, never losing momentum.                                             |
+| 42      | **Echo Snap**                  | Creates a delayed, echoing sound when the caster snaps their fingers, repeated 5 times.                             |
+| 43      | **Vibrating Coin**             | Causes a single coin to vibrate intensely, creating a soft hum.                                                     |
+| 44      | **Sticky Note**                | Enchants a piece of paper to stick to any surface for 24 hours without glue.                                        |
+| 45      | **Dust Bunny Call**            | Summons small, harmless dust bunnies to clean or gather in corners.                                                 |
+| 46      | **Time Tickler**               | Temporarily distorts time perception, making a creature think 5 seconds passed when only 1 second did.              |
+| 47      | **Forget-Me-Knot**             | Ties an enchanted knot that will untie itself when someone nearby forgets something important.                      |
+| 48      | **Whisker Whisper**            | Allows the caster to speak to any small animal with whiskers, like cats or mice, for 1 minute.                      |
+| 49      | **Planar Itch**                | The caster or target experiences an untraceable itch that can only be scratched on a specific plane of existence.    |
+| 50      | **Bookbinder's Boon**          | Magically rebinds and restores a damaged book to a pristine state.                                                  |
+| 51      | **Invisible Ink**              | Makes any written text invisible for 1 hour.                                                                       |
+| 52      | **Barkskin Boots**             | Temporarily turns shoes into wooden boots, making footsteps sound like clopping hooves.                             |
+| 53      | **Grumpy Glare**               | Gives the caster an imposing, grumpy expression that makes them harder to approach or talk to for 10 minutes.       |
+| 54      | **Twang of the Bard**          | Causes the air to resonate with soft, bardic music for 1 minute when a stringed instrument is plucked.              |
+| 55      | **Planar Pebble**              | Summons a pebble from a random plane, which may have unusual properties.                                            |
+| 56      | **Featherlight Load**          | Lightens any non-living object, reducing its weight by half for 10 minutes.                                         |
+| 57      | **Dappled Light**              | Creates patches of shimmering light that mimic the light through tree leaves, slightly distracting creatures.       |
+| 58      | **Sock Swap**                  | Randomly switches two creatures' socks (if any), causing momentary confusion.                                       |
+| 59      | **Echoes of the Past**         | Causes a faint, indistinct sound of past conversations to fill a room for 1 minute.                                 |
+| 60      | **Spinning Spoon**             | Enchants a spoon to spin wildly when placed in any liquid, creating a swirling vortex.                              |
+| 61      | **Rustle of Secrets**          | Causes nearby papers or leaves to rustle, as if being moved by an invisible hand, often revealing hidden objects.    |
+| 62      | **Snail’s Pace**               | Slows a single creature's movement to that of a snail for 10 seconds.                                               |
+| 63      | **Sudden Sparkles**            | Conjures a burst of harmless, glittering sparkles that hang in the air for 30 seconds.                              |
+| 64      | **Chill of Anticipation**      | The temperature around a creature drops slightly when they are about to make an important decision.                 |
+| 65      | **Gravestone Whisper**         | Allows the caster to hear faint, cryptic whispers from gravestones for 1 minute.                                    |
+| 66      | **Clockwork Tock**             | Conjures a small, ticking sound that mimics a clock, but is randomly out of sync.                                   |
+| 67      | **Rainbow Ripple**             | Creates a ripple of light that changes color as it spreads out, harmless but dazzling.                              |
+| 68      | **Shoe Untie**                 | Causes a creature's shoelaces (or equivalent) to untie themselves at the worst possible moment.                     |
+| 69      | **Fumblefingers**              | Makes the target clumsily drop whatever they are holding.                                                          |
+| 70      | **Itch of Truth**              | Forces a creature to feel an itch when they lie, though it doesn't compel them to tell the truth.                   |
+| 71      | **Parchment Parasite**         | Animates a piece of parchment, which flies to a random surface and sticks there for 1 hour.                         |
+| 72      | **Dizzy Doodle**               | Causes a creature's writing or drawing to become disoriented and swirling for 1 minute.                             |
+| 73      | **Comfy Chair**                | Transforms any chair into a luxuriously comfortable one for 1 hour.                                                 |
+| 74      | **Eye Blink Switch**           | Randomly swaps two creatures’ blink timings for 1 minute, making eye contact awkward.                               |
+| 75      | **Dusty's Secret**             | Causes an object to become slightly dusty, hiding its shine or true value.                                          |
+| 76      | **Ghostly Guiding Hand**       | Summons a spectral hand that gently nudges someone in a helpful direction, but only slightly.                       |
+| 77      | **Ink Stain Curse**            | Causes ink to blotch and spill uncontrollably when writing for 1 minute.                                            |
+| 78      | **Sniffle of Shame**           | Gives the target the sensation of needing to sniffle at inopportune moments.                                        |
+| 79      | **Colorflick**                 | Causes an object or creature to flicker between random colors for 1 minute.                                         |
+| 80      | **Door Jam**                   | Magically jams a door slightly, making it difficult to open or close for 10 minutes.                                |
+| 81      | **Creaky Floorboard**          | Makes a random floorboard or surface creak loudly when stepped on.                                                  |
+| 82      | **Forgetful Fog**              | Summons a light fog that causes creatures within to forget minor details (like names or dates) for 1 minute.        |
+| 83      | **Stray Step**                 | Causes a creature to accidentally step slightly to the left or right when they try to walk forward.                 |
+| 84      | **Invisible Shoelaces**        | Makes a creature's shoelaces or equivalent disappear, though they are still functional.                             |
+| 85      | **Looming Shadow**             | Enlarges a creature's shadow to an intimidating size for 5 minutes.                                                 |
+| 86      | **Faint Fizz**                 | Summons a fizzy, carbonated sound in the air, as if a potion or drink were bubbling nearby.                         |
+| 87      | **Tiny Trumpet**               | Creates a tiny trumpet sound whenever a creature speaks loudly.                                                     |
+| 88      | **Balancing Bubble**           | Envelops a small object in a bubble that perfectly balances it on a flat surface for 1 minute.                      |
+| 89      | **Weird Weather**              | Summons a tiny, localized weather phenomenon (like a mini-rain cloud or snow flurry) over a creature for 1 minute.  |
+| 90      | **Phantom Footsteps**          | Creates the sound of footsteps behind a creature, but no one is there.                                              |
+| 91      | **Random Rattle**              | Causes a random nearby object to rattle or vibrate slightly for 1 minute.                                           |
+| 92      | **Forgotten Fiddle**           | Summons the sound of an out-of-tune fiddle that plays a random tune for 30 seconds.                                 |
+| 93      | **Distant Bell**               | Conjures the distant, echoing sound of a large bell, as though heard from miles away.                               |
+| 94      | **Tiny Tornado**               | Creates a harmless, tiny tornado that spins for 30 seconds and lifts small objects like leaves or paper.            |
+| 95      | **Sour Taste**                 | Gives any food or drink an oddly sour taste for 1 minute, without spoiling it.                                      |
+| 96      | **Silent Drumbeat**            | Causes the sensation of a steady drumbeat that only the caster can feel in their chest.                             |
+| 97      | **Spectral Stairs**            | Conjures a faint image of stairs where there are none, confusing onlookers.                                         |
+| 98      | **Planar Pulse**               | Causes a pulse of energy from a random plane to wash over the area, briefly changing its atmosphere.                |
+| 99      | **Grin of Greed**              | Forces a creature to flash a greedy smile when they see something they desire.                                       |
+| 100     | **Pocket Dimension Puff**      | Opens a tiny, harmless pocket dimension for 10 seconds that releases a puff of air and a random scent.              |
+
+### 1d100 Planar Trinkets
+
+| **d100** | **Trinket Name**              | **Description**                                                                                                     |
+|:-------:|:------------------------------|:--------------------------------------------------------------------------------------------------------------------|
+| 01      | **Planar Compass**             | A brass compass that doesn’t point north, but spins to indicate the nearest portal to another plane.                 |
+| 02      | **Glass Feather**              | A delicate feather made of glass that never breaks, even if dropped.                                                |
+| 03      | **Echo Stone**                 | A small, smooth stone that repeats the last word spoken near it in a whisper.                                       |
+| 04      | **Flickering Candle**          | A candle that flickers randomly, as if exposed to an invisible wind, even in still air.                             |
+| 05      | **Eversplash Shell**           | A shell that constantly contains a single drop of water, which never spills, no matter how it’s moved.              |
+| 06      | **Pocket Sundial**             | A tiny sundial that tells the time regardless of whether there is sunlight or not.                                   |
+| 07      | **Chime of Calm**              | A small silver chime that rings softly when held, calming those who hear it.                                         |
+| 08      | **Feather of Floating**        | A brightly colored feather that floats in place when released into the air, defying gravity.                        |
+| 09      | **Phantom Key**                | A translucent key that fits no known lock but emits a faint, eerie glow in the dark.                                |
+| 10      | **Shadow Locket**              | A silver locket that casts a shadow in the shape of whatever its owner desires.                                      |
+| 11      | **Whispering Quill**           | A quill that quietly hums an unknown melody when it writes.                                                         |
+| 12      | **Pebble of the Multiverse**   | A smooth, colorful pebble that shifts colors and patterns as if showing reflections of other worlds.                |
+| 13      | **Mirror Coin**                | A coin that reflects things from alternate realities when flipped.                                                  |
+| 14      | **Endless Ribbon**             | A piece of ribbon that, no matter how much is cut, is always the same length.                                        |
+| 15      | **Ringing Marble**             | A marble that emits a faint ringing sound when held tightly.                                                        |
+| 16      | **Starshard Pendant**          | A pendant with a tiny fragment of a star inside, which twinkles faintly in the dark.                                 |
+| 17      | **Forgotten Dice**             | A pair of ancient-looking dice that always land on different numbers than those rolled.                             |
+| 18      | **Planar Hourglass**           | An hourglass that doesn’t track time but shows brief glimpses of distant planes as sand falls.                      |
+| 19      | **Silent Bell**                | A brass bell that rings, but only the one who holds it can hear the sound.                                           |
+| 20      | **Veil of Veils**              | A thin, iridescent fabric that changes color when viewed from different angles and hides faint shapes behind it.     |
+| 21      | **Drifting Leaf**              | A leaf that never seems to touch the ground, no matter how hard it’s thrown down.                                    |
+| 22      | **Faint Flame Gem**            | A dull gemstone that flickers with an inner fire that never grows or fades.                                          |
+| 23      | **Stone of Whispers**          | A small stone that allows the owner to hear distant, unintelligible whispers when held close to the ear.             |
+| 24      | **Mysterious Map Fragment**    | A torn fragment of a map that shows a place you’ve never been, but feels eerily familiar.                           |
+| 25      | **Shimmering Key**             | A key made of shifting, iridescent material that changes shape slightly when looked at closely.                     |
+| 26      | **Echoing Bracelet**           | A metal bracelet that occasionally makes a faint echo of the wearer’s last spoken words.                            |
+| 27      | **Portal Pebble**              | A smooth pebble that feels warm in your hand whenever you're near an open portal.                                    |
+| 28      | **Spectral Candle**            | A candle that lights without flame, casting ghostly light that doesn’t illuminate physical objects.                  |
+| 29      | **Orb of Shifting Colors**     | A glass orb that slowly shifts through all colors of the spectrum when held.                                         |
+| 30      | **Feathered Ring**             | A ring with tiny feathers that feel soft to the touch and flutter as if blown by an unseen breeze.                   |
+| 31      | **Planar Seashell**            | A seashell that, when held to the ear, echoes sounds from distant planes.                                            |
+| 32      | **Cracked Mask**               | A porcelain mask with a single crack down the middle, which briefly reflects a different face than your own.         |
+| 33      | **Sand of Time's Flow**        | A vial containing sand that flows upward when tilted.                                                               |
+| 34      | **Ethereal Coin**              | A coin that fades in and out of reality, sometimes becoming partially transparent.                                   |
+| 35      | **Skywatcher’s Lens**          | A lens that reveals stars and constellations, even during the day or underground.                                    |
+| 36      | **Planewalker's Button**       | A button that feels cold to the touch and seems to spin slightly when near a portal.                                 |
+| 37      | **Silent Music Box**           | A small music box that plays no audible music, but those who watch it feel as though they’ve heard something.        |
+| 38      | **Phoenix Feather**            | A vibrant feather that feels warm and never burns, even in the hottest fire.                                         |
+| 39      | **Pouch of Endless Crumbs**    | A small pouch that, no matter how much is emptied, always contains a few crumbs of unknown origin.                  |
+| 40      | **Frosted Coin**               | A silver coin that is always covered in a thin layer of frost, regardless of temperature.                           |
+| 41      | **Dewdrop Necklace**           | A necklace with a single dewdrop encased in glass that never evaporates or changes.                                  |
+| 42      | **Illusory Chess Piece**       | A chess piece that changes shape to mimic other pieces on the board.                                                |
+| 43      | **Ink of Echoes**              | A vial of ink that, when written with, shows faint traces of the writer’s previous thoughts.                        |
+| 44      | **Starmetal Fragment**         | A shard of metal from a meteorite that glows faintly when exposed to moonlight.                                     |
+| 45      | **Planar Tuning Fork**         | A small tuning fork that hums softly when near a gateway to another plane.                                           |
+| 46      | **Phantom Cloak Pin**          | A cloak pin that appears to be made of shadows and seems to phase in and out of existence.                           |
+| 47      | **Sands of Silence**           | A handful of sand that absorbs all sound when scattered in an area.                                                 |
+| 48      | **Endless Candle**             | A candle that never burns out, but provides no light or heat.                                                       |
+| 49      | **Wind-Up Lantern**            | A small lantern that can be wound up to cast light for 1 hour, but it winds down as if it’s ticking away time itself.|
+| 50      | **Hourglass of Moments**       | A tiny hourglass that never runs out of sand but always feels like it’s counting something important.                |
+| 51      | **Feather of Direction**       | A small, iridescent feather that always points north when held upright.                                              |
+| 52      | **Eyeless Mask**               | A featureless mask with no eye holes that allows the wearer to see perfectly through it.                            |
+| 53      | **Endless Scroll**             | A scroll that never runs out of parchment, though the content written disappears after a minute.                    |
+| 54      | **Portal Key Fragment**        | A broken fragment of a key that once opened a portal to a now-forgotten plane.                                       |
+| 55      | **Stone of Serenity**          | A smooth stone that, when held, calms the mind and slows the heart.                                                 |
+| 56      | **Raincatcher’s Bottle**       | A bottle that magically fills with fresh rainwater when left open in any environment.                               |
+| 57      | **Pouch of Fading Shadows**    | A small pouch that emits thin wisps of shadow when opened, quickly dissipating.                                      |
+| 58      | **Crystal of Forgotten Songs** | A crystal that hums faintly when held, as if echoing a long-lost melody.                                             |
+| 59      | **Shard of Distant Memories**  | A sharp piece of glass that shows blurry memories from the wielder’s past when held up to the light.                |
+| 60      | **Everspinning Top**           | A wooden top that never stops spinning unless deliberately stopped.                                                 |
+| 61      | **Luminous Pebble**            | A small pebble that glows faintly in the dark, like a miniature moon.                                               |
+| 62      | **Veil of Whispers**           | A thin veil that occasionally whispers incomprehensible words to the wearer.                                         |
+| 63      | **Planar Map Orb**             | A small orb that, when gazed into, shows shifting landscapes of different planes.                                   |
+| 64      | **Coin of Many Faces**         | A coin that changes faces whenever it is flipped.                                                                  |
+| 65      | **Faint Rune Stone**           | A stone with a single rune on it that glows faintly when near magic.                                                |
+| 66      | **Endless Flask**              | A flask that is always half full of a strange, sour liquid that cannot be identified.                               |
+| 67      | **Cloak of Flickers**          | A cloak that seems to flicker in and out of sight when viewed from the corner of your eye.                          |
+| 68      | **Ethereal Inkpot**            | A pot of ink that glows faintly and can be used to write messages visible only under moonlight.                     |
+| 69      | **Shifting Crystal**           | A crystal that slowly changes shape and color over time, never quite staying the same.                              |
+| 70      | **Spectral Pendant**           | A pendant that is cold to the touch and leaves a faint, ghostly imprint when pressed against skin.                  |
+| 71      | **Worn Coin of Fate**          | A tarnished coin that seems to always land on the side most beneficial to the owner’s fate.                         |
+| 72      | **Glowing Moss Pouch**         | A small pouch filled with a glowing green moss that can illuminate dark areas for short periods.                    |
+| 73      | **Feather of Silence**         | A dark feather that, when carried, muffles footsteps and small sounds around the bearer.                            |
+| 74      | **Mirrored Ring**              | A ring with a reflective surface that shows brief glimpses of other realms.                                         |
+| 75      | **Vial of Endless Mist**       | A small vial that, when uncorked, releases a slow, steady trickle of cool mist.                                     |
+| 76      | **Scroll of Silent Words**     | A scroll that contains words but makes no sound when read aloud.                                                    |
+| 77      | **Astral Compass**             | A compass that points to the nearest gate to the Astral Plane.                                                      |
+| 78      | **Pebble of Echoes**           | A pebble that, when dropped, creates an echo much louder than it should.                                            |
+| 79      | **Broken Hourglass**           | A cracked hourglass that seems to speed up or slow down time when turned over, but only slightly.                   |
+| 80      | **Faint Flame Candle**         | A candle that lights with a flame so faint, it only barely illuminates the space around it.                         |
+| 81      | **Feather of Forgetting**      | A strange feather that causes anyone who holds it to momentarily forget why they picked it up.                      |
+| 82      | **Shifting Coin**              | A coin that changes material (gold, silver, copper) randomly every time it is flipped.                              |
+| 83      | **Endless Notebook**           | A small notebook that never runs out of pages but always starts with a random note or drawing.                      |
+| 84      | **Illusionary Mirror**         | A mirror that reflects only illusions and phantoms.                                                                 |
+| 85      | **Whispered Coin**             | A coin that, when held, whispers a single word from a distant plane.                                                |
+| 86      | **Tome of Half-Truths**        | A small book that tells stories and information, but never entirely accurately.                                     |
+| 87      | **Glowing Rune Ring**          | A ring that glows softly in response to nearby enchantments or spells.                                              |
+| 88      | **Feather of Phasing**         | A soft feather that occasionally passes through solid objects.                                                      |
+| 89      | **Spectral Chain**             | A chain that flickers in and out of existence, as if tied to some unseen realm.                                     |
+| 90      | **Endless Teacup**             | A small teacup that always fills itself with a mysterious tea when emptied.                                          |
+| 91      | **Eclipsed Mirror**            | A hand mirror that shows a reflection of the moon, even during the day.                                             |
+| 92      | **Pouch of Forgotten Names**   | A pouch that, when opened, causes those nearby to momentarily forget one another’s names.                           |
+| 93      | **Shifting Timepiece**         | A clock that shows the time differently each time it's glanced at, as if it is tracking multiple dimensions.        |
+| 94      | **Endless Chain**              | A small chain that, no matter how much is used, never runs out of links.                                            |
+| 95      | **Vial of Starlight**          | A vial that glows faintly, as if containing trapped starlight, though it provides no warmth.                        |
+| 96      | **Planar Lens**                | A lens that shows glimpses of other dimensions when looked through.                                                 |
+| 97      | **Bone of Silence**            | A small bone that absorbs all sound within a small radius when held.                                                |
+| 98      | **Spectral Spoon**             | A spoon that occasionally phases out of reality, passing through solid food and liquids.                            |
+| 99      | **Tome of Unwritten Pages**    | A book whose pages are blank, but words appear when the reader concentrates on a specific question.                 |
+| 100     | **Endless Candle Holder**      | A candle holder that, no matter the size of the candle placed in it, always burns for the same duration.            |
+
 
 ## License
 
