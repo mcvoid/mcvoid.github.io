@@ -46,13 +46,13 @@ A fantasy roleplaying game for the Planescape setting.
 8. **AC and `HP`** Any damage received is first reduced by your `AC` score. If `AC` cannot reduce it to `0`, then the remainder is taken from your `HP`. Once `HP` is `0`, the remaining damage dealt is taken from the relevant ability score. Physical damage reduces `STR`, while other effects like magic or poisons may affect `DEX` or `WIL` instead.
 9. **Critical Damage** The moment your `HP` reaches `0` as a result of taking damage, roll a `STR` save. On a failure, you gain `1 fatigue`, you are disabled and can only moan for help and try to crawl to safety.
 10. **Equipment Slots** You have `10` equipment slots to start, `4` of which are considered to be worn or carried. Each piece of equipment you take with you (except coins) takes up equipment slots. Most equipment takes up `1` slot. Small items can be grouped into a single slot. Bulky items use `2` slots. If you have no unused equipment slots, you cannot carry any more equipment and are considered `deprived`. Carrying a person is considered bulky. Equipment abilities can only be activated while wearing or carrying them.
-11. **Fatigue** You may gain fatigue from various sources such as critical damage or being downed from ability score damage. Each point of `fatigue` gained renders a single `inventory` slot unusable. A full day of rest in a safe location with food and drink removes `1 fatigue`.
+11. **Fatigue** You may gain fatigue from various sources such as extreme heat or cold, multiple days without sleep, critical damage, or being downed from ability score damage. Each point of `fatigue` gained renders a single `inventory` slot unusable. If this leaves you with no usable inventory slots, you are `fatigued`. If you have more items equipped than you have usable slots, you must drop the remaining equipment. A full day of rest in a safe location with food and drink removes `1 fatigue`.
 11. **Deprivation** Extreme environments, magical effects, and having all usable equipment slots filled causes you to be `deprived`. While `deprived`, you cannot restore `HP`, `STR`, `DEX`, nor `WIL` by resting.
 12. **Healing** Resting allows damage to be recovered to the max score. `HP` can be restored with a few minutes of rest. `STR`, `DEX`, and `WIL` need a full day of rest in a safe location with food and drink to be restored. Temporary injuries can only have their effects removed with a week of bedrest and a skilled healer.
 
 ## Combat
 
-When combat starts, the game gets a little more structured. There's two ways to run combat: `tactical play` or `casual play`. Combat happens in the following sequence:
+When combat starts, the game gets a little more structured. Combat happens in the following sequence:
 
 1. **Roll initiative** Everyone makes a `DEX` save.
 2. **Surprise Turn** Everyone who passed the save takes their turn.
@@ -63,8 +63,6 @@ When combat starts, the game gets a little more structured. There's two ways to 
 
 ### On a turn
 
-#### Casual Play
-
 Each character on their turn gets to move and perform an action.
 
 Actions include, but are not limited to:
@@ -74,10 +72,6 @@ Actions include, but are not limited to:
 * **Use Equipment** They may use the equipment at a tool, or an improvsied weapon, or may activate an ability the equipment gives them. They do so by wearing or holding the equipment as appropriate. Merely carrying it (such as in a backpack) is not sufficient.
 * **Interact** They may push a button, open a door, roll a barrel, or interact with any other reachable object in their environment.
 * **Improvise** They may try to do anything else that the character can think of that's capable of being done in a few seconds. The referee determines the outcome.
-
-#### Tactical Play
-
-A turn in tactical play happens much like casual play, but on each turn a character may either move *or* perform an action, not both.
 
 ### Morale
 
@@ -100,14 +94,14 @@ Each round the referee makes a determination on whether the creatures flee and e
 
 ### Tattoos
 
-* **Mark of Vitality**: Increase your `STR edge` by 1, not to exceed `2`.
-* **Mark of Agility**: Increase your `DEX edge` by 1, not to exceed `2`.
-* **Mark of Intellect**: Increase your `WIL edge` by 1, not to exceed `2`.
-* **Mark of Health**: Increase max `HP` by `2`.
-* **Mark of Burden**: Increase your number of `inventory` slots by `1`, not to exceed `14`.
-* **Mark of Skill**: Increase the number of `inventory` slots which can be worn or carried by `1`, not to exceed `6`.
-* **Mark of Toughness**: Choose one armor type. Increase the `AC` of that armor type by `1` when you wear it. You may only select this `tattoo` once.
-* **Mark of Arcana**: Choose a spell from the spell list. That spell is able to be cast without needing to equip a scroll. Each time you purchase this `tattoo` it must be for a different spell.
+* **Mark of Vitality**: This tattoo causes you to grow grotesquely muscly. You can perform great feats of strength more oftem, but maybe you should refrain from delicate tasks like petting kittens. Increase your `STR edge` by 1, not to exceed `2`.
+* **Mark of Agility**: This tattoo causes you to be quicker and more twitchy. Your reflexes are enchanced. Never mind the occasional spasms. That's just your nervous system going into overdrive. Increase your `DEX edge` by 1, not to exceed `2`.
+* **Mark of Intellect**: With this mark your neural pathways have opened and you can see the connections you couldn't before. Also, does anyone else see all the eyes everywhere? Increase your `WIL edge` by 1, not to exceed `2`.
+* **Mark of Health**: You can dodge so well with this mark that time seems to move a bit slower for you. You're not sure why everyone keeps complaining about you talking so fast. Increase max `HP` by `2`.
+* **Mark of Burden**: Life is a tetris game. You can see the optimal packing for your stuff. And how to optimally pack everything else, all the time. Increase your number of `inventory` slots by `1`, not to exceed `14`.
+* **Mark of Skill**: Multitasking is what it's all about. You can hold so many things at once. Juggling seems trivial now. You know because you never stop doing it. Increase the number of `inventory` slots which can be worn or carried by `1`, not to exceed `6`.
+* **Mark of Toughness**: Your favorite set of armor is so broken in and perfectly molded to your form that it feels like another layer of skin. That's why it feels like you're ripping your skin off whenever you remove it. Choose one armor type. Increase the `AC` of that armor type by `1` when you wear it. You may only select this `tattoo` once.
+* **Mark of Arcana**: You just got your favorite scroll tattooed right on your skin so now it lives rent-free in your brain, pushing out some core memories that lived there. If you could remember what it was, you might be upset you lost it, but you can't, so you don't. Choose a scroll from your inventory. That spell is able to be cast without needing to equip a scroll. Each time you purchase this `tattoo` it must be for a different spell.
 
 The referee should expand this list as a campaign goes on to reflect the experiences of the characters. This way the characters wear their own stories and experiences on their skin. These additional `tattoos` should be permanent abilities, such as gaining an ability from a certain item. Tattoos which improve numeric superiority should not be added.
 
