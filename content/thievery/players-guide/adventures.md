@@ -1,5 +1,6 @@
 ---
 title: "Adventures"
+weight: 7
 ---
 
 {{< snippet "ose/5. Adventures/1. Party Organization" >}}

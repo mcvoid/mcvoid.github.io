@@ -1,3 +1,8 @@
+---
+title: "License Information"
+weight: 3
+---
+
 # Old School Essentials Markdown License
 This Vault is Covered under Multiple Licenses.
 

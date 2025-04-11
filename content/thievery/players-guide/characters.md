@@ -1,5 +1,6 @@
 ---
 title: "Characters"
+weight: 1
 ---
 
 {{< snippet "ose/1. Characters/0. Player Characters" >}}

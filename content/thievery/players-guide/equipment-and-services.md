@@ -1,5 +1,6 @@
 ---
 title: "Equipment & Services"
+weight: 3
 ---
 
 {{< snippet "ose/3. Equipment & Services/1. Wealth" >}}

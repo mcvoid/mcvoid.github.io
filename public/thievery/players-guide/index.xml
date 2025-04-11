@@ -8,13 +8,6 @@
     <language>en</language>
     <atom:link href="http://localhost:1313/thievery/players-guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Adventures</title>
-      <link>http://localhost:1313/thievery/players-guide/adventures/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/thievery/players-guide/adventures/</guid>
-      <description>&lt;h1 id=&#34;party-organisation&#34;&gt;&#xA;  Party Organisation&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#party-organisation&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Size:&lt;/strong&gt; The ideal group size is between 6 and 8 characters—large enough to confront the challenges of the adventure while not so large as to be disorganized. If not enough PCs are present, the players may wish to hire retainers (see &lt;em&gt;&lt;strong&gt;Retainers&lt;/strong&gt;&lt;/em&gt;).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Classes:&lt;/strong&gt; It is wise for a party to have a mix of characters from different adventuring classes. Combat-focused characters are essential for protecting the group from danger, while other classes each have magic or other special abilities to handle different situations that may arise in an adventure.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Characters</title>
       <link>http://localhost:1313/thievery/players-guide/characters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -26,14 +19,7 @@
       <link>http://localhost:1313/thievery/players-guide/classes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/thievery/players-guide/classes/</guid>
-      <description>&lt;h1 id=&#34;character-classes&#34;&gt;&#xA;  Character Classes&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#character-classes&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;A &lt;em&gt;&lt;strong&gt;Class&lt;/strong&gt;&lt;/em&gt; is an adventuring profession to which the character belongs. A character’s class defines their primary abilities.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cleric:&lt;/strong&gt; Clerics are human adventurers who have sworn to serve a deity. They are trained for battle and channel the power of their deity.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dwarf:&lt;/strong&gt; Dwarves are stout, bearded demihumans, about 4’ tall and weighing about 150 pounds.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Elf:&lt;/strong&gt; Elves are slender, fey demihumans with pointed ears.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fighter:&lt;/strong&gt; Fighters are human adventurers dedicated to mastering the arts of combat and war.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Halfling:&lt;/strong&gt; Halflings are small, rotund demihumans with furry feet and curly hair.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Magic-User:&lt;/strong&gt; Magic-users are human adventurers whose study of arcane secrets has taught them how to cast spells.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Thief:&lt;/strong&gt; Thieves are human adventurers who live by their skills of deception and stealth.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;  &#xA;  &lt;h1 id=&#34;cleric&#34;&gt;&#xA;  Cleric&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cleric&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Requirements&lt;/td&gt;&#xA;          &lt;td&gt;None&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Prime requisite&lt;/td&gt;&#xA;          &lt;td&gt;WIS&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Hit Dice&lt;/td&gt;&#xA;          &lt;td&gt;1d6&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Maximum level&lt;/td&gt;&#xA;          &lt;td&gt;14&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Armor&lt;/td&gt;&#xA;          &lt;td&gt;Any, including shields&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Weapons&lt;/td&gt;&#xA;          &lt;td&gt;Any blunt weapons&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Languages&lt;/td&gt;&#xA;          &lt;td&gt;Alignment, Common&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;Clerics are adventurers sworn to the service of a deity. They are trained for battle and channel the power of their deity.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cleric Spells</title>
-      <link>http://localhost:1313/thievery/players-guide/cleric-spells/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/thievery/players-guide/cleric-spells/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;character-classes&#34;&gt;&#xA;  Character Classes&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#character-classes&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;A &lt;em&gt;&lt;strong&gt;Class&lt;/strong&gt;&lt;/em&gt; is an adventuring profession to which the character belongs. A character’s class defines their primary abilities.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cleric:&lt;/strong&gt; Clerics are adventurers who have sworn to serve a deity. They are trained for battle and channel the power of their deity.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fighter:&lt;/strong&gt; Fighters are adventurers dedicated to mastering the arts of combat and war.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Magic-User:&lt;/strong&gt; Magic-users are adventurers whose study of arcane secrets has taught them how to cast spells.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;  &#xA;  &lt;h1 id=&#34;cleric&#34;&gt;&#xA;  Cleric&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cleric&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Requirements&lt;/td&gt;&#xA;          &lt;td&gt;None&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Prime requisite&lt;/td&gt;&#xA;          &lt;td&gt;WIS&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Hit Dice&lt;/td&gt;&#xA;          &lt;td&gt;1d6&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Maximum level&lt;/td&gt;&#xA;          &lt;td&gt;14&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Armor&lt;/td&gt;&#xA;          &lt;td&gt;Any, including shields&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Weapons&lt;/td&gt;&#xA;          &lt;td&gt;Any blunt weapons&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Languages&lt;/td&gt;&#xA;          &lt;td&gt;Alignment, Common&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;Clerics are adventurers sworn to the service of a deity. They are trained for battle and channel the power of their deity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Equipment &amp; Services</title>
@@ -50,11 +36,25 @@
       <description>&lt;h1 id=&#34;rules-of-magic&#34;&gt;&#xA;  Rules of Magic&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#rules-of-magic&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Some character classes can memorize and cast magical spells. A spell consists of a pattern of magical energy memorized in a character’s mind. When a spell is cast, the spell is erased from the character’s mind until it is memorized again.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Arcane and divine magic:&lt;/strong&gt; Spells are either granted by a deity or higher power (&lt;em&gt;&lt;strong&gt;divine magic&lt;/strong&gt;&lt;/em&gt;) or learned by esoteric study (&lt;em&gt;&lt;strong&gt;arcane magic&lt;/strong&gt;&lt;/em&gt;).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Spell list:&lt;/strong&gt; The character’s class determines which spells they can cast. Each class has an associated list of spells.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Cleric Spells</title>
+      <link>http://localhost:1313/thievery/players-guide/cleric-spells/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/players-guide/cleric-spells/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Magic-User Spells</title>
       <link>http://localhost:1313/thievery/players-guide/magic-user-spells/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/thievery/players-guide/magic-user-spells/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Adventures</title>
+      <link>http://localhost:1313/thievery/players-guide/adventures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/players-guide/adventures/</guid>
+      <description>&lt;h1 id=&#34;party-organisation&#34;&gt;&#xA;  Party Organisation&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#party-organisation&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Size:&lt;/strong&gt; The ideal group size is between 6 and 8 characters—large enough to confront the challenges of the adventure while not so large as to be disorganized. If not enough PCs are present, the players may wish to hire retainers (see &lt;em&gt;&lt;strong&gt;Retainers&lt;/strong&gt;&lt;/em&gt;).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Classes:&lt;/strong&gt; It is wise for a party to have a mix of characters from different adventuring classes. Combat-focused characters are essential for protecting the group from danger, while other classes each have magic or other special abilities to handle different situations that may arise in an adventure.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

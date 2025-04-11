@@ -1,5 +1,6 @@
 ---
 title: "Referee's Guide"
+weight: 2
 ---
 
 # Thievery! Referee's Guide

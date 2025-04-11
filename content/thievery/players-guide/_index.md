@@ -1,5 +1,6 @@
 ---
 title: Players' Guide
+weight: 1
 ---
 
 # Thievery! Players' Guide

@@ -4,8 +4,6 @@ title: 'mcvoid.org'
 theme:
 - hugo-book
 
-params:
-  defaultDarkTheme: true
 # Needed for mermaid/katex shortcodes
 markup:
   goldmark:

@@ -1,5 +1,6 @@
 ---
 title: "Magic"
+weight: 4
 ---
 
 {{< snippet "ose/4. Magic/1. Rules" >}}
