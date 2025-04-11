@@ -2,7 +2,7 @@
 title: "Classes"
 ---
 
-{{< snippet "ose/2. Classes/0a. Character Classes" >}}
+{{< snippet "thievery/2. Classes/0a. Character Classes" >}}
 
 {{< snippet "ose/2. Classes/1. Cleric" >}}
 
