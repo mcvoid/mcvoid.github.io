@@ -1,5 +1,6 @@
 ---
 title: "Treasures"
+weight: 7
 ---
 
 {{< snippet "ose/8. Treasures/1. Placing Treasure" >}}

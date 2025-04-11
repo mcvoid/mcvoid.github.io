@@ -1,5 +1,6 @@
 ---
 title: "Adventures"
+weight: 3
 ---
 
 {{< snippet "ose/5. Adventures/4. Hazards and Challenges" >}}

@@ -1,5 +1,6 @@
 ---
 title: "Equipment & Services"
+weight: 1
 ---
 
 {{< snippet "ose/3. Equipment & Services/5. Rules for Vehicles" >}}

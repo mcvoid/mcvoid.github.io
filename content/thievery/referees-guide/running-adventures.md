@@ -1,5 +1,6 @@
 ---
 title: "Running Adventures"
+weight: 4
 ---
 
 {{< snippet "ose/6. Running Adventures/1. The Referee's Role" >}}

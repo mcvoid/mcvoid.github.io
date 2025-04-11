@@ -1,5 +1,6 @@
 ---
 title: "Monsters"
+weight: 5
 ---
 
 {{< snippet "ose/7. Monsters/1. General" >}}

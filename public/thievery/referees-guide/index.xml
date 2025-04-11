@@ -8,13 +8,6 @@
     <language>en</language>
     <atom:link href="http://localhost:1313/thievery/referees-guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Adventures</title>
-      <link>http://localhost:1313/thievery/referees-guide/adventures/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/thievery/referees-guide/adventures/</guid>
-      <description>&lt;h1 id=&#34;hazards-and-challenges&#34;&gt;&#xA;  Hazards and Challenges&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hazards-and-challenges&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;climbing&#34;&gt;&#xA;  Climbing&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#climbing&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;When climbing in a difficult or pressured situation, the referee may require a DEX check to avoid falling.&lt;/p&gt;&#xA;&lt;h3 id=&#34;sheer-surfaces&#34;&gt;&#xA;  Sheer Surfaces&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#sheer-surfaces&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Very steep or sheer surfaces are usually only possible to climb with specialized equipment. Some characters may have class abilities that allow them to attempt to climb such surfaces unaided.&lt;/p&gt;&#xA;&lt;h2 id=&#34;darkness&#34;&gt;&#xA;  Darkness&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#darkness&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Characters usually want to bring a light source with them on underground expeditions. Typical light sources enable normal vision within a 30’ radius.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Equipment &amp; Services</title>
       <link>http://localhost:1313/thievery/referees-guide/equipment-and-services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -29,11 +22,25 @@
       <description>&lt;h1 id=&#34;magical-research&#34;&gt;&#xA;  Magical Research&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#magical-research&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Many spell-casting character classes can also perform research into new spells, magic items, and other magical effects, as noted in the class description. This requires time, monetary outlay, and sometimes rare and unusual ingredients.&lt;/p&gt;&#xA;&lt;h2 id=&#34;chance-of-failure&#34;&gt;&#xA;  Chance of Failure&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#chance-of-failure&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;All forms of magical research have a minimum 15% chance of failure. If the research fails, the money and time invested are lost.&lt;/p&gt;&#xA;&lt;h2 id=&#34;creating-new-spells&#34;&gt;&#xA;  Creating New Spells&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#creating-new-spells&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The player must write up the spell they wish to create and show the referee. The referee then decides what level the spell will be and may request changes (or deem the magic impossible to research).&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Miscellaneous Treasures</title>
-      <link>http://localhost:1313/thievery/referees-guide/miscellaneous/</link>
+      <title>Adventures</title>
+      <link>http://localhost:1313/thievery/referees-guide/adventures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/thievery/referees-guide/miscellaneous/</guid>
-      <description></description>
+      <guid>http://localhost:1313/thievery/referees-guide/adventures/</guid>
+      <description>&lt;h1 id=&#34;hazards-and-challenges&#34;&gt;&#xA;  Hazards and Challenges&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hazards-and-challenges&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;climbing&#34;&gt;&#xA;  Climbing&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#climbing&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;When climbing in a difficult or pressured situation, the referee may require a DEX check to avoid falling.&lt;/p&gt;&#xA;&lt;h3 id=&#34;sheer-surfaces&#34;&gt;&#xA;  Sheer Surfaces&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#sheer-surfaces&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Very steep or sheer surfaces are usually only possible to climb with specialized equipment. Some characters may have class abilities that allow them to attempt to climb such surfaces unaided.&lt;/p&gt;&#xA;&lt;h2 id=&#34;darkness&#34;&gt;&#xA;  Darkness&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#darkness&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Characters usually want to bring a light source with them on underground expeditions. Typical light sources enable normal vision within a 30’ radius.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Running Adventures</title>
+      <link>http://localhost:1313/thievery/referees-guide/running-adventures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/referees-guide/running-adventures/</guid>
+      <description>&lt;h1 id=&#34;the-referees-role&#34;&gt;&#xA;  The Referee’s Role&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#the-referees-role&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;facilitator-of-fun-and-adventure&#34;&gt;&#xA;  Facilitator of Fun and Adventure&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#facilitator-of-fun-and-adventure&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The referee should bring to life exciting adventures for the group&amp;rsquo;s enjoyment.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Preparation:&lt;/strong&gt; Before the game begins, the adventure should be planned and the required maps drawn. Advice on adventure design is found in &lt;em&gt;&lt;strong&gt;Adventure Scenarios&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Designing a Dungeon&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Designing a Wilderness,&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;Designing a Base Town&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Improvisation:&lt;/strong&gt; Despite the referee’s preparation, predicting every possible player action is impossible. Players will come up with ideas that the referee has not even considered. Thus, the referee must remain flexible and roll with any unexpected turns the adventure might take!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monsters</title>
+      <link>http://localhost:1313/thievery/referees-guide/monsters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/referees-guide/monsters/</guid>
+      <description>&lt;h1 id=&#34;general&#34;&gt;&#xA;  General&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#general&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;game-statistics&#34;&gt;&#xA;  Game Statistics&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#game-statistics&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;The following statistics describe monsters.&lt;/p&gt;&#xA;&lt;h2 id=&#34;armor-class-ac&#34;&gt;&#xA;  Armor Class (AC)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#armor-class-ac&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The monster’s ability to avoid damage in combat.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ascending AC:&lt;/strong&gt; The optional AAC score is listed afterward in square brackets.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hit-dice-hd&#34;&gt;&#xA;  Hit Dice (HD)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hit-dice-hd&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The number of d8s rolled to determine an individual’s hit points.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Asterisks:&lt;/strong&gt; One or more asterisks after the HD number indicate the number of special abilities the monster has for XP calculation (see &lt;em&gt;&lt;strong&gt;Awarding XP&lt;/strong&gt;&lt;/em&gt;).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Monster List</title>
@@ -43,11 +50,18 @@
       <description></description>
     </item>
     <item>
-      <title>Monsters</title>
-      <link>http://localhost:1313/thievery/referees-guide/monsters/</link>
+      <title>Treasures</title>
+      <link>http://localhost:1313/thievery/referees-guide/treasures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/thievery/referees-guide/monsters/</guid>
-      <description>&lt;h1 id=&#34;general&#34;&gt;&#xA;  General&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#general&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;game-statistics&#34;&gt;&#xA;  Game Statistics&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#game-statistics&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;The following statistics describe monsters.&lt;/p&gt;&#xA;&lt;h2 id=&#34;armor-class-ac&#34;&gt;&#xA;  Armor Class (AC)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#armor-class-ac&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The monster’s ability to avoid damage in combat.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ascending AC:&lt;/strong&gt; The optional AAC score is listed afterward in square brackets.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hit-dice-hd&#34;&gt;&#xA;  Hit Dice (HD)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hit-dice-hd&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The number of d8s rolled to determine an individual’s hit points.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Asterisks:&lt;/strong&gt; One or more asterisks after the HD number indicate the number of special abilities the monster has for XP calculation (see &lt;em&gt;&lt;strong&gt;Awarding XP&lt;/strong&gt;&lt;/em&gt;).&lt;/p&gt;</description>
+      <guid>http://localhost:1313/thievery/referees-guide/treasures/</guid>
+      <description>&lt;h1 id=&#34;placing-treasure&#34;&gt;&#xA;  Placing Treasure&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#placing-treasure&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;There are two methods of deciding what treasure is in the possession of monsters: rolling randomly and referee choice.&lt;/p&gt;&#xA;&lt;h2 id=&#34;method-1-rolling-randomly&#34;&gt;&#xA;  Method 1: Rolling Randomly&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#method-1-rolling-randomly&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Monster listings note which treasure type is present in the creature’s lair and which it may carry on its person. See &lt;em&gt;&lt;strong&gt;Treasure Types&lt;/strong&gt;&lt;/em&gt; for details on how to roll treasure according to a treasure type letter code.&lt;/p&gt;&#xA;&lt;h3 id=&#34;manual-adjustments&#34;&gt;&#xA;  Manual Adjustments&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#manual-adjustments&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;If the value of the randomly generated treasure is significantly above or below the average value of the treasure type, the referee may adjust the results manually.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Miscellaneous Treasures</title>
+      <link>http://localhost:1313/thievery/referees-guide/miscellaneous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/referees-guide/miscellaneous/</guid>
+      <description></description>
     </item>
     <item>
       <title>Potions</title>
@@ -69,20 +83,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/thievery/referees-guide/rods-staves-wands/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Running Adventures</title>
-      <link>http://localhost:1313/thievery/referees-guide/running-adventures/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/thievery/referees-guide/running-adventures/</guid>
-      <description>&lt;h1 id=&#34;the-referees-role&#34;&gt;&#xA;  The Referee’s Role&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#the-referees-role&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;facilitator-of-fun-and-adventure&#34;&gt;&#xA;  Facilitator of Fun and Adventure&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#facilitator-of-fun-and-adventure&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The referee should bring to life exciting adventures for the group&amp;rsquo;s enjoyment.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Preparation:&lt;/strong&gt; Before the game begins, the adventure should be planned and the required maps drawn. Advice on adventure design is found in &lt;em&gt;&lt;strong&gt;Adventure Scenarios&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Designing a Dungeon&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Designing a Wilderness,&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;Designing a Base Town&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Improvisation:&lt;/strong&gt; Despite the referee’s preparation, predicting every possible player action is impossible. Players will come up with ideas that the referee has not even considered. Thus, the referee must remain flexible and roll with any unexpected turns the adventure might take!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Treasures</title>
-      <link>http://localhost:1313/thievery/referees-guide/treasures/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/thievery/referees-guide/treasures/</guid>
-      <description>&lt;h1 id=&#34;placing-treasure&#34;&gt;&#xA;  Placing Treasure&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#placing-treasure&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;There are two methods of deciding what treasure is in the possession of monsters: rolling randomly and referee choice.&lt;/p&gt;&#xA;&lt;h2 id=&#34;method-1-rolling-randomly&#34;&gt;&#xA;  Method 1: Rolling Randomly&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#method-1-rolling-randomly&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Monster listings note which treasure type is present in the creature’s lair and which it may carry on its person. See &lt;em&gt;&lt;strong&gt;Treasure Types&lt;/strong&gt;&lt;/em&gt; for details on how to roll treasure according to a treasure type letter code.&lt;/p&gt;&#xA;&lt;h3 id=&#34;manual-adjustments&#34;&gt;&#xA;  Manual Adjustments&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#manual-adjustments&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;If the value of the randomly generated treasure is significantly above or below the average value of the treasure type, the referee may adjust the results manually.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
