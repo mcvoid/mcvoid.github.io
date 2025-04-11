@@ -1,0 +1,35 @@
+{{ define "main" }}
+  {{ $pageTitle := .Title }}
+  {{ $pageTitle = split $pageTitle ":" }}
+  {{ $pageTitle := index $pageTitle 0 }}
+  <h1>{{ $pageTitle }}</h1>
+
+  {{ $folder := .Params.treasureFolder }}
+  {{ $path := printf "assets/%s" $folder }}
+  {{ $files := readDir $path }}
+  {{ $treasures := slice }}
+
+  {{ range $files }}
+    {{ $filepath := printf "%s/%s" $path .Name }}
+    {{ $content := readFile $filepath | markdownify }}
+
+    {{ $firstHeader := readFile $filepath }}
+    {{ $firstHeader := split $firstHeader "\n" }}
+    {{ $firstHeader := index $firstHeader 0 }}
+    {{ $firstHeader := strings.TrimPrefix "# " $firstHeader  }}
+    {{ $treasure := dict "content" $content "header" $firstHeader }}
+    {{ $treasures = append $treasure $treasures }}
+  {{ end }}
+
+  <ul>
+    {{ range $treasures }}
+      <li><a href="#{{ anchorize .header }}">{{ .header }}</a></li>
+    {{ end }}
+  </ul>
+
+
+  {{ range $treasures }}
+  {{ .content | safeHTML }}
+  {{ end }}
+
+{{ end }}

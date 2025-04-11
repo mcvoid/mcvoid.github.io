@@ -1,0 +1,12 @@
+{{ $name := .Get 0 }}
+{{ $filename := printf "%s.md" $name }}
+{{ $snippet := resources.Get $filename }}
+
+{{ if $snippet }}
+  {{ $rendered := $snippet | resources.ExecuteAsTemplate (printf "%s-rendered.md" $name) .Page }}
+  {{ $content := $rendered.Content | markdownify }}
+  {{ $content }}
+{{ else }}
+  {{ errorf "Warning: no match for file %s" $filename }}
+  <p><strong>Snippet not found:</strong> {{ $name }}</p>
+{{ end }}

@@ -1,0 +1,60 @@
+{{ define "main" }}
+  {{ $pageTitle := .Title }}
+  {{ $pageTitle = split $pageTitle ":" }}
+  {{ $pageTitle := index $pageTitle 0 }}
+  <h1>{{ $pageTitle }}</h1>
+
+  {{ $folder := .Params.spellFolder }}
+  {{ $path := printf "assets/%s" $folder }}
+  {{ $files := readDir $path }}
+  {{ $spells := slice }}
+
+  {{ range $files }}
+    {{ $name := .Name }}
+    {{ $trimmedName := strings.TrimSuffix ".md" .Name }}
+    {{ $matches := strings.Split $trimmedName "-" }}
+    {{ $level := index $matches 0 | strings.TrimSpace | cast.ToInt }}
+    {{ $title := index $matches 1 | strings.TrimSpace | title }}
+    {{ $filepath := printf "%s/%s" $path $name }}
+    {{ $content := readFile $filepath | markdownify }}
+
+    <!-- Extract the first header (e.g., # Detect Magic) -->
+    {{ $firstHeader := readFile $filepath }}
+    {{ $firstHeader := split $firstHeader "\n" }}
+    {{ $firstHeader := index $firstHeader 0 }}
+    {{ $firstHeader := strings.TrimPrefix "# " $firstHeader  }}
+    {{ $spells = $spells | append (dict "level" $level "title" $title "content" $content "header" $firstHeader) }}
+  {{ end }}
+
+  {{ $grouped := dict }}
+  {{ $levels := slice }}
+
+  {{ range $spells }}
+    {{ $lvl := printf "%d" .level }}
+    {{ $existing := index $grouped $lvl | default (slice) }}
+    {{ $updated := $existing | append . }}
+    {{ $grouped = merge $grouped (dict $lvl $updated) }}
+    {{ if not (in $levels $lvl) }}
+      {{ $levels = $levels | append $lvl }}
+    {{ end }}
+  {{ end }}
+
+  {{ $levels = sort $levels }}
+
+  {{ range $levels }}
+    {{ $level := . }}
+    <h3>Level {{ $level }}</h3>
+    <ul>
+      {{ range (index $grouped $level) }}
+        <li><a href="#{{ anchorize .header }}">{{ .header }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+  <hr>
+
+  {{ range sort $spells "title" }}
+    {{ .content | safeHTML }}
+  {{ end }}
+
+{{ end }}

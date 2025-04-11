@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mcvoid.org</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on mcvoid.org</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/thievery/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/license/</guid>
+      <description>&lt;h1 id=&#34;old-school-essentials-markdown-license&#34;&gt;&#xA;  Old School Essentials Markdown License&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#old-school-essentials-markdown-license&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;This Vault is Covered under Multiple Licenses.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;For all content belonging to the brand Old School Essentials and Necrotic Gnome, this content belongs to &#xA;  &lt;a href=&#34;https://oldschoolessentials.necroticgnome.com&#34;&gt;Necroticgnome&lt;/a&gt;. Any usage is either incidental, or needed to explain an OGL feature, and is covered under 17 U.S.C. § 110(1) otherwise known as Fair Use.&lt;/li&gt;&#xA;&lt;li&gt;All Official OSE content is covered under the Open Game License, which is included below.&lt;/li&gt;&#xA;&lt;li&gt;All original written and artistic content added to this repository is covered under &#xA;  &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC BY 4.0&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;All code included within this repository is covered under the &#xA;  &lt;a href=&#34;https://www.mozilla.org/en-US/MPL/2.0/&#34;&gt;Mozilla Public License (MPL) 2.0&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Authors of original content may include their own licenses with their submission. In which case, their license supercedes the default CC BY 4.0 and MPL 2.0&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;open-game-license-ogl&#34;&gt;&#xA;  Open Game License (OGL)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#open-game-license-ogl&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;designation-of-product-identity&#34;&gt;&#xA;  DESIGNATION OF PRODUCT IDENTITY&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#designation-of-product-identity&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;All artwork, logos, and presentation are product identity. The names “Necrotic Gnome” and “Old-School Essentials” are product identity. All text referencing such is product identity.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Adventures</title>
+      <link>http://localhost:1313/thievery/players-guide/adventures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/players-guide/adventures/</guid>
+      <description>&lt;h1 id=&#34;party-organisation&#34;&gt;&#xA;  Party Organisation&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#party-organisation&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Size:&lt;/strong&gt; The ideal group size is between 6 and 8 characters—large enough to confront the challenges of the adventure while not so large as to be disorganized. If not enough PCs are present, the players may wish to hire retainers (see &lt;em&gt;&lt;strong&gt;Retainers&lt;/strong&gt;&lt;/em&gt;).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Classes:&lt;/strong&gt; It is wise for a party to have a mix of characters from different adventuring classes. Combat-focused characters are essential for protecting the group from danger, while other classes each have magic or other special abilities to handle different situations that may arise in an adventure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Adventures: Thievery! Referee&#39;s Guide</title>
+      <link>http://localhost:1313/thievery/referees-guide/adventures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/referees-guide/adventures/</guid>
+      <description>&lt;h1 id=&#34;hazards-and-challenges&#34;&gt;&#xA;  Hazards and Challenges&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hazards-and-challenges&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;climbing&#34;&gt;&#xA;  Climbing&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#climbing&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;When climbing in a difficult or pressured situation, the referee may require a DEX check to avoid falling.&lt;/p&gt;&#xA;&lt;h3 id=&#34;sheer-surfaces&#34;&gt;&#xA;  Sheer Surfaces&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#sheer-surfaces&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Very steep or sheer surfaces are usually only possible to climb with specialized equipment. Some characters may have class abilities that allow them to attempt to climb such surfaces unaided.&lt;/p&gt;&#xA;&lt;h2 id=&#34;darkness&#34;&gt;&#xA;  Darkness&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#darkness&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Characters usually want to bring a light source with them on underground expeditions. Typical light sources enable normal vision within a 30’ radius.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Characters</title>
+      <link>http://localhost:1313/thievery/players-guide/characters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/players-guide/characters/</guid>
+      <description>&lt;h1 id=&#34;player-characters&#34;&gt;&#xA;  Player Characters&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#player-characters&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Game Statistics:&lt;/strong&gt; Player characters are described, in game terms, by a set of statistics that define their abilities, strengths, and weaknesses in the game world.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Creating a Character:&lt;/strong&gt; To create a character, you&amp;rsquo;ll first need a character sheet—a sheet of paper on which to record all information about the new character.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ability Scores:&lt;/strong&gt; A character&amp;rsquo;s score in each ability determines whether they have any bonuses or penalties associated with various actions in the game.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Alignment:&lt;/strong&gt; All beings, whether PCs, NPCs, or monsters, adhere to one of three philosophies or spheres of behavior, known as alignments.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; The native languages a player character speaks are determined by the character&amp;rsquo;s class.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;  &#xA;  &lt;h1 id=&#34;game-statistics&#34;&gt;&#xA;  Game Statistics&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#game-statistics&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Player characters are described, in game terms, by a set of statistics that define their abilities, strengths, and weaknesses in the game world.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Classes</title>
+      <link>http://localhost:1313/thievery/players-guide/classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/players-guide/classes/</guid>
+      <description>&lt;h1 id=&#34;character-classes&#34;&gt;&#xA;  Character Classes&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#character-classes&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;A &lt;em&gt;&lt;strong&gt;Class&lt;/strong&gt;&lt;/em&gt; is an adventuring profession to which the character belongs. A character’s class defines their primary abilities.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cleric:&lt;/strong&gt; Clerics are human adventurers who have sworn to serve a deity. They are trained for battle and channel the power of their deity.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dwarf:&lt;/strong&gt; Dwarves are stout, bearded demihumans, about 4’ tall and weighing about 150 pounds.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Elf:&lt;/strong&gt; Elves are slender, fey demihumans with pointed ears.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fighter:&lt;/strong&gt; Fighters are human adventurers dedicated to mastering the arts of combat and war.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Halfling:&lt;/strong&gt; Halflings are small, rotund demihumans with furry feet and curly hair.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Magic-User:&lt;/strong&gt; Magic-users are human adventurers whose study of arcane secrets has taught them how to cast spells.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Thief:&lt;/strong&gt; Thieves are human adventurers who live by their skills of deception and stealth.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;  &#xA;  &lt;h1 id=&#34;cleric&#34;&gt;&#xA;  Cleric&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cleric&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Requirements&lt;/td&gt;&#xA;          &lt;td&gt;None&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Prime requisite&lt;/td&gt;&#xA;          &lt;td&gt;WIS&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Hit Dice&lt;/td&gt;&#xA;          &lt;td&gt;1d6&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Maximum level&lt;/td&gt;&#xA;          &lt;td&gt;14&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Armor&lt;/td&gt;&#xA;          &lt;td&gt;Any, including shields&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Weapons&lt;/td&gt;&#xA;          &lt;td&gt;Any blunt weapons&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Languages&lt;/td&gt;&#xA;          &lt;td&gt;Alignment, Common&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;Clerics are adventurers sworn to the service of a deity. They are trained for battle and channel the power of their deity.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cleric Spells</title>
+      <link>http://localhost:1313/thievery/players-guide/cleric-spells/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/players-guide/cleric-spells/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Equipment &amp; Services</title>
+      <link>http://localhost:1313/thievery/players-guide/equipment-and-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/players-guide/equipment-and-services/</guid>
+      <description>&lt;h1 id=&#34;wealth&#34;&gt;&#xA;  Wealth&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#wealth&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Successful characters accumulate wealth from the spoils of their adventures. Treasure may take many forms, but money is often the most helpful form of treasure.&lt;/p&gt;&#xA;&lt;h2 id=&#34;money&#34;&gt;&#xA;  Money&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#money&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Gold pieces (gp) are the most common currency. Coins made of other metals—platinum (pp), electrum (ep), silver (sp), and copper (cp)—are also used. The conversion rates of coins are shown below.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;1 pp&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;1 gp&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;1 ep&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;1 sp&lt;/th&gt;&#xA;          &lt;th&gt;1 cp&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Value in pp&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1/5&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1/10&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1/50&lt;/td&gt;&#xA;          &lt;td&gt;1/500&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Value in gp&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1/2&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1/10&lt;/td&gt;&#xA;          &lt;td&gt;1/100&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Value in ep&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;10&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1/5&lt;/td&gt;&#xA;          &lt;td&gt;1/50&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Value in sp&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;50&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;10&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td&gt;1/10&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Value in cp&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;500&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;100&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;50&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;10&lt;/td&gt;&#xA;          &lt;td&gt;1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;starting-money&#34;&gt;&#xA;  Starting Money&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#starting-money&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;PCs begin play with 3d6 × 10 gold pieces.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Equipment &amp; Services: Thievery! Referee&#39;s Guide</title>
+      <link>http://localhost:1313/thievery/referees-guide/equipment-and-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/referees-guide/equipment-and-services/</guid>
+      <description>&lt;h1 id=&#34;rules-for-vehicles&#34;&gt;&#xA;  Rules for Vehicles&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#rules-for-vehicles&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;game-statistics&#34;&gt;&#xA;  Game Statistics&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#game-statistics&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;hull-points-hp&#34;&gt;&#xA;  Hull Points (hp)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hull-points-hp&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;The vehicle’s structural integrity and ability to keep moving when damaged. Analogous to a character’s hit points. A vehicle that reaches 0 hull points is destroyed.&lt;/p&gt;&#xA;&lt;h3 id=&#34;armor-class-ac&#34;&gt;&#xA;  Armor Class (AC)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#armor-class-ac&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;The vehicle’s ability to resist damage from attacks.&lt;/p&gt;&#xA;&lt;h3 id=&#34;movement-rate&#34;&gt;&#xA;  Movement Rate&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#movement-rate&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;The speed at which the vehicle can move. Every vehicle has a &amp;lsquo;&lt;strong&gt;base movement rate&amp;rsquo;&lt;/strong&gt; and an &amp;lsquo;&lt;strong&gt;encounter movement rate&amp;rsquo;&lt;/strong&gt; (noted in parentheses). The encounter movement rate is one-third of the base movement rate.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Magic</title>
+      <link>http://localhost:1313/thievery/players-guide/magic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/players-guide/magic/</guid>
+      <description>&lt;h1 id=&#34;rules-of-magic&#34;&gt;&#xA;  Rules of Magic&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#rules-of-magic&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Some character classes can memorize and cast magical spells. A spell consists of a pattern of magical energy memorized in a character’s mind. When a spell is cast, the spell is erased from the character’s mind until it is memorized again.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Arcane and divine magic:&lt;/strong&gt; Spells are either granted by a deity or higher power (&lt;em&gt;&lt;strong&gt;divine magic&lt;/strong&gt;&lt;/em&gt;) or learned by esoteric study (&lt;em&gt;&lt;strong&gt;arcane magic&lt;/strong&gt;&lt;/em&gt;).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Spell list:&lt;/strong&gt; The character’s class determines which spells they can cast. Each class has an associated list of spells.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Magic-User Spells</title>
+      <link>http://localhost:1313/thievery/players-guide/magic-user-spells/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/players-guide/magic-user-spells/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Magic: Thievery! Referee&#39;s Guide</title>
+      <link>http://localhost:1313/thievery/referees-guide/magic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/referees-guide/magic/</guid>
+      <description>&lt;h1 id=&#34;magical-research&#34;&gt;&#xA;  Magical Research&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#magical-research&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Many spell-casting character classes can also perform research into new spells, magic items, and other magical effects, as noted in the class description. This requires time, monetary outlay, and sometimes rare and unusual ingredients.&lt;/p&gt;&#xA;&lt;h2 id=&#34;chance-of-failure&#34;&gt;&#xA;  Chance of Failure&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#chance-of-failure&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;All forms of magical research have a minimum 15% chance of failure. If the research fails, the money and time invested are lost.&lt;/p&gt;&#xA;&lt;h2 id=&#34;creating-new-spells&#34;&gt;&#xA;  Creating New Spells&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#creating-new-spells&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The player must write up the spell they wish to create and show the referee. The referee then decides what level the spell will be and may request changes (or deem the magic impossible to research).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Miscellaneous Treasures: Thievery! Referee&#39;s Guide</title>
+      <link>http://localhost:1313/thievery/referees-guide/miscellaneous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/referees-guide/miscellaneous/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monster List: Thievery! Referee&#39;s Guide</title>
+      <link>http://localhost:1313/thievery/referees-guide/monster-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/referees-guide/monster-list/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monsters: Thievery! Referee&#39;s Guide</title>
+      <link>http://localhost:1313/thievery/referees-guide/monsters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/referees-guide/monsters/</guid>
+      <description>&lt;h1 id=&#34;general&#34;&gt;&#xA;  General&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#general&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;game-statistics&#34;&gt;&#xA;  Game Statistics&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#game-statistics&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;The following statistics describe monsters.&lt;/p&gt;&#xA;&lt;h2 id=&#34;armor-class-ac&#34;&gt;&#xA;  Armor Class (AC)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#armor-class-ac&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The monster’s ability to avoid damage in combat.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ascending AC:&lt;/strong&gt; The optional AAC score is listed afterward in square brackets.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hit-dice-hd&#34;&gt;&#xA;  Hit Dice (HD)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hit-dice-hd&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The number of d8s rolled to determine an individual’s hit points.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Asterisks:&lt;/strong&gt; One or more asterisks after the HD number indicate the number of special abilities the monster has for XP calculation (see &lt;em&gt;&lt;strong&gt;Awarding XP&lt;/strong&gt;&lt;/em&gt;).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Potions: Thievery! Referee&#39;s Guide</title>
+      <link>http://localhost:1313/thievery/referees-guide/potions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/referees-guide/potions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rings: Thievery! Referee&#39;s Guide</title>
+      <link>http://localhost:1313/thievery/referees-guide/rings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/referees-guide/rings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rods, Staves, &amp; Wands: Thievery! Referee&#39;s Guide</title>
+      <link>http://localhost:1313/thievery/referees-guide/rods-staves-wands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/referees-guide/rods-staves-wands/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Running Adventures: Thievery! Referee&#39;s Guide</title>
+      <link>http://localhost:1313/thievery/referees-guide/running-adventures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/referees-guide/running-adventures/</guid>
+      <description>&lt;h1 id=&#34;the-referees-role&#34;&gt;&#xA;  The Referee’s Role&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#the-referees-role&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;facilitator-of-fun-and-adventure&#34;&gt;&#xA;  Facilitator of Fun and Adventure&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#facilitator-of-fun-and-adventure&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The referee should bring to life exciting adventures for the group&amp;rsquo;s enjoyment.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Preparation:&lt;/strong&gt; Before the game begins, the adventure should be planned and the required maps drawn. Advice on adventure design is found in &lt;em&gt;&lt;strong&gt;Adventure Scenarios&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Designing a Dungeon&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Designing a Wilderness,&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;Designing a Base Town&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Improvisation:&lt;/strong&gt; Despite the referee’s preparation, predicting every possible player action is impossible. Players will come up with ideas that the referee has not even considered. Thus, the referee must remain flexible and roll with any unexpected turns the adventure might take!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Treasures: Thievery! Referee&#39;s Guide</title>
+      <link>http://localhost:1313/thievery/referees-guide/treasures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/referees-guide/treasures/</guid>
+      <description>&lt;h1 id=&#34;placing-treasure&#34;&gt;&#xA;  Placing Treasure&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#placing-treasure&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;There are two methods of deciding what treasure is in the possession of monsters: rolling randomly and referee choice.&lt;/p&gt;&#xA;&lt;h2 id=&#34;method-1-rolling-randomly&#34;&gt;&#xA;  Method 1: Rolling Randomly&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#method-1-rolling-randomly&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Monster listings note which treasure type is present in the creature’s lair and which it may carry on its person. See &lt;em&gt;&lt;strong&gt;Treasure Types&lt;/strong&gt;&lt;/em&gt; for details on how to roll treasure according to a treasure type letter code.&lt;/p&gt;&#xA;&lt;h3 id=&#34;manual-adjustments&#34;&gt;&#xA;  Manual Adjustments&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#manual-adjustments&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;If the value of the randomly generated treasure is significantly above or below the average value of the treasure type, the referee may adjust the results manually.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
