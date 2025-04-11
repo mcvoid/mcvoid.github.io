@@ -8,8 +8,6 @@
   </url><url>
     <loc>http://localhost:1313/thievery/referees-guide/adventures/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/thievery/players-guide/characters/</loc>
@@ -24,9 +22,9 @@
   </url><url>
     <loc>http://localhost:1313/thievery/players-guide/magic/</loc>
   </url><url>
-    <loc>http://localhost:1313/thievery/players-guide/magic-user-spells/</loc>
-  </url><url>
     <loc>http://localhost:1313/thievery/referees-guide/magic/</loc>
+  </url><url>
+    <loc>http://localhost:1313/thievery/players-guide/magic-user-spells/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
@@ -40,6 +38,8 @@
   </url><url>
     <loc>http://localhost:1313/thievery/referees-guide/potions/</loc>
   </url><url>
+    <loc>http://localhost:1313/thievery/referees-guide/</loc>
+  </url><url>
     <loc>http://localhost:1313/thievery/referees-guide/rings/</loc>
   </url><url>
     <loc>http://localhost:1313/thievery/referees-guide/rods-staves-wands/</loc>
@@ -51,8 +51,6 @@
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/thievery/</loc>
-  </url><url>
-    <loc>http://localhost:1313/thievery/referees-guide/</loc>
   </url><url>
     <loc>http://localhost:1313/thievery/referees-guide/treasures/</loc>
   </url>

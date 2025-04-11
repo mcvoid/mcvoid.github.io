@@ -22,7 +22,7 @@
       <description>&lt;h1 id=&#34;party-organisation&#34;&gt;&#xA;  Party Organisation&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#party-organisation&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Size:&lt;/strong&gt; The ideal group size is between 6 and 8 characters—large enough to confront the challenges of the adventure while not so large as to be disorganized. If not enough PCs are present, the players may wish to hire retainers (see &lt;em&gt;&lt;strong&gt;Retainers&lt;/strong&gt;&lt;/em&gt;).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Classes:&lt;/strong&gt; It is wise for a party to have a mix of characters from different adventuring classes. Combat-focused characters are essential for protecting the group from danger, while other classes each have magic or other special abilities to handle different situations that may arise in an adventure.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Adventures: Thievery! Referee&#39;s Guide</title>
+      <title>Adventures</title>
       <link>http://localhost:1313/thievery/referees-guide/adventures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/thievery/referees-guide/adventures/</guid>
@@ -57,7 +57,7 @@
       <description>&lt;h1 id=&#34;wealth&#34;&gt;&#xA;  Wealth&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#wealth&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Successful characters accumulate wealth from the spoils of their adventures. Treasure may take many forms, but money is often the most helpful form of treasure.&lt;/p&gt;&#xA;&lt;h2 id=&#34;money&#34;&gt;&#xA;  Money&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#money&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Gold pieces (gp) are the most common currency. Coins made of other metals—platinum (pp), electrum (ep), silver (sp), and copper (cp)—are also used. The conversion rates of coins are shown below.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;1 pp&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;1 gp&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;1 ep&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;1 sp&lt;/th&gt;&#xA;          &lt;th&gt;1 cp&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Value in pp&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1/5&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1/10&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1/50&lt;/td&gt;&#xA;          &lt;td&gt;1/500&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Value in gp&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1/2&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1/10&lt;/td&gt;&#xA;          &lt;td&gt;1/100&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Value in ep&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;10&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1/5&lt;/td&gt;&#xA;          &lt;td&gt;1/50&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Value in sp&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;50&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;10&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td&gt;1/10&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Value in cp&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;500&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;100&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;50&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;10&lt;/td&gt;&#xA;          &lt;td&gt;1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;starting-money&#34;&gt;&#xA;  Starting Money&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#starting-money&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;PCs begin play with 3d6 × 10 gold pieces.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Equipment &amp; Services: Thievery! Referee&#39;s Guide</title>
+      <title>Equipment &amp; Services</title>
       <link>http://localhost:1313/thievery/referees-guide/equipment-and-services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/thievery/referees-guide/equipment-and-services/</guid>
@@ -71,6 +71,13 @@
       <description>&lt;h1 id=&#34;rules-of-magic&#34;&gt;&#xA;  Rules of Magic&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#rules-of-magic&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Some character classes can memorize and cast magical spells. A spell consists of a pattern of magical energy memorized in a character’s mind. When a spell is cast, the spell is erased from the character’s mind until it is memorized again.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Arcane and divine magic:&lt;/strong&gt; Spells are either granted by a deity or higher power (&lt;em&gt;&lt;strong&gt;divine magic&lt;/strong&gt;&lt;/em&gt;) or learned by esoteric study (&lt;em&gt;&lt;strong&gt;arcane magic&lt;/strong&gt;&lt;/em&gt;).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Spell list:&lt;/strong&gt; The character’s class determines which spells they can cast. Each class has an associated list of spells.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Magic</title>
+      <link>http://localhost:1313/thievery/referees-guide/magic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thievery/referees-guide/magic/</guid>
+      <description>&lt;h1 id=&#34;magical-research&#34;&gt;&#xA;  Magical Research&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#magical-research&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Many spell-casting character classes can also perform research into new spells, magic items, and other magical effects, as noted in the class description. This requires time, monetary outlay, and sometimes rare and unusual ingredients.&lt;/p&gt;&#xA;&lt;h2 id=&#34;chance-of-failure&#34;&gt;&#xA;  Chance of Failure&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#chance-of-failure&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;All forms of magical research have a minimum 15% chance of failure. If the research fails, the money and time invested are lost.&lt;/p&gt;&#xA;&lt;h2 id=&#34;creating-new-spells&#34;&gt;&#xA;  Creating New Spells&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#creating-new-spells&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The player must write up the spell they wish to create and show the referee. The referee then decides what level the spell will be and may request changes (or deem the magic impossible to research).&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Magic-User Spells</title>
       <link>http://localhost:1313/thievery/players-guide/magic-user-spells/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -78,63 +85,56 @@
       <description></description>
     </item>
     <item>
-      <title>Magic: Thievery! Referee&#39;s Guide</title>
-      <link>http://localhost:1313/thievery/referees-guide/magic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/thievery/referees-guide/magic/</guid>
-      <description>&lt;h1 id=&#34;magical-research&#34;&gt;&#xA;  Magical Research&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#magical-research&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Many spell-casting character classes can also perform research into new spells, magic items, and other magical effects, as noted in the class description. This requires time, monetary outlay, and sometimes rare and unusual ingredients.&lt;/p&gt;&#xA;&lt;h2 id=&#34;chance-of-failure&#34;&gt;&#xA;  Chance of Failure&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#chance-of-failure&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;All forms of magical research have a minimum 15% chance of failure. If the research fails, the money and time invested are lost.&lt;/p&gt;&#xA;&lt;h2 id=&#34;creating-new-spells&#34;&gt;&#xA;  Creating New Spells&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#creating-new-spells&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The player must write up the spell they wish to create and show the referee. The referee then decides what level the spell will be and may request changes (or deem the magic impossible to research).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Miscellaneous Treasures: Thievery! Referee&#39;s Guide</title>
+      <title>Miscellaneous Treasures</title>
       <link>http://localhost:1313/thievery/referees-guide/miscellaneous/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/thievery/referees-guide/miscellaneous/</guid>
       <description></description>
     </item>
     <item>
-      <title>Monster List: Thievery! Referee&#39;s Guide</title>
+      <title>Monster List</title>
       <link>http://localhost:1313/thievery/referees-guide/monster-list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/thievery/referees-guide/monster-list/</guid>
       <description></description>
     </item>
     <item>
-      <title>Monsters: Thievery! Referee&#39;s Guide</title>
+      <title>Monsters</title>
       <link>http://localhost:1313/thievery/referees-guide/monsters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/thievery/referees-guide/monsters/</guid>
       <description>&lt;h1 id=&#34;general&#34;&gt;&#xA;  General&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#general&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;game-statistics&#34;&gt;&#xA;  Game Statistics&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#game-statistics&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;The following statistics describe monsters.&lt;/p&gt;&#xA;&lt;h2 id=&#34;armor-class-ac&#34;&gt;&#xA;  Armor Class (AC)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#armor-class-ac&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The monster’s ability to avoid damage in combat.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ascending AC:&lt;/strong&gt; The optional AAC score is listed afterward in square brackets.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hit-dice-hd&#34;&gt;&#xA;  Hit Dice (HD)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hit-dice-hd&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The number of d8s rolled to determine an individual’s hit points.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Asterisks:&lt;/strong&gt; One or more asterisks after the HD number indicate the number of special abilities the monster has for XP calculation (see &lt;em&gt;&lt;strong&gt;Awarding XP&lt;/strong&gt;&lt;/em&gt;).&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Potions: Thievery! Referee&#39;s Guide</title>
+      <title>Potions</title>
       <link>http://localhost:1313/thievery/referees-guide/potions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/thievery/referees-guide/potions/</guid>
       <description></description>
     </item>
     <item>
-      <title>Rings: Thievery! Referee&#39;s Guide</title>
+      <title>Rings</title>
       <link>http://localhost:1313/thievery/referees-guide/rings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/thievery/referees-guide/rings/</guid>
       <description></description>
     </item>
     <item>
-      <title>Rods, Staves, &amp; Wands: Thievery! Referee&#39;s Guide</title>
+      <title>Rods, Staves, &amp; Wands</title>
       <link>http://localhost:1313/thievery/referees-guide/rods-staves-wands/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/thievery/referees-guide/rods-staves-wands/</guid>
       <description></description>
     </item>
     <item>
-      <title>Running Adventures: Thievery! Referee&#39;s Guide</title>
+      <title>Running Adventures</title>
       <link>http://localhost:1313/thievery/referees-guide/running-adventures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/thievery/referees-guide/running-adventures/</guid>
       <description>&lt;h1 id=&#34;the-referees-role&#34;&gt;&#xA;  The Referee’s Role&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#the-referees-role&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;facilitator-of-fun-and-adventure&#34;&gt;&#xA;  Facilitator of Fun and Adventure&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#facilitator-of-fun-and-adventure&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The referee should bring to life exciting adventures for the group&amp;rsquo;s enjoyment.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Preparation:&lt;/strong&gt; Before the game begins, the adventure should be planned and the required maps drawn. Advice on adventure design is found in &lt;em&gt;&lt;strong&gt;Adventure Scenarios&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Designing a Dungeon&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Designing a Wilderness,&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;Designing a Base Town&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Improvisation:&lt;/strong&gt; Despite the referee’s preparation, predicting every possible player action is impossible. Players will come up with ideas that the referee has not even considered. Thus, the referee must remain flexible and roll with any unexpected turns the adventure might take!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Treasures: Thievery! Referee&#39;s Guide</title>
+      <title>Treasures</title>
       <link>http://localhost:1313/thievery/referees-guide/treasures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/thievery/referees-guide/treasures/</guid>
