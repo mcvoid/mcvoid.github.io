@@ -1,5 +1,5 @@
 ---
-title: "Rings: Thievery! Referee's Guide"
+title: "Rings"
 treasureFolder: "ose/8. Treasures/Rings"
 type: "treasure-list"
 ---

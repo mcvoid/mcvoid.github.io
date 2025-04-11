@@ -1,5 +1,5 @@
 ---
-title: "Magic: Thievery! Referee's Guide"
+title: "Magic"
 ---
 
 {{< snippet "ose/4. Magic/3. Magical Research" >}}

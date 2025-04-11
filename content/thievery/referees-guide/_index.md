@@ -1,5 +1,5 @@
 ---
-title: "Thievery! Referee's Guide"
+title: "Referee's Guide"
 ---
 
 # Thievery! Referee's Guide

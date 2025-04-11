@@ -1,5 +1,5 @@
 ---
-title: "Treasures: Thievery! Referee's Guide"
+title: "Treasures"
 ---
 
 {{< snippet "ose/8. Treasures/1. Placing Treasure" >}}

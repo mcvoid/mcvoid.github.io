@@ -1,5 +1,5 @@
 ---
-title: "Running Adventures: Thievery! Referee's Guide"
+title: "Running Adventures"
 ---
 
 {{< snippet "ose/6. Running Adventures/1. The Referee's Role" >}}

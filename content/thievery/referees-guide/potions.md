@@ -1,5 +1,5 @@
 ---
-title: "Potions: Thievery! Referee's Guide"
+title: "Potions"
 treasureFolder: "ose/8. Treasures/Potions"
 type: "treasure-list"
 ---

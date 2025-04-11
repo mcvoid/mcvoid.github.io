@@ -1,5 +1,5 @@
 ---
-title: "Equipment & Services: Thievery! Referee's Guide"
+title: "Equipment & Services"
 ---
 
 {{< snippet "ose/3. Equipment & Services/5. Rules for Vehicles" >}}

@@ -1,5 +1,5 @@
 ---
-title: "Monsters: Thievery! Referee's Guide"
+title: "Monsters"
 ---
 
 {{< snippet "ose/7. Monsters/1. General" >}}

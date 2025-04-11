@@ -1,5 +1,5 @@
 ---
-title: "Adventures: Thievery! Referee's Guide"
+title: "Adventures"
 ---
 
 {{< snippet "ose/5. Adventures/4. Hazards and Challenges" >}}
